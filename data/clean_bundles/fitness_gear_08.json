@@ -1,0 +1,77 @@
+{
+ "query_id": "fitness_gear_08",
+ "query": "篮球 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/174726812",
+   "title": "2025年高性价比篮球推荐-避入坑（  9月更新）",
+   "snippet": "二、篮球品牌. /1/大品牌. 斯伯bai丁Spalding、 Wilson 威尔胜、molten 摩腾、李宁、耐克 ...",
+   "anchor": {
+    "brand": "李宁"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://zhuanlan.zhihu.com/p/392237802",
+   "title": "室外篮球/室内篮球（斯伯丁/摩腾/威尔胜）篮球测评- 知乎",
+   "snippet": "这篇文章首先写一下篮球测评，其次推荐10款值得入手的高性价比篮球。测评内容主要是我入手的一些篮球中，挑选其中的两个，写一下相关的篮球测评，之前打过李宁篮球、斯伯丁 ...",
+   "anchor": {
+    "brand": "摩腾/Molten"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://tw.my-best.com/114081",
+   "title": "10 大籃球推薦排行榜 - mybest",
+   "snippet": "籃球推薦排行榜 · Molten. 7號籃球 ｜ BGR7D · Spalding斯伯丁. SP DownTown 7號橡膠籃球 · Nike. Nike ｜ 7號籃球 · Wilson. NBA DRV系列PLUS 7號橡膠籃球 · Vega. 2800 ...",
+   "anchor": {
+    "brand": "Molten"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.smzdm.com/ju/pinpai/spkx6w2/",
+   "title": "篮球品牌推荐 - 什么值得买",
+   "snippet": "什么值得买篮球品牌频道为您提供关于篮球的品牌信息，包括品牌介绍，品牌下的好物，品牌排行榜以及与篮球相关的其他品牌信息，了解更多篮球品牌信息就上值得买篮球品牌 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://jianghu.taobao.com/detail/47730_36724505",
+   "title": "篮球的最好品牌是什么？专业选手都这么选 - 淘江湖",
+   "snippet": "除了斯伯丁，威尔胜（Wilson）、摩腾（Molten）也在专业领域有很强表现，比如FIBA国际赛事常用摩腾，而Wilson是现役NBA的比赛用球。但综合历史、口碑与适配场景， ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://zhuanlan.zhihu.com/p/602068609",
+   "title": "各价位哪些品牌篮球值得推荐？篮球怎么选？斯伯丁、威尔胜、狂迷 ...",
+   "snippet": "包括预算和日常打的场地属于哪种类型，有时候如果不介意可以买二手打开了的牛皮球，威尔胜、斯伯丁、摩腾都可以，希望大家都能选到心仪且性价比高的篮球。 打开知乎查看更多 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://imsean.pixnet.net/blog/posts/4042402586",
+   "title": "籃球購買心得分享與推薦NIKE dominate TRUE GRIP+MOLTEN ...",
+   "snippet": "其實我各種球都買來在室內外打過,高價室內款的球,在戶外都不耐磨,而且會沾沙; 室外比較推薦使用700元以下的球款,但是多半手感不佳. 所以推薦WITESS十字紋 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.ezneering.com/%E7%B1%83%E7%90%83%E5%B0%88%E6%A5%AD%E6%8E%A8%E8%96%A6/",
+   "title": "2026最新10款熱門籃球專業推薦，專家網友一致好評推薦比較介紹",
+   "snippet": "最新人氣籃球推薦名單 · 【NIKE 耐吉】Nike Jordan Legacy 籃球7號耐磨控球佳合成皮室內外棕(JKI0285807) · 【SPALDING】Spalding Bounce 籃球7號室內外PU ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.sohu.com/a/245593926_612198",
+   "title": "好的篮球该怎么选？Wilson, Molten, 李宁和迪卡侬篮球初体验",
+   "snippet": "NBA Logo和总裁签名等等，但我作为一个打了十几年业余篮球，对运动装备有点追求的人，目前最喜欢的球是Wilson的。基本上每年都会买2个这个品牌的球，直到打到 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.ezneering.com/%E5%AE%A4%E5%A4%96%E7%B1%83%E7%90%83%E5%B0%88%E6%A5%AD%E6%8E%A8%E8%96%A6/",
+   "title": "2026最新10款熱門室外籃球專業推薦，專家網友一致好評 ...",
+   "snippet": "2026最新10款熱門室外籃球專業推薦，專家網友一致好評推薦比較介紹 · 1. 【NIKE 耐吉】籃球7號球室內室外GLOBAL EXPL 藍紅N100265343507 · 2. 【WILSON】 ..."
+  }
+ ]
+}

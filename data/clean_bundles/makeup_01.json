@@ -1,0 +1,77 @@
+{
+ "query_id": "makeup_01",
+ "query": "BB霜 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.cosme.net.tw/tags/109/ranking",
+   "title": "2026「BB霜」網友推薦排行榜Top9 [每週更新] - cosme",
+   "snippet": "每週不斷更新，網友用過推薦最好用的BB霜排行榜，根據膚質、年齡給予最適合你的選購建議，目前第一名：奶凍亮膚BB精華、第二名：光透白全效BB粉凝霜、第三名：自然美肌礦物BB ...",
+   "anchor": {
+    "brand": "Dior"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://huaren.us/showtopic.html?topicid=1479360",
+   "title": "麻烦大家推荐好用的bb霜 - 北美华人",
+   "snippet": "现在三十出头了，几个月前买的dior的Hydro life的bb霜，SPF30。好处是味道好闻，质地细腻，上脸很有光泽，遮瑕效果较好，坏处是颜色偏深偏黄，没有美白效果。 Dior系列的bb霜也有 ...",
+   "anchor": {
+    "brand": "dior"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://tw.my-best.com/28195",
+   "title": "妝髮造型師監製10 大BB霜推薦排行榜 - mybest",
+   "snippet": "BB霜推薦排行榜 · KOSE高絲. 雪肌精透亮煥白CC霜 · KATE凱婷. 零瑕肌密高遮瑕BB霜 · media媚點. 自然光感美肌BB霜 · MAYBELLINE 媚比琳. 純淨礦物極效幻膚BB凝露 · LANCOME ...",
+   "anchor": {
+    "brand": "KOSE"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://japanwithlovestore.com/zh-th/blogs/blogs/best-japanese-bb-creams",
+   "title": "5 款適合自己嘗試的日本BB 霜 - Japan With Love",
+   "snippet": "1. 值得一試的5 款日本BB 霜 · 1.1. Naturaglace BB霜- 適合所有膚質 · 1.2. Mama Butter BB 霜- 適合乾性肌膚 · 1.3. 花王Curel 妝前乳BB 霜- 敏感肌膚適用."
+  },
+  {
+   "rank": 5,
+   "url": "https://beaut.taobao.com/topic/BBshuang_71/889a0b36dce34576c9ff5bc85d9ed12a.html",
+   "title": "精准护肤视角下的BB霜推荐：法国莱蔻修颜隔离BB霜（自然色）",
+   "snippet": "黛韵荷妆YaChcVho BB霜：遮瑕持妆一绝，油皮干皮都适合的“万能选手”. 黛韵荷妆YaChcVho BB霜主打遮瑕、控油、持久，同时兼顾养肤功效，是混油皮和干皮用户都能 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.jd.com/phb/1316776a066d854ea248.html",
+   "title": "bb霜隔离霜品牌排行榜- 十大品牌- 京东",
+   "snippet": "bb霜隔离霜品牌排行榜 · TOP. 1. 卡姿兰（Carslan）气垫BB/BB霜 · TOP. 2. 高姿（COGI）气垫BB/BB霜 · TOP. 3. 珀莱雅（PROYA）气垫BB/BB霜 · TOP. 4. 婷美（TIMIER）气垫BB/BB霜 · TOP."
+  },
+  {
+   "rank": 7,
+   "url": "https://hk.cosme.net/ranking/380",
+   "title": "2026香港「BB霜」推薦好用排行榜Top20",
+   "snippet": "cosme每兩週更新香港網友推薦最好用BB霜產品排行榜，目前第一名：FASIO 空氣感長效防水BB霜、第二名：SHISEIDO MAQuillAGE Dramatic Nude Jelly BB、第三 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://hk.wamazing.com/media/article/a-2337/",
+   "title": "日本BB霜不藏私推薦！雪肌粹、INTEGRATE等8款必買商品睇呢篇",
+   "snippet": "雪肌粹的完美BB霜是一款可以輕鬆打造自然美肌的多功能產品，它不僅融合了精華液、乳液、乳霜、防曬、妝前底霜和粉底共6大功效，還兼具防曬係數SPF50+、 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://m.chinabgao.com/top/brand/80236.html",
+   "title": "2024年bb霜品牌排名汇总bb霜品牌排行榜_报告大厅",
+   "snippet": "一、品牌简介 · （一）Missha谜尚 · （二）卡姿兰CARSLAN · （三）MAYBELLINE美宝莲 · （四）L'OREAL巴黎欧莱雅 · （五）珀莱雅PROYA · （六）韩束KANS · （七）Dr.Jart+蒂佳婷 · （八） ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://tw.my-best.com/75471",
+   "title": "開箱10 大50歲BB霜推薦排行榜 - mybest",
+   "snippet": "開箱10 大50歲BB霜推薦排行榜 · No. 1. MAQUILLAGE | 心機真型膜力BB霜 · No. 2. Kanebo佳麗寶| COFFRET D'OR Cover Fit BB霜 · No. 3. astalift艾詩緹| 水精華BB霜 · No."
+  }
+ ]
+}

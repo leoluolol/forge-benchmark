@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_05",
+ "query": "深圳 商务酒店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://hk.trip.com/hotels/business-travel/city/cn/shenzhen.html",
+   "title": "深圳商務酒店推介 - Trip.com",
+   "snippet": "深圳有很多設有游泳池的商務旅行酒店。深圳好日子皇冠假日酒店(HK$848 起) 、深圳香格里拉大酒店(HK$665 起) 和深圳温德姆至尊酒店(HK$895 起) 都非常熱門。",
+   "anchor": {
+    "brand": "深圳香格里拉大酒店"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.tatlerasia.com/lifestyle/travel/shenzhen-luxury-hotels-zh-hant",
+   "title": "7間深圳高品質酒店推薦：中式庭院設計、西班牙風情⋯⋯俯瞰都市與 ...",
+   "snippet": "1. 深圳高品質酒店推薦：深圳文華東方酒店 · 2. 深圳高品質酒店推薦：深圳柏悦酒店 · 3. 深圳高品質酒店推薦：深圳瑞吉酒店 · 4. 深圳高品質酒店推薦：深圳四季 ...",
+   "anchor": {
+    "brand": "深圳四季酒店"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.kkday.com/zh-hk/blog/60016/shenzhen-hotel",
+   "title": "10大深圳酒店高CP值推介！2日1夜必睇！無邊際游泳池 - KKday",
+   "snippet": "1. 深圳福田口岸希爾頓歡朋酒店 · 2. 深圳四季酒店Four Seasons Hotel · 3. 深圳好日子皇冠假日酒店 · 4. 深圳大梅沙京基洲際度假酒店 · 5. 深圳硬石酒店Hard ...",
+   "anchor": {
+    "brand": "深圳四季酒店"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1064681/%E6%B7%B1%E5%9C%B3%E9%9D%9A%E6%99%AF%E9%85%92%E5%BA%9728%E9%96%93-%E6%B5%B8%E6%B5%B4%E7%9D%87%E6%B5%B7%E6%99%AF-100%E6%A8%93%E5%A4%9C%E6%99%AF-%E8%BF%91%E5%95%86%E5%A0%B4-%E4%BA%BA%E5%9D%87-129%E8%B5%B7",
+   "title": "深圳靚景酒店28間｜浸浴睇海景／100樓夜景／近商場／人均$129起",
+   "snippet": "深圳香格里拉大酒店（Shangri-La Shenzhen Hotel）位於深圳市羅湖區CBD，鄰近有購物商場、知名打卡地、景點等，而且10分鐘內可抵香港！酒店擁有522間客房及套房 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.hotels-in-shenzhen.com/zh/theme/business-hotels-6/15/",
+   "title": "商务酒店在深圳",
+   "snippet": "共298家住宿 · Golden Lustre International Hotel · Dx Hanyong Hotel · 深圳慢可可海景别墅（较场尾海岸线店） · Hongjia Hotel · The Bonanza Grand Hotel · Airlines Hotel."
+  },
+  {
+   "rank": 6,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97%E6%8E%A8%E4%BB%8B-%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97%E5%84%AA%E6%83%A0/shenzhen-hotel-KB",
+   "title": "【深圳酒店推介】低至買一送一! 精選17間深圳超靚酒店! - ReUbird",
+   "snippet": "當中包括金茂深圳JW萬豪酒店、四季酒店、龍華希爾頓逸林酒店等等，相信呢啲推介可以幫到你揾到心水嘅高質深圳酒店！ 多間高評價5星級酒店非常抵住，快啲預訂準備暑假出遊！"
+  },
+  {
+   "rank": 7,
+   "url": "https://www.booking.com/city/cn/shenzhen.zh-cn.html",
+   "title": "中国深圳10大推荐酒店（217元起） - Booking.com",
+   "snippet": "深圳华强广场酒店 · 深圳滨河时代萨和酒店 · 深圳福田华强北希尔顿欢朋酒店 · 深圳南山香格里拉 · 深圳国际会展中心洲际酒店 · 深圳憬居酒店 · Pagoda SSAW Hotel Bao'an ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://hotel.liontravel.com/place/cn-shenzhen",
+   "title": "深圳飯店推薦-酒店住宿優惠熱門攻略 - 雄獅旅遊",
+   "snippet": "深圳水都假日酒店 · 桔子飯店(深圳福田會展中心店) · 深圳南山假日酒店- IHG 旗下飯店 · 深圳東門智選假日酒店 · 深圳松崗滿京華樂品飯店 · 深圳深鐵鉑爾曼酒店 · 深圳中航城格蘭 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3%E6%96%B0%E9%85%92%E5%BA%97-%E6%B7%B1%E5%9C%B3%E7%A6%8F%E7%94%B0%E9%85%92%E5%BA%97-%E6%8E%A8%E4%BB%8B-%E7%A6%8F%E7%94%B0%E5%8F%A3%E5%B2%B8-%E5%83%B9%E9%8C%A2-%E4%BA%A4%E9%80%9A-034206899.html",
+   "title": "深圳福田酒店20間推介！人均低至$126.5起今年新開大賣東方美學 ...",
+   "snippet": "深圳福田新酒店1. 深圳濱河時代薩和酒店 · 延伸閱讀 · 深圳福田新酒店2. 深圳福田口岸季語酒店（會展中心店） · 深圳福田新酒店3. 深圳會展中心崗廈地鐵站亞朵X ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.shenzhencityhotels.com/zh/theme/business-hotels-6/",
+   "title": "商务酒店在深圳",
+   "snippet": "此5星级的深圳瑞吉酒店位于深圳市的商业区,还设有桑拿,面部护理和健身室. 该舒适的旅馆距离大劇院站地铁站有不到10分钟步行路程,距离深圳地王大厦有3分钟步行路程, ..."
+  }
+ ]
+}

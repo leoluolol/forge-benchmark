@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_01",
+ "query": "深圳 主题酒店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%97/",
+   "title": "【深圳親子酒店2026】15間必住親子酒店推介！房內滑梯/水上樂園",
+   "snippet": "今次小編為你整合最新深圳親子酒店推介，精選15間高CP值酒店，並劃分成「房內放電」、「一站式度假村」和「交通方便」三大類，更附有交通懶人包同預訂貼士，無論你嘅預算同需求 ...",
+   "anchor": {
+    "brand": "Marriott"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.runhotel.hk/bayarea/shenzhen-kids-family-hotels/",
+   "title": "【深圳親子酒店】滑梯房＋主題房酒店推介｜10間必住親子酒店合集",
+   "snippet": "深圳大型親子度假酒店推薦. 深圳華僑城洲際大酒店; 深圳大梅沙京基洲際度假酒店 · 深圳滑梯房＋親子主題房酒店. 空與海美宿; 深圳憬居酒店 · 深圳方便地點親子酒店. 深圳南山 ...",
+   "anchor": {
+    "brand": "空與海美宿"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60228531/%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1%E9%85%92%E5%BA%9710%E9%96%93-%E7%8E%BB%E7%92%83%E6%B3%B3%E6%B1%A0-%E6%B5%B7%E6%99%AF%E6%B5%B4%E7%BC%B8-%E5%A5%A2%E8%8F%AF%E6%97%8B%E8%BD%89%E6%A8%93-%E4%BA%BA%E5%9D%87-257%E8%B5%B7",
+   "title": "深圳打卡酒店10間｜玻璃泳池/海景浴缸/奢華旋轉樓/人均$257起 - HK01",
+   "snippet": "深圳美高梅酒店（MGM Shenzhen） · 五洲體育中心酒店 · 深圳中洲萬豪酒店（Shenzhen Marriott Hotel Nanshan） · 深圳南山博林天瑞喜來登酒店（Sheraton Shenzhen ...",
+   "anchor": {
+    "brand": "深圳美高梅酒店"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.kkday.com/zh-hk/blog/60016/shenzhen-hotel",
+   "title": "10大深圳酒店高CP值推介！2日1夜必睇！無邊際游泳池 - KKday",
+   "snippet": "1. 深圳福田口岸希爾頓歡朋酒店 · 2. 深圳四季酒店Four Seasons Hotel · 3. 深圳好日子皇冠假日酒店 · 4. 深圳大梅沙京基洲際度假酒店 · 5. 深圳硬石酒店Hard ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.trip.com/blog/shenzhen-family-hotels/",
+   "title": "【2026 深圳親子酒店推介】| 12 間親子主題客房、親子設施齊全",
+   "snippet": "1.奢華酒店：. 深圳大梅沙京基洲際度假酒店; 苫也·柚柑灣避世度假酒店 · 2.親子酒店：. 深圳南山益田威斯汀酒店; 深圳灣木棉花酒店 · 3.靚景酒店：."
+  },
+  {
+   "rank": 6,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E7%89%B9%E8%89%B2%E9%85%92%E5%BA%97/",
+   "title": "【深圳特色酒店2026】20間人氣特色住宿推介！親子／打卡 - 深圳貓",
+   "snippet": "特色酒店例子：深圳無印良品酒店、深圳瑞吉酒店、深圳文華東方酒店、深圳濱河時代ICON LAB艾墾酒店、深圳NOA諾岸酒店。 一間豪華酒店房間，擁有全景窗戶，俯瞰城市和海景，配 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.hotelscombined.hk/Hotel/Swan_Love_Shenzhen_Luohu_Hotel.htm",
+   "title": "深圳天鹅恋情侣主题酒店（罗湖店） - HotelsCombined",
+   "snippet": "天鵝戀酒店深圳羅湖店提供優質的服務和設施，以確保客人體驗極致的舒適。使用住宿的免費Wi-Fi，以隨時對外保持聯繫。在入住日期前，您可以安排機場接送服務，以確保您在 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/879255/%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%9756%E9%96%93%E6%8E%A8%E4%BB%8B-1%E5%88%86%E9%90%98%E5%88%B0%E5%9C%B0%E9%90%B5%E7%AB%99-%E7%84%A1%E6%95%B5%E6%B5%B7%E6%99%AF%E5%A5%97%E6%88%BF-%E4%BA%BA%E5%9D%87-103%E8%B5%B7",
+   "title": "深圳酒店56間推介｜1分鐘到地鐵站／無敵海景套房／人均$103起",
+   "snippet": "深圳濱河時代薩和酒店是亞朵集團旗下全新酒店品牌，於2025年開幕，以「閱讀與攝影」為主題，共有189間客房。酒店客房用色沉實穩重，配有SAVHE、LELABO等高端 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://utravel.com.hk/news/detail/20064952/%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97-%E6%B7%B1%E5%9C%B3%E5%8D%81%E9%96%93%E6%B5%B4%E7%BC%B8%E9%85%92%E5%BA%97%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%B5%B4%E7%BC%B8-%E9%9B%99%E4%BA%BA%E6%B5%B4%E7%BC%B8-%E8%A6%AA%E5%AD%90%E4%B8%BB%E9%A1%8C%E5%AE%A2%E6%88%BF",
+   "title": "深圳浴缸酒店10間推薦！海景打卡/雙人浴缸/親子主題客房 - U Travel",
+   "snippet": "追求景觀浴缸的話，編輯首推深圳大梅沙京基洲際度假酒店和深圳INNOBAY楹諾·小半灣民宿，它們部分甚至全部客房都有絕美海景浴缸，前者更有機會望到沙灘，後者則 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://hk.news.yahoo.com/%E7%88%B8%E5%AA%BD%E5%BF%85%E7%9D%87-11-%E9%96%93%E6%B7%B1%E5%9C%B3%E6%9C%80%E5%BC%B7%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%97-%E8%B7%B3%E5%BD%88%E5%BA%8A-%E5%9F%8E%E5%A0%A1%E4%B8%BB%E9%A1%8C-090100880.html",
+   "title": "爸媽必睇！11 間深圳最強親子酒店：跳彈床、城堡主題、兒童樂園全 ...",
+   "snippet": "想海景放空： 蛇口希爾頓、大梅沙京基洲際 · 想主題房/玩雪： 硬石酒店、觀瀾湖度假酒店 · 想鄰近樂園： 威尼斯英迪格（世界之窗）、黑森林酒店（華僑城） · 想 ..."
+  }
+ ]
+}

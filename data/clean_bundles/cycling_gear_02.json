@@ -1,0 +1,77 @@
+{
+ "query_id": "cycling_gear_02",
+ "query": "公路车 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "http://www.biketo.com/product/38751.html",
+   "title": "开学季：9款轻松入门公路车推荐 - 美骑网",
+   "snippet": "1、喜德盛2018款RX200公路自行车 · 2、JAVA新款佳沃CORSA钢架18速钢架公路车 · 3、迪卡侬入门Triban500公路车自行车 · 4、TREK崔克DOMANE AL 2 铝合金公路自行车2018新款.",
+   "anchor": {
+    "brand": "喜德盛"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://mathewbike.com/intermediate-road-bike-recommendation/",
+   "title": "2026公路車推薦：8+款專業車友最愛！中高階公路車完整評比",
+   "snippet": "2025公路車推薦：8+大熱門中高階公路車款評比 · 1. Propel Advanced 1 · 2. REACTO 8000 25' · 3. Langma Advanced Pro 0 SE · 4. Tarmac SL8 Expert · 5.",
+   "anchor": {
+    "brand": "捷安特"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.trekbikes.com/cn/zh_CN/road_buyers_guide/",
+   "title": "如何选择一辆公路自行车 - Trek Bikes",
+   "snippet": "Trek 的铝合金公路自行车采用了多种性能技术，并具有许多其他材质框架的相同特点。Trek 的Alpha 铝合金使用隐形焊接技术，外观高质量，非常耐用，价格实惠，是想要拥有敏捷性且 ...",
+   "anchor": {
+    "brand": "Trek"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "http://www.biketo.com/news/55652.html",
+   "title": "美骑快讯｜2025年度瓜车大盘点！谁才是你心中的最佳车型？",
+   "snippet": "最全能的模块化车型给到Canyon Grizl ，它并非仅限于碎石路，而是要打造一个适应性极强的自行车平台，可以根据骑手对探险骑行的各种需求进行调整。装上传统的弯把和硬叉，它 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.jd.com/phb/1318a4652cc08677c367.html",
+   "title": "公路车品牌排行榜 - 京东",
+   "snippet": "TOP. 1. 迪卡侬（DECATHLON）山地车 · 迪卡侬（DECATHLON） · TOP. 2. 喜德盛（xds）山地车 · TOP. 3. 永久（FOREVER）山地车 · TOP. 4. 京东京造山地车 · TOP. 5. 金武端（KIMMOORUI） ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.biketo.com/racing/35172.html",
+   "title": "开学季：9款值得买公路车推荐 - 美骑网",
+   "snippet": "1、Liv丽以芙捷安特Alight 2 DD 女式低跨点通勤公路自行车2098元 · 2、17年新款java 鱼雷siluro2 2998元 · 3、马德里1 烈风公路车自行车2999元 · 4、GIANT捷安特Contend 2 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://m.bjnews.com.cn/detail/1664367270168985.html",
+   "title": "如何选购一辆适合自己的自行车？看完这篇就全懂了 - 新京报",
+   "snippet": "选购自行车，价格在可接受范围内自然是首要因素。在此基础上，推荐选择一线国产或国际品牌。外观主要看个人喜好，与此同时，尽量选择有线下零售店 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://tw.my-best.com/9750",
+   "title": "專家監製10 大公路車推薦排行榜 - mybest",
+   "snippet": "公路車推薦排行榜 · StepDragon. 高碳鋼彎把公路車 ｜ SRS-520 · MERIDA. REACTO 5000 低風阻空氣動力碳纖跑車 · XDS喜德盛. 鋁合金碟刹14速彎把變速單車 ｜ RT180 · GIANT ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://db.m.auto.sohu.com/model_1131/a/497708166_121124683",
+   "title": "性价比极高的6款入门公路车推荐",
+   "snippet": "性价比极高的6款入门公路车推荐 · 1、喜德盛RX200公路自行车 · 2、JAVA佳沃CORSA钢架18速钢架公路车 · 3、迪卡侬Triban500公路车自行车 · 4、崔克DOMANE ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.zingala.com/blog/lazyguide/bicycle_brand",
+   "title": "【2025熱門腳踏車推薦品牌】10大新手、專業級車友一致好評車款！",
+   "snippet": "公路車入門推薦1：MERIDA 美利達史匹得SPEEDER 300 平把碟煞跑車 · 公路車入門推薦2：TREK Domane AL 3 Disc碟煞公路車 · 公路車入門推薦3：GIANT SCR 2 入門級 ..."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query_id": "personal_services_09",
+ "query": "深圳 瑜伽馆 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.cityhui.com/shenzhen/yujiaguan/",
+   "title": "2026深圳瑜伽馆排行榜 - 城市惠网",
+   "snippet": "优胜美地是国内知名瑜伽馆，曾被《ELLE》杂志评选为全球最HOT十佳瑜伽中心，多年来不仅是环球国际小姐大赛、爱马仕集团特邀的瑜伽课程供应商，还曾承办过中印瑜珈峰会北京站、 ...",
+   "anchor": {
+    "brand": "印瑜伽"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://huodong.com/venue/detail/eyKhB",
+   "title": "三仟瑜伽·知音女子- 深圳户外场地 - 活动网",
+   "snippet": "三仟瑜伽·知音女子是位于深圳市福田区的一家专注女性瑜伽练习的精品工作室，主打私密、安静与高质感的练习环境。场地选址于卓越时代广场2期，紧邻会展中心地铁站，交通 ...",
+   "anchor": {
+    "brand": "假日"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.echinacities.net/shenzhen/city-guide/A-Healthy-Body-Mind-Yoga-Classes-in-Shenzhen",
+   "title": "A Healthy Body & Mind: Yoga Classes in Shenzhen - eChinacities.com",
+   "snippet": "Let's explore some of the yoga studios operating in Shenzhen. 1) YogaLifeView In Map YogaLife provides an elegant and peaceful environment for practicing yoga.",
+   "anchor": {
+    "brand": "YogaLife"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://huodong.com/venue/detail/eyK0N",
+   "title": "NO CARD YOGA不办卡瑜伽(天利中央广场A座店) - 深圳场地 - 活动网",
+   "snippet": "NO CARD YOGA不办卡瑜伽（天利中央广场A座店）是深圳南山区一家主打灵活消费、无强制会员制的精品瑜伽工作室，位于高端商业综合体天利中央广场A座3310室。该场地以“不办 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://sz.jiaoyubao.cn/edu/szhtyjjy/about.html",
+   "title": "美誉哈他瑜伽培训简介 - 深圳- 教育宝",
+   "snippet": "美誉哈他瑜伽我们成立于2017年，是由一群热爱瑜伽的8090后发起成立的一家瑜伽专业培训学院，国家体育总局指定五星级场馆，国家健身瑜伽段位考评中心，也是深圳市罗湖区健身 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://huodong.com/venue/detail/eyKX9",
+   "title": "拉伽瑜伽·普拉提皇御苑会馆- 深圳场地 - 活动网",
+   "snippet": "拉伽瑜伽·普拉提皇御苑会馆位于深圳市福田区皇御苑内部皇御商城2楼，是一家专注于瑜伽与普拉提训练的精品工作室。该会馆环境静谧，空间布局合理，注重私密性与舒适度， ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://huodong.com/venue/detail/eyKPo",
+   "title": "爱尚瑜伽- 深圳户外场地 - 活动网",
+   "snippet": "爱尚瑜伽位于深圳市龙华区创新华庭西南门东南60米，是一家专注于哈他瑜伽、流瑜伽及阴瑜伽等主流课程的社区型瑜伽工作室。场地环境安静整洁，注重私密性与舒适度，适合初 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://huodong.com/venue/detail/eyKZX",
+   "title": "迦提瑜伽馆(摩尔城商业街店) - 深圳户外场地- 活动网",
+   "snippet": "馆内教练均持有RYT200或以上国际认证资质，具备3年以上教学经验，擅长根据学员身体条件调整体式。常规开设哈他、流瑜伽、修复瑜伽等团课，每周更新课表。私教课程按60分钟计费 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://huodong.com/venue/detail/eyKbU",
+   "title": "氢萌瑜伽普拉提(星河WORLD) - 深圳户外场地- 活动网",
+   "snippet": "氢萌瑜伽普拉提（星河WORLD）位于深圳市龙华区民治街道星河WORLD二期E栋1508，是一家专注于瑜伽与普拉提教学的精品工作室。场地环境安静整洁，采光良好，空间布局合理， ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://huodong.com/venue/detail/eyK9e",
+   "title": "NamasDay瑜伽学院·瑜快瘦- 深圳户外场地",
+   "snippet": "NamasDay瑜伽学院·瑜快瘦位于深圳市南山区华侨城创意文化园北区A1栋3楼303室，是一家专注于瑜伽教学与身心健康的精品瑜伽空间。该学院融合传统瑜伽体系与现代功能性训练 ..."
+  }
+ ]
+}

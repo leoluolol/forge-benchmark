@@ -1,0 +1,77 @@
+{
+ "query_id": "mobile_digital_03",
+ "query": "手机 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/340848190",
+   "title": "2026年（3月）手机挑选推荐攻略 - 知乎专栏",
+   "snippet": "iQOO Z10x是目前少有的高素质LCD屏手机，且在续航、性价比等方面也都比较不错。 亮点：. 搭载6500mAh电池，支持44W快充，续航体验不错；; 是目前少有的高素质LCD屏手机， ...",
+   "anchor": {
+    "brand": "iQOO"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://wap.zol.com.cn/top/cell_phone/",
+   "title": "【2026手机排行榜】手机什么牌子好_手机推荐排名 - ZOL报价",
+   "snippet": "中关村在线手机排行榜提供2026最新手机排名，为您推荐最受欢迎的手机型号，告诉您手机哪个牌子好，包括vivo排行榜,华为排行榜,OPPO排行榜,等详细内容，为您购买手机提供最 ...",
+   "anchor": {
+    "brand": "vivo"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://zhuanlan.zhihu.com/p/213819607",
+   "title": "小米、苹果、OPPO 、vivo、荣耀等高性价比手机推荐（4月更新）",
+   "snippet": "4、如果你不差钱，也没啥要求，看中综合性能，希望选个耐用的手机，那我推荐你买iPhone手机，其耐用性更强。 二、挑选手机品牌. 为什么要强调手机品牌呢？因为现在同价位的不同 ...",
+   "anchor": {
+    "brand": "OPPO"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://benchmarks.ul.com/zh-hans/compare/best-smartphones",
+   "title": "最佳智能手机和平板电脑- 2026 年5 月 - Benchmarks",
+   "snippet": "搜索最佳智能手机和平板电脑 ; 4. ZTE Nubia Z80 Ultra ; 5. Vivo iQOO 15 Ultra ; 6. Vivo X300 Pro ; 7. Oppo Find X9 Pro."
+  },
+  {
+   "rank": 5,
+   "url": "https://product.pconline.com.cn/hot/mobile/c15097/",
+   "title": "高性价比手机大全 - 产品报价",
+   "snippet": "高性价比手机大全 ; 1 · REDMI K90 Max · ￥2999 ; 2 · REDMI K80 · ￥2499 ; 3 · REDMI Turbo 4 Pro · ￥1999 ; 4 · REDMI K90 · ￥2599 ; 5 · REDMI Turbo 4 · ￥1999."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.jyes.com.tw/promotion/CP-ratio",
+   "title": "【2026年4月最新】高CP值手機推薦",
+   "snippet": "【2026年4月最新】高CP值手機推薦 · 5G vivo X300 (12G/256G) · 5G 三星S26 (12G/256G) · 5G 三星S25 FE (8G/256G) · 5G vivo X300 Pro (16G/512G) · 5G ASUS Zenfone 12 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.jd.com/phb/key_998718050827b22d5eac.html",
+   "title": "android手机推荐排行榜- 京东 - 又好又便宜",
+   "snippet": "android手机推荐排行榜 · TOP. 1. Unihertz Jelly Max 果冻迷你超小5英寸手机5G全网通智能便携礼物 · TOP. 2 · TOP. 3 · TOP. 4 · TOP. 5 · TOP. 6 · TOP. 7 · TOP. 8."
+  },
+  {
+   "rank": 8,
+   "url": "https://top.zol.com.cn/compositor/57/manu_167.html",
+   "title": "【2026手机排行榜】手机哪款好_手机推荐排名 - 中关村在线",
+   "snippet": "ZOL排行榜 · TOP 01. vivo X300 Ultra(12GB/256GB) · TOP 02. 华为畅享90 Pro Max 128GB · TOP 03. OPPO Find X9 Pro(12GB/256GB) · TOP 04. Redmi K90 Pro Max(12GB/256GB)."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.landtop.com.tw/ranks?type=AntutuScore",
+   "title": "高CP值手機排行榜 - 地標網通",
+   "snippet": "最佳效能CP值手機排行榜 · iQOO 15R · 小米17 · 小米15T Pro · 小米14T Pro · iQOO 15 · OPPO A6x · vivo X200 FE · OPPO Find X9."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.landtop.com.tw/reviews/344",
+   "title": "2026 中階手機推薦｜萬元以下vs 萬元以上CP 值排行榜與選購指南",
+   "snippet": "2026 萬元以下手機推薦排行榜（依CP 值排序） · Top 1：Samsung A56（系統穩定，整體體驗均衡） · Top 2：vivo V60 Lite（超大電池＋拍人像代表） · Top 3：Realme GT ..."
+  }
+ ]
+}

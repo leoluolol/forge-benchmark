@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_07",
+ "query": "深圳 度假村 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/",
+   "title": "【深圳渡假酒店推介2026】17間必住渡假酒店整合！人均$135起歎 ...",
+   "snippet": "深圳渡假酒店推薦：城市綠洲篇（南山/龍華區） · 1. 深圳藍楹灣度假酒店 · 2. 深圳蛇口希爾頓南海酒店 · 3. 深圳硬石酒店(Hard Rock Hotel).",
+   "anchor": {
+    "brand": "深圳硬石酒店"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://hk.trip.com/blog/shenzhen-resort-hotel/",
+   "title": "【深圳度假酒店2026】深圳度假酒店海邊度假+雙人浴缸+私人泳池",
+   "snippet": "【深圳度假酒店2026】深圳度假酒店海邊度假+雙人浴缸+私人泳池 · 1. 深圳藍楹灣度假酒店（Bay Breeze Resort） · 2. 深圳濱河時代ICON LAB艾墾酒店（ICON LAB Hotel Shenzhen ...",
+   "anchor": {
+    "brand": "深圳濱河時代"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1001524/%E6%B7%B1%E5%9C%B3%E5%BA%A6%E5%81%87%E9%A2%A8%E9%85%92%E5%BA%9710%E9%96%93%E6%8E%A8%E4%BB%8B-%E7%A7%81%E4%BA%BA%E6%B3%B3%E6%B1%A0%E5%8C%85%E6%97%A9%E9%A4%90-%E4%BA%BA%E5%9D%87-135%E8%B5%B7-%E8%BF%91%E9%87%91%E6%B2%99%E7%81%A3",
+   "title": "深圳度假風酒店10間推介！私人泳池包早餐／人均$135起／近金沙灣",
+   "snippet": "深圳金沙灣佳兆業萬豪酒店（Shenzhen Marriott Hotel Golden Bay）是坐落在「中國八大醉美海岸之一」的金沙灣、以海島風打造的度假酒店。酒店設計帶有東南亞 ...",
+   "anchor": {
+    "brand": "蜜悦"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E6%B7%B1%E5%9C%B3%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97-%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/shenzhen-hotel-staycation-GZ",
+   "title": "【低至44折】14間深圳度假酒店推介2026｜必住無敵海景 ... - ReUbird",
+   "snippet": "深圳度假酒店推介 · 1.【半露天希臘洞穴風泳池】深圳度假酒店- 蜜悦·深圳藍白聖島懸崖泡池美宿 · 2.【最佳日落】深圳度假酒店- 蜜悦·深圳聖托里尼海景度假美宿 · 3.【懸崖 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.kkday.com/zh-hk/blog/60016/shenzhen-hotel",
+   "title": "10大深圳酒店高CP值推介！2日1夜必睇！無邊際游泳池 - KKday",
+   "snippet": "【深圳】15大深圳酒店高CP值推介！2日1夜必睇！無邊際游泳池、美食悠閒任選擇！ · 1. 深圳福田口岸希爾頓歡朋酒店 · 2. 深圳四季酒店Four Seasons Hotel · 3."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.kayak.com.hk/%E6%B7%B1%E5%9C%B3-%E9%85%92%E5%BA%97_%E5%BA%A6%E5%81%87%E6%9D%91.Tresort.9007.hotel.ksp",
+   "title": "深圳度假村每晚HK$240起- KAYAK",
+   "snippet": "KAYAK用戶最受歡迎的深圳度假村分區是鹽田​，平均價格為HK$1,899​。深圳大梅沙京基洲際度假酒店（基礎房型加1元升級客房）​，深圳盐田凯悦酒店​和深圳美高梅是鹽田​評價 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://chinatraveljetso.com/%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/",
+   "title": "深圳渡假酒店推介2026｜入住五星級+包早晚餐＋無邊泳池＋SPA ...",
+   "snippet": "目錄 · 1. 深圳大梅沙京基洲際度假酒店 · 2. 深圳鹽田凱悅酒店 · 3. 觀瀾湖度假酒店 · 4. 深圳觀瀾山水田園酒店. 設施享樂型｜適合打卡放鬆、享受飯店設施 · 5. 深圳硬石 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.elle.com.hk/life/shenzhen-staycation-seaview",
+   "title": "深圳酒店Staycation 2025推薦！無邊際游泳池/打卡海景浴缸週末情侶 ...",
+   "snippet": "深圳硬石酒店位於國家5A級旅遊景區的觀瀾湖國際休閒旅遊度假區，鄰近親子好去處的觀瀾湖新城MHMall。酒店提供高爾夫球練習場、26/F 網紅天台戶外泳池、室外網球場、小型兒童 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.runhotel.hk/bayarea/shenzhen-resort-recommend/",
+   "title": "【深圳渡假酒店推介】放假放鬆之選酒店，絕美景觀打卡一流！",
+   "snippet": "深圳渡假酒店一覽 · 1. 深圳佳兆業萬豪酒店2017 年開業 · 2. 深圳藝棧ARTINN 民宿2017 年開業 · 3. 深圳奧比都斯民宿 2018 年開業 · 4. 深圳藍楹灣度假酒店 2018 年開業."
+  },
+  {
+   "rank": 10,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1%E9%85%92%E5%BA%97/shen-zhen-da-ka-jiu-dian-HM",
+   "title": "【10+深圳酒店打卡推薦】低至62折!絕美海景日落/夢幻城堡酒店！",
+   "snippet": "小編為您蒐集嘅絕佳深圳打卡酒店清單 · 深圳佳兆業萬豪酒店（龍崗區） · 蜜悦·深圳天麓秘野仙蹤度假美宿（鹽田區） · 深圳茵特拉根華僑城酒店（鹽田區） · 深圳深鐵皇冠假日酒店（ ..."
+  }
+ ]
+}

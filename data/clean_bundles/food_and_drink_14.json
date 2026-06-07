@@ -1,0 +1,77 @@
+{
+ "query_id": "food_and_drink_14",
+ "query": "深圳 面包店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://utravel.com.hk/news/detail/20078869/%E6%B7%B1%E5%9C%B3%E7%BE%8E%E9%A3%9F-%E6%B7%B1%E5%9C%B3-%E5%A4%A7%E4%BA%BA%E6%B0%A3%E9%BA%B5%E5%8C%85%E5%BA%97-%E6%89%8B%E4%BF%A1%E5%BF%85%E8%B2%B7%E8%B2%9D%E6%9E%9C-%E9%85%B8%E7%A8%AE%E9%BA%B5%E5%8C%85-%E6%B3%95%E5%BC%8F%E7%B3%95%E9%BB%9E",
+   "title": "深圳美食2026｜深圳6大人氣麵包店手信必買貝果/酸種麵包/法式糕點",
+   "snippet": "【暢玩北上！】 · 深圳人氣麵包店｜1. UH祐禾 · 深圳人氣麵包店｜2. BUTTERFUL&CREAMOROUS · 深圳人氣麵包店｜3. 窯滾麵包Maison Kamado · 深圳人氣麵包店｜4.",
+   "anchor": {
+    "brand": "UH祐禾"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60268139/%E6%B7%B1%E5%9C%B3%E7%BE%8E%E9%A3%9F-%E8%92%9C%E9%A6%99%E9%BA%B5%E5%8C%856%E9%96%93%E5%BF%85%E5%90%83-%E4%B8%89%E8%89%B2%E8%8A%9D%E5%A3%AB%E8%92%9C%E8%93%89%E6%B3%95%E5%8C%85%E5%A4%96%E6%AE%BC%E9%85%A5%E8%84%86%E8%8A%9D%E9%A6%99%E6%BF%83%E9%83%81",
+   "title": "深圳美食｜蒜香麵包6間必吃三色芝士蒜蓉法包外殼酥脆芝香濃郁",
+   "snippet": "深圳6間蒜香麵包推薦 · 1. 張張麵包店：TOP1招牌大蒜麵包 · 2. 夠夠麵包：蒜香芝士腸仔吐司 · 3. paper stone：三色芝士蒜蓉法包 · 4. 福氣鮮活麵包：蒜香乳酪包.",
+   "anchor": {
+    "brand": "paper stone"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://wanderlog.com/zh/list/geoCategory/4389/shenzhen%E7%9A%84%E5%AE%B6%E6%9C%80%E4%BD%B3%E9%9D%A2%E5%8C%85%E5%BA%97",
+   "title": "Shenzhen的32家最佳面包店",
+   "snippet": "Shenzhen的32家最佳面包店 · 1 泰昌饼家 · 2 城市客栈 · 3 深圳前海华侨城JW 万豪酒店 · 4 深圳华侨城洲际大酒店 · 5 Gontran Cherrier · 6 Maison Kayser (Tsim ...",
+   "anchor": {
+    "brand": "泰昌饼家"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.ulifestyle.com.hk/community/detailpost/83440f5f-c156-4148-be79-f182350fbd40/%E6%B7%B1%E5%9C%B3%E6%94%BB%E7%95%A5/%E6%B7%B1%E5%9C%B38%E5%A4%A7%E9%BA%B5%E5%8C%85%E5%BA%97%E5%90%88%E9%9B%86%E6%94%B6/Krystal/830828",
+   "title": "深圳8大麵包店合集🍞🥖🥯收藏下次去食‼️附交通教學🚗",
+   "snippet": "返深圳除咗去餐廳/cafe探店外,仲會去買麵包,好食嘅麵包店太多啦,今日就分享8大必買麵包店畀大家啦~1️⃣LOOP BAKERY(南山區)⏰營業時間:7:30 - 10:00 地址: ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://m.tech.china.com/hea/articles/20250811/202508111712888.html",
+   "title": "深圳面包店推荐：人气与口碑稳居前列的1-7 Bread必尝指南",
+   "snippet": "当您在深圳寻找优质面包店时，1-7 Bread 是一个强烈推荐且在本地人气与口碑榜单中稳居前列的必选品牌。作为2018年创立于深圳的本土烘焙标杆，1-7 Bread以其 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://eastweek.stheadline.com/fungba/8643/",
+   "title": "深圳手信新選擇| 精選南山、福田6間麵包店品秋冬經典甜品肉桂卷一文睇 ...",
+   "snippet": "1.CHOCMONS巧克力怪獸 · 2.AMINO BAKEHOUSE · 3.Cycle&Cycle · 4.bamu bakery八目烘焙 · 5.the MARKET by FABRIC · 6.幸鄰食堂."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.wenweipo.com/a/202510/24/AP68fad560e4b0b770e47db7be.html",
+   "title": "盤點深圳麵包寶藏！顏值與美味共存- 香港文匯網",
+   "snippet": "法式麵包店BUTTERFUL & CREAMOROUS（B&C）裝潢復古華麗，獲封麵包界愛馬仕，各種糕點麵包精緻又美味；小店BAKER'S BASE日系原木風打卡最強，必食法式可頌（牛角包 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://hk.trip.com/moments/detail/shenzhen-26-131974943/",
+   "title": "深圳挺好吃的麵包 - Trip.com",
+   "snippet": "露絲卡文•世界冠軍麵包(皇庭廣場店) 福華三路118號皇庭廣場G層G-8A號商鋪「深圳挺好吃的麵包 」 經過看見,世界冠軍麵包,就試一下 超多種類 (有試 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://m.bendibao.com/show801963_2.html",
+   "title": "深圳好吃的面包店排名",
+   "snippet": "深圳好吃的面包店排名 ; top.3黑池口感烘焙 ; 好评度： 2705 ; 人均：130元| 口味：8.8 | 环境：8.9 | 服务：9.0 ; 食客评价 ; top.4 GE BAKE."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.timeout.com.hk/hong-kong/hk/%E6%97%85%E9%81%8A/%E6%B7%B1%E5%9C%B3%E6%89%8B%E4%BF%A12025%EF%BD%9C%E6%9C%80%E6%96%B0%E5%BF%85%E8%B2%B7%E6%B7%B1%E5%9C%B3%E4%BC%B4%E6%89%8B%E7%A6%AE%E6%8E%A8%E4%BB%8B%EF%B8%B0%E9%BA%B5%E5%8C%85%E7%95%8C%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%8F%E7%91%9E%E5%A3%AB%E5%8B%9E%E6%96%AF%E8%90%8A%E6%96%AF%EF%BC%8F%E7%88%86%E9%A4%A1%E8%8A%8B%E6%B3%A5%E8%9B%8B%E7%B3%95%EF%BC%8F%E6%84%9B%E7%91%AA%E4%BB%95%E7%B4%9A%E6%9C%B1%E5%8F%A4%E5%8A%9B",
+   "title": "深圳手信2025｜最新必買深圳伴手禮推介︰麵包界天花板／瑞士勞斯 ...",
+   "snippet": "北上深圳六大手信推介 · The Roll'ing：瑞士卷界勞斯萊斯 · 鮑師傅糕點：人龍瘋搶肉鬆小貝 · 澤田本家︰創意冰凍銅鑼燒 · 虎岤︰爆餡芋泥虎皮蛋卷 · 卡瑪王子：現場 ..."
+  }
+ ]
+}

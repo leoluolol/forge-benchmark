@@ -1,0 +1,77 @@
+{
+ "query_id": "cycling_gear_06",
+ "query": "自行车坐垫 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://web.phb123.com/pinpai/top55333.html",
+   "title": "2026年自行车坐垫十大品牌排行榜",
+   "snippet": "自行车坐垫十大品牌排行榜 · 骑兵连/CAVALRY · 洛克兄弟/ROCKBROS · 志动 · SolarStorm · 魔轮 · Yaphtes · TOOKTRO · 喜德盛/XDS.",
+   "anchor": {
+    "brand": "ROCKBROS"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://tw.my-best.com/116277",
+   "title": "專家監製10 大公路車坐墊推薦排行榜 - mybest",
+   "snippet": "推薦十大公路車坐墊人氣排行榜 · PRO. STEALTH Superlight 碳纖維座墊 · Selle Italia. BOOST 義製專業級公路車座墊 ｜ SP-01 · SELLE SMP. 義大利製VT30C 短鼻頭 · PRO.",
+   "anchor": {
+    "brand": "Selle Italia"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.jd.com/phb/1318e0bbb6eb08d8366a.html",
+   "title": "自行车坐垫品牌排行榜 - 又好又便宜",
+   "snippet": "2000人好评. 这款坐垫确实很好，骑久了屁股也不疼，比原来的坐垫好很多，以前一直疼，屁股疼的无法骑车。 塔斯队长自行车坐垫套柔软加厚硅胶减震山地公路车鞍座垫套骑行 ...",
+   "anchor": {
+    "brand": "塔斯队长"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.pro-bikegear.com/tw/saddle-selector",
+   "title": "PRO 座墊篩選器",
+   "snippet": "PRO 座墊選擇器將引導您選擇自己的騎乘風格、確定您的柔軟度和騎乘時的坐姿，以及選擇所需的座墊性能等級，進而縮小選擇範圍。尋找時，如果您尚未測量坐骨寬度或進行騎乘姿勢 ..."
+  },
+  {
+   "rank": 5,
+   "url": "http://www.biketo.com/news/44101.html",
+   "title": "守护好屁股10款最佳山地车坐垫测试（上） - 美骑网",
+   "snippet": "Deva是WTB最受欢迎的坐垫设计之一，它具有专为女性车手设计的造型，同时内部拥有宽大的DNA填充物，以及短鼻设计和扁平的轮廓。尽管从技术上讲它是专为女性车手设计的，但它也 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.cycling-update.info/activity/new-arrival/4399-9-short-nosed-saddles",
+   "title": "短鼻座墊正夯9款主打產品報你知- 單車誌-Cycling update",
+   "snippet": "Pro Stealth系列座墊針對不同騎乘者風格推出一般款（Team／Performance）及曲線款（Curved Team／Curved Performance），前者適合競賽騎乘，後者適合舒適騎乘。兩 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.biketo.com/news/46515.html",
+   "title": "美骑快讯｜号称最舒服的自行车座居然是骗人的",
+   "snippet": "这款Cyclemate采用了腹肌形状的设计，据说保持臀部的通风透气。与坐垫的接触面则是一种防滑材料，可以让坐垫套牢牢固定住。 最神奇的地方是它里面填充的是 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://m.yiche.com/baike/28039497.htm",
+   "title": "自行车坐垫品牌推荐_易车百科",
+   "snippet": "以下是一些知名的自行车坐垫品牌，以及它们的特点： 1. Selle Royal（塞尔皇家） - 成立于1950年，总部位于意大利。Selle Royal以其高品质、舒适性和创新设计而闻名。"
+  },
+  {
+   "rank": 9,
+   "url": "https://www.biketo.com/news/42595.html",
+   "title": "众望所归多款短鼻公路车坐垫推荐 - 美骑网",
+   "snippet": "什么是短鼻坐垫？ · Prologo Dimension坐垫 · Bontrager Aeolus坐垫 · PRO STEALTH坐垫 · 闪电POWER EXPERT坐垫 · San Marco SHORTFIT坐垫 · 捷安特CADEX BOOST坐垫（未开售）."
+  },
+  {
+   "rank": 10,
+   "url": "https://cycling.biji.co/index.php?q=news&act=info&id=95010&subtitle=%25E3%2580%2590%25E8%25A3%259D%25E5%2582%2599%25E3%2580%2591%25E5%259D%2590%25E5%25A2%258A%25E7%259F%25A5%25E5%25A4%259A%25E5%25B0%2591",
+   "title": "【裝備】坐墊知多少 - 自行車筆記",
+   "snippet": "依據不同的傾角，各大廠牌也是有推出不同的類型坐墊來因應不同的骨盆類型。舉例來說：Specialized 的Romin，雖然大家都很推薦，但這款其實比較適合骨盆前傾的 ..."
+  }
+ ]
+}

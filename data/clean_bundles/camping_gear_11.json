@@ -1,0 +1,77 @@
+{
+ "query_id": "camping_gear_11",
+ "query": "登山包 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/526492887",
+   "title": "户外登山包推荐，登山包背负系统怎么选，户外登山包【精选10家 ...",
+   "snippet": "推荐品牌：探路者、骆驼、凯乐石、Osprey、Gregory、始祖鸟、花岗岩、Deuter、Lowe Alpine等。 专业登山露营. 推荐类型：挑选专业的登山包，一般以外支架背包为主。 容量大小： ...",
+   "anchor": {
+    "brand": "Osprey"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://travelholicfun.com/hiking-backpack-recommendation/",
+   "title": "10大款式推薦｜12大選購重點｜3個背登山包登山的理由 - 工程師愛爬山",
+   "snippet": "十大登山包推薦 · GREGORY STOUT 45L 專業健行登山背包幻影藍〔男〕 · GREGORY AMBER 44L 專業健行登山背包火鶴紅〔女〕 · deuter AIRCONTACT LITE 40+10L ...",
+   "anchor": {
+    "brand": "GREGORY"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.shaner.com.tw/%E7%99%BB%E5%B1%B1%E5%8C%85%E6%80%8E%E9%BA%BC%E6%8C%91%E7%B8%BD%E8%A6%BD",
+   "title": "登山包款式這麼多要如何下手？精選6款登山包經驗比較，原來挑背包 ...",
+   "snippet": "42L大黃蜂背包：靈感來自大黃蜂，是SHANER最輕的過夜背包，適合2-3天的登山行程。 · 28L背包：適合單日郊山或中級山行程，也可用於2天1夜的小旅行，有多種顏色可選。",
+   "anchor": {
+    "brand": "SHANER"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.jd.com/phb/1318c3095a3fc452d807.html",
+   "title": "登山包排名榜品牌排行榜 - 又好又便宜",
+   "snippet": "登山包排名榜品牌排行榜 · TOP. 1. MYSTERY RANCH背包 · MYSTERY RANCH · TOP. 2. OSPREY背包 · OSPREY · TOP. 3. 迪卡侬（DECATHLON）背包 · TOP. 4. 伯希和（Pelliot）背包 · TOP."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.sohu.com/a/745947858_121709169",
+   "title": "登山包不只有Osprey和Gregory，带你了解全球4大知名登山包品牌",
+   "snippet": "提到登山包，大多数友友第一时间想到的是Osprey和Gregory。Osprey以时尚、创新而著称；Gregory注重人体工学设计和舒适性，以提供登山者最佳的背负体验。 除了 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.88sport.com.tw/blog/Select-backpack",
+   "title": "[男/女登山新手推薦必看] 如何選購最適合的登山包？（登山背包品牌 ...",
+   "snippet": "背長（背長長度＝第七頸椎至髖骨的長度 · （短程）一日健行背包：20-30公升 · （中程）兩-三日登山包：30-50公升 · （長程）三日以上登山包：50公升以上."
+  },
+  {
+   "rank": 7,
+   "url": "https://gohiking86.com/how-to-choose-a-hiking-pack/",
+   "title": "如何选择一款适合自己的爬山背包？日行徒步vs 露营徒步以及日行 ...",
+   "snippet": "几款日行徒步背包推荐 · Osprey Daylite背包： · 功能更丰富的选择Osprey Talon： · Deuter Speed Lite 20背包： · Gregory Nano H2O水袋包： · REI Co-op Flash 22 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.uparis.org/ustory/%E7%99%BB%E5%B1%B1%E5%8C%85%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97",
+   "title": "登山包选购指南 - 巴黎户外",
+   "snippet": "Mammut 的Neon Gear 45 是一款高品质的背包，经济实惠，专为将装备拖到岩壁而设计。它具有45 升的容量和全拉链背板，可轻松取用快装、鞋子、绳索等。Neon ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://world.taobao.com/lang/zh-tw/shopping-guide/1910278396881928192.htm",
+   "title": "背包控看過來！專業登山客悄悄換包的5大神級品牌實測分享 ... - 淘寶",
+   "snippet": "資深登山客分享了五個專業登山背包品牌的實測結果，包括Osprey、Deuter、Arc'teryx、Montbell和The North Face (Pro系列)，詳細介紹了各品牌的特點和 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.gregorytaiwan.com.tw/backpack-recommendation.html",
+   "title": "『登山背包推薦』如何選擇登山包？ - GREGORY 背包",
+   "snippet": "登山背包推薦 · DEUTER AIRCONTACT LITE 40+10L 40+10L 拔熱式透氣登山包 · OSPREY Rook 65L 專業輕量透氣登山包 · LOWE ALPINE Cerro Torre 65:85L 輕量 ..."
+  }
+ ]
+}

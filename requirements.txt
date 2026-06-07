@@ -1,0 +1,7 @@
+# The core FORGE harness (forge/) has NO third-party dependencies — pure Python ≥3.9.
+# Install the package itself with:  pip install -e .
+#
+# Optional extras you may want when running your own models / analysis:
+#   openai            # if you query OpenAI-compatible endpoints for your own outputs
+#   pandas            # convenient results aggregation
+#   matplotlib        # plotting the leaderboard

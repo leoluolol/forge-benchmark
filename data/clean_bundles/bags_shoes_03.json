@@ -1,0 +1,77 @@
+{
+ "query_id": "bags_shoes_03",
+ "query": "围巾 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/251247056",
+   "title": "送女友|男友围巾品牌推荐，围巾什么材质好，围巾怎么选不会出错",
+   "snippet": "siggi围巾是我个人比较推荐的品牌，知名度挺高，围巾价格范围从100-300元不等，有韩版风格的，日系风格的，纯色风格，纯羊毛风格等，颜色和款式上都会多很多，选择性大，尤其是女生 ...",
+   "anchor": {
+    "brand": "siggi"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.elle.com/tw/fashion/hot-acc/g42301651/scarves-brands/",
+   "title": "10款精品圍巾入門推薦！Burberry經典格紋，LV、Gucci老花 - ELLE",
+   "snippet": "10款精品圍巾入門推薦！Burberry經典格紋，LV、Gucci老花、Loewe喀什米爾羊毛保暖又百搭 · 精品圍巾推薦1.Louis Vuitton · 精品圍巾推薦2.Celine · 精品圍巾 ...",
+   "anchor": {
+    "brand": "Burberry"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://zhuanlan.zhihu.com/p/331711086",
+   "title": "2026年秋冬围巾品牌推荐：羊毛|羊绒围巾什么牌子好？适合送女朋友 ...",
+   "snippet": "实力推荐marjakurki和AIu品牌，marjakurki主要都是经典色，是芬兰的实力品牌，羊毛围巾和羊绒围巾都做了推荐，非常适合送礼使用。AIu主要做羊绒材质，都是经典配色，价格在1000内 ...",
+   "anchor": {
+    "brand": "marjakurki"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.burberry.cn/l/womens-accessories/scarves/",
+   "title": "女士羊毛羊绒围巾与丝巾 - Burberry 博柏利",
+   "snippet": "博柏利女士围巾系列创意融入Burberry 格纹和新季印花等多样元素，碰撞温暖羊绒、羊毛和轻盈丝质等精选材质。"
+  },
+  {
+   "rank": 5,
+   "url": "https://zhuanlan.zhihu.com/p/1971985438920144779",
+   "title": "精选10+有质感的羊绒围巾品牌分享——冬季送爸妈",
+   "snippet": "芬兰高端丝巾、围巾设计品牌，以高级配色定格质感，凭考究做工彰显品质，是高雅与时尚的代名词。在国内市场的溢价没那么高，是追求雅致与大牌名气的优选。 第一款：英伦格子100% ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.jd.com/phb/1315397524ad0068f666.html",
+   "title": "羊毛围巾品牌排行榜 - 京东",
+   "snippet": "总体而言，这是一款兼具美观与实用的围巾，强烈推荐给追求品质与风格的朋友们。 TOP. 7. 纳维凯尔（Navigare）女士丝巾/围巾/披肩 · 纳维凯 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://zhuanlan.zhihu.com/p/273464813",
+   "title": "轻奢围巾/丝巾有哪些品牌？Burberry/Gucci/范思哲哪个 ... - 知乎专栏",
+   "snippet": "在丝巾和围巾品牌市场，除了爱马仕，咱就得看看Burberry品牌，有自己特色设计，品牌知名度非常不错。 Burberry围巾：经典的格纹制作，太容易撞款的围巾了. 我给大家推荐的是含有 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.sohu.com/a/437612090_115837",
+   "title": "冬天必备的羊绒围巾！这14个品牌高级好看又温暖 - 搜狐",
+   "snippet": "德国设计师品牌Jil Sander因其性冷淡的风格，这两年也很受欢迎，他家最近也推出了一款围巾，采用100%羊绒材质，表面是螺纹针织的花纹，风格比较中性， ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://popbee.com/accessories/women-scarf-brand-products-items",
+   "title": "秋冬圍巾推薦：10＋ 人氣款式，由小眾品牌Maison Kitsuné 到經典的 ...",
+   "snippet": "每年換一條新的吧～ · 圍巾推薦#1 Louis Vuitton LV Essential Scarf · 圍巾推薦#2 Wool cashmere scarf with Interlocking G · 圍巾推薦#3 Prada small ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://fashion.ettoday.net/news/3082444",
+   "title": "2025高CP平價圍巾推薦！UNIQLO、GU百元價入手 - ET Fashion",
+   "snippet": "這條GU的STYLE-HEAT圍巾完全是冬天CP值之王！主打保暖又輕量的STYLE-HEAT機能材質，上身立刻感受到蓄熱效果，卻不會厚重笨拙。觸感柔軟、貼膚不刺癢，長度也很 ..."
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{"query_id": "apparel_basics_01", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "POLO衫", "query": "POLO衫 推荐"}
+{"query_id": "apparel_basics_02", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "T恤", "query": "T恤 推荐"}
+{"query_id": "apparel_basics_03", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "休闲裤", "query": "休闲裤 推荐"}
+{"query_id": "apparel_basics_04", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "半身裙", "query": "半身裙 推荐"}
+{"query_id": "apparel_basics_05", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "卫衣", "query": "卫衣 推荐"}
+{"query_id": "apparel_basics_06", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "棉服", "query": "棉服 推荐"}
+{"query_id": "apparel_basics_07", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "毛呢大衣", "query": "毛呢大衣 推荐"}
+{"query_id": "apparel_basics_08", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "毛衣", "query": "毛衣 推荐"}
+{"query_id": "apparel_basics_09", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "牛仔裤", "query": "牛仔裤 推荐"}
+{"query_id": "apparel_basics_10", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "短裤", "query": "短裤 推荐"}
+{"query_id": "apparel_basics_11", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "羽绒服", "query": "羽绒服 推荐"}
+{"query_id": "apparel_basics_12", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "衬衫", "query": "衬衫 推荐"}
+{"query_id": "apparel_basics_13", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "西装", "query": "西装 推荐"}
+{"query_id": "apparel_basics_14", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "连衣裙", "query": "连衣裙 推荐"}
+{"query_id": "apparel_basics_15", "scenario": "Fashion Accessories", "category": "apparel_basics", "product": "风衣", "query": "风衣 推荐"}
+{"query_id": "bags_shoes_01", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "凉鞋", "query": "凉鞋 推荐"}
+{"query_id": "bags_shoes_02", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "双肩包", "query": "双肩包 推荐"}
+{"query_id": "bags_shoes_03", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "围巾", "query": "围巾 推荐"}
+{"query_id": "bags_shoes_04", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "墨镜", "query": "墨镜 推荐"}
+{"query_id": "bags_shoes_05", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "帽子", "query": "帽子 推荐"}
+{"query_id": "bags_shoes_06", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "托特包", "query": "托特包 推荐"}
+{"query_id": "bags_shoes_07", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "斜挎包", "query": "斜挎包 推荐"}
+{"query_id": "bags_shoes_08", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "板鞋", "query": "板鞋 推荐"}
+{"query_id": "bags_shoes_09", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "皮包", "query": "皮包 推荐"}
+{"query_id": "bags_shoes_10", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "皮带", "query": "皮带 推荐"}
+{"query_id": "bags_shoes_11", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "皮鞋", "query": "皮鞋 推荐"}
+{"query_id": "bags_shoes_12", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "行李箱", "query": "行李箱 推荐"}
+{"query_id": "bags_shoes_13", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "跑鞋", "query": "跑鞋 推荐"}
+{"query_id": "bags_shoes_14", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "运动鞋", "query": "运动鞋 推荐"}
+{"query_id": "bags_shoes_15", "scenario": "Fashion Accessories", "category": "bags_shoes", "product": "首饰", "query": "首饰 推荐"}
+{"query_id": "camping_gear_01", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "便携椅", "query": "便携椅 推荐"}
+{"query_id": "camping_gear_02", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "保温箱", "query": "保温箱 推荐"}
+{"query_id": "camping_gear_03", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "卡式炉", "query": "卡式炉 推荐"}
+{"query_id": "camping_gear_04", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "天幕", "query": "天幕 推荐"}
+{"query_id": "camping_gear_05", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "头灯", "query": "头灯 推荐"}
+{"query_id": "camping_gear_06", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "帐篷", "query": "帐篷 推荐"}
+{"query_id": "camping_gear_07", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "急救包", "query": "急救包 推荐"}
+{"query_id": "camping_gear_08", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "户外电源", "query": "户外电源 推荐"}
+{"query_id": "camping_gear_09", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "户外锅具", "query": "户外锅具 推荐"}
+{"query_id": "camping_gear_10", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "折叠桌椅", "query": "折叠桌椅 推荐"}
+{"query_id": "camping_gear_11", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "登山包", "query": "登山包 推荐"}
+{"query_id": "camping_gear_12", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "登山杖", "query": "登山杖 推荐"}
+{"query_id": "camping_gear_13", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "睡袋", "query": "睡袋 推荐"}
+{"query_id": "camping_gear_14", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "防潮垫", "query": "防潮垫 推荐"}
+{"query_id": "camping_gear_15", "scenario": "Sports & Outdoor", "category": "camping_gear", "product": "露营灯", "query": "露营灯 推荐"}
+{"query_id": "cycling_gear_01", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "儿童自行车", "query": "儿童自行车 推荐"}
+{"query_id": "cycling_gear_02", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "公路车", "query": "公路车 推荐"}
+{"query_id": "cycling_gear_03", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "山地车", "query": "山地车 推荐"}
+{"query_id": "cycling_gear_04", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "折叠车", "query": "折叠车 推荐"}
+{"query_id": "cycling_gear_05", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "电助力自行车", "query": "电助力自行车 推荐"}
+{"query_id": "cycling_gear_06", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "自行车坐垫", "query": "自行车坐垫 推荐"}
+{"query_id": "cycling_gear_07", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "自行车打气筒", "query": "自行车打气筒 推荐"}
+{"query_id": "cycling_gear_08", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "自行车灯", "query": "自行车灯 推荐"}
+{"query_id": "cycling_gear_09", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "自行车铃", "query": "自行车铃 推荐"}
+{"query_id": "cycling_gear_10", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "自行车锁", "query": "自行车锁 推荐"}
+{"query_id": "cycling_gear_11", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "骑行手套", "query": "骑行手套 推荐"}
+{"query_id": "cycling_gear_12", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "骑行服", "query": "骑行服 推荐"}
+{"query_id": "cycling_gear_13", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "骑行眼镜", "query": "骑行眼镜 推荐"}
+{"query_id": "cycling_gear_14", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "骑行码表", "query": "骑行码表 推荐"}
+{"query_id": "cycling_gear_15", "scenario": "Sports & Outdoor", "category": "cycling_gear", "product": "骑行裤", "query": "骑行裤 推荐"}
+{"query_id": "electronics_accessories_01", "scenario": "Digital Products", "category": "electronics_accessories", "product": "SSD硬盘盒", "query": "SSD硬盘盒 推荐"}
+{"query_id": "electronics_accessories_02", "scenario": "Digital Products", "category": "electronics_accessories", "product": "USB集线器", "query": "USB集线器 推荐"}
+{"query_id": "electronics_accessories_03", "scenario": "Digital Products", "category": "electronics_accessories", "product": "U盘", "query": "U盘 推荐"}
+{"query_id": "electronics_accessories_04", "scenario": "Digital Products", "category": "electronics_accessories", "product": "充电头", "query": "充电头 推荐"}
+{"query_id": "electronics_accessories_05", "scenario": "Digital Products", "category": "electronics_accessories", "product": "充电宝", "query": "充电宝 推荐"}
+{"query_id": "electronics_accessories_06", "scenario": "Digital Products", "category": "electronics_accessories", "product": "手机壳", "query": "手机壳 推荐"}
+{"query_id": "electronics_accessories_07", "scenario": "Digital Products", "category": "electronics_accessories", "product": "拓展坞", "query": "拓展坞 推荐"}
+{"query_id": "electronics_accessories_08", "scenario": "Digital Products", "category": "electronics_accessories", "product": "数据线", "query": "数据线 推荐"}
+{"query_id": "electronics_accessories_09", "scenario": "Digital Products", "category": "electronics_accessories", "product": "无线充电器", "query": "无线充电器 推荐"}
+{"query_id": "electronics_accessories_10", "scenario": "Digital Products", "category": "electronics_accessories", "product": "移动硬盘", "query": "移动硬盘 推荐"}
+{"query_id": "electronics_accessories_11", "scenario": "Digital Products", "category": "electronics_accessories", "product": "网线", "query": "网线 推荐"}
+{"query_id": "electronics_accessories_12", "scenario": "Digital Products", "category": "electronics_accessories", "product": "读卡器", "query": "读卡器 推荐"}
+{"query_id": "electronics_accessories_13", "scenario": "Digital Products", "category": "electronics_accessories", "product": "路由器", "query": "路由器 推荐"}
+{"query_id": "electronics_accessories_14", "scenario": "Digital Products", "category": "electronics_accessories", "product": "车载支架", "query": "车载支架 推荐"}
+{"query_id": "electronics_accessories_15", "scenario": "Digital Products", "category": "electronics_accessories", "product": "钢化膜", "query": "钢化膜 推荐"}
+{"query_id": "fitness_gear_01", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "健腹轮", "query": "健腹轮 推荐"}
+{"query_id": "fitness_gear_02", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "哑铃", "query": "哑铃 推荐"}
+{"query_id": "fitness_gear_03", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "弹力带", "query": "弹力带 推荐"}
+{"query_id": "fitness_gear_04", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "护膝", "query": "护膝 推荐"}
+{"query_id": "fitness_gear_05", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "泡沫轴", "query": "泡沫轴 推荐"}
+{"query_id": "fitness_gear_06", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "瑜伽垫", "query": "瑜伽垫 推荐"}
+{"query_id": "fitness_gear_07", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "筋膜枪", "query": "筋膜枪 推荐"}
+{"query_id": "fitness_gear_08", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "篮球", "query": "篮球 推荐"}
+{"query_id": "fitness_gear_09", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "网球拍", "query": "网球拍 推荐"}
+{"query_id": "fitness_gear_10", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "羽毛球拍", "query": "羽毛球拍 推荐"}
+{"query_id": "fitness_gear_11", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "足球", "query": "足球 选购推荐"}
+{"query_id": "fitness_gear_12", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "跳绳", "query": "跳绳 推荐"}
+{"query_id": "fitness_gear_13", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "运动水杯", "query": "运动水杯 推荐"}
+{"query_id": "fitness_gear_14", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "运动耳机", "query": "运动耳机 推荐"}
+{"query_id": "fitness_gear_15", "scenario": "Sports & Outdoor", "category": "fitness_gear", "product": "骑行头盔", "query": "骑行头盔 推荐"}
+{"query_id": "food_and_drink_01", "scenario": "Local Life", "category": "food_and_drink", "product": "亲子餐厅", "query": "深圳 亲子餐厅 推荐"}
+{"query_id": "food_and_drink_02", "scenario": "Local Life", "category": "food_and_drink", "product": "咖啡馆", "query": "深圳 咖啡馆 推荐"}
+{"query_id": "food_and_drink_03", "scenario": "Local Life", "category": "food_and_drink", "product": "夜宵店", "query": "深圳 夜宵店 推荐"}
+{"query_id": "food_and_drink_04", "scenario": "Local Life", "category": "food_and_drink", "product": "川菜馆", "query": "深圳 川菜馆 推荐"}
+{"query_id": "food_and_drink_05", "scenario": "Local Life", "category": "food_and_drink", "product": "日料店", "query": "深圳 日料店 推荐"}
+{"query_id": "food_and_drink_06", "scenario": "Local Life", "category": "food_and_drink", "product": "海鲜餐厅", "query": "深圳 海鲜餐厅 推荐"}
+{"query_id": "food_and_drink_07", "scenario": "Local Life", "category": "food_and_drink", "product": "湘菜馆", "query": "深圳 湘菜馆 推荐"}
+{"query_id": "food_and_drink_08", "scenario": "Local Life", "category": "food_and_drink", "product": "火锅店", "query": "深圳 火锅店 推荐"}
+{"query_id": "food_and_drink_09", "scenario": "Local Life", "category": "food_and_drink", "product": "烧烤店", "query": "深圳 烧烤店 推荐"}
+{"query_id": "food_and_drink_10", "scenario": "Local Life", "category": "food_and_drink", "product": "牛排馆", "query": "深圳 牛排馆 推荐"}
+{"query_id": "food_and_drink_11", "scenario": "Local Life", "category": "food_and_drink", "product": "甜品店", "query": "深圳 甜品店 推荐"}
+{"query_id": "food_and_drink_12", "scenario": "Local Life", "category": "food_and_drink", "product": "粤菜馆", "query": "深圳 粤菜馆 推荐"}
+{"query_id": "food_and_drink_13", "scenario": "Local Life", "category": "food_and_drink", "product": "茶饮店", "query": "深圳 茶饮店 推荐"}
+{"query_id": "food_and_drink_14", "scenario": "Local Life", "category": "food_and_drink", "product": "面包店", "query": "深圳 面包店 推荐"}
+{"query_id": "food_and_drink_15", "scenario": "Local Life", "category": "food_and_drink", "product": "韩餐店", "query": "深圳 韩餐店 推荐"}
+{"query_id": "home_appliances_01", "scenario": "Digital Products", "category": "home_appliances", "product": "净水器", "query": "净水器 推荐"}
+{"query_id": "home_appliances_02", "scenario": "Digital Products", "category": "home_appliances", "product": "加湿器", "query": "加湿器 推荐"}
+{"query_id": "home_appliances_03", "scenario": "Digital Products", "category": "home_appliances", "product": "取暖器", "query": "取暖器 推荐"}
+{"query_id": "home_appliances_04", "scenario": "Digital Products", "category": "home_appliances", "product": "吸尘器", "query": "吸尘器 推荐"}
+{"query_id": "home_appliances_05", "scenario": "Digital Products", "category": "home_appliances", "product": "咖啡机", "query": "咖啡机 推荐"}
+{"query_id": "home_appliances_06", "scenario": "Digital Products", "category": "home_appliances", "product": "微波炉", "query": "微波炉 推荐"}
+{"query_id": "home_appliances_07", "scenario": "Digital Products", "category": "home_appliances", "product": "挂烫机", "query": "挂烫机 推荐"}
+{"query_id": "home_appliances_08", "scenario": "Digital Products", "category": "home_appliances", "product": "烤箱", "query": "烤箱 推荐"}
+{"query_id": "home_appliances_09", "scenario": "Digital Products", "category": "home_appliances", "product": "电水壶", "query": "电水壶 推荐"}
+{"query_id": "home_appliances_10", "scenario": "Digital Products", "category": "home_appliances", "product": "电风扇", "query": "电风扇 推荐"}
+{"query_id": "home_appliances_11", "scenario": "Digital Products", "category": "home_appliances", "product": "电饭煲", "query": "电饭煲 推荐"}
+{"query_id": "home_appliances_12", "scenario": "Digital Products", "category": "home_appliances", "product": "破壁机", "query": "破壁机 推荐"}
+{"query_id": "home_appliances_13", "scenario": "Digital Products", "category": "home_appliances", "product": "空气净化器", "query": "空气净化器 推荐"}
+{"query_id": "home_appliances_14", "scenario": "Digital Products", "category": "home_appliances", "product": "空气炸锅", "query": "空气炸锅 推荐"}
+{"query_id": "home_appliances_15", "scenario": "Digital Products", "category": "home_appliances", "product": "除湿机", "query": "除湿机 推荐"}
+{"query_id": "hospitality_01", "scenario": "Local Life", "category": "hospitality", "product": "主题酒店", "query": "深圳 主题酒店 推荐"}
+{"query_id": "hospitality_02", "scenario": "Local Life", "category": "hospitality", "product": "五星酒店", "query": "深圳 五星酒店 推荐"}
+{"query_id": "hospitality_03", "scenario": "Local Life", "category": "hospitality", "product": "亲子酒店", "query": "深圳 亲子酒店 推荐"}
+{"query_id": "hospitality_04", "scenario": "Local Life", "category": "hospitality", "product": "古镇民宿", "query": "深圳 古镇民宿 推荐"}
+{"query_id": "hospitality_05", "scenario": "Local Life", "category": "hospitality", "product": "商务酒店", "query": "深圳 商务酒店 推荐"}
+{"query_id": "hospitality_06", "scenario": "Local Life", "category": "hospitality", "product": "山间民宿", "query": "深圳 山间民宿 推荐"}
+{"query_id": "hospitality_07", "scenario": "Local Life", "category": "hospitality", "product": "度假村", "query": "深圳 度假村 推荐"}
+{"query_id": "hospitality_08", "scenario": "Local Life", "category": "hospitality", "product": "度假酒店", "query": "深圳 度假酒店 推荐"}
+{"query_id": "hospitality_09", "scenario": "Local Life", "category": "hospitality", "product": "民宿客栈", "query": "深圳 民宿客栈 推荐"}
+{"query_id": "hospitality_10", "scenario": "Local Life", "category": "hospitality", "product": "海边酒店", "query": "深圳 海边酒店 推荐"}
+{"query_id": "hospitality_11", "scenario": "Local Life", "category": "hospitality", "product": "温泉酒店", "query": "深圳 温泉酒店 推荐"}
+{"query_id": "hospitality_12", "scenario": "Local Life", "category": "hospitality", "product": "精品民宿", "query": "深圳 精品民宿 推荐"}
+{"query_id": "hospitality_13", "scenario": "Local Life", "category": "hospitality", "product": "经济型酒店", "query": "深圳 经济型酒店 推荐"}
+{"query_id": "hospitality_14", "scenario": "Local Life", "category": "hospitality", "product": "网红民宿", "query": "深圳 网红民宿 推荐"}
+{"query_id": "hospitality_15", "scenario": "Local Life", "category": "hospitality", "product": "青年旅舍", "query": "深圳 青年旅舍 推荐"}
+{"query_id": "makeup_01", "scenario": "Health & Personal", "category": "makeup", "product": "BB霜", "query": "BB霜 推荐"}
+{"query_id": "makeup_02", "scenario": "Health & Personal", "category": "makeup", "product": "修容", "query": "修容 推荐"}
+{"query_id": "makeup_03", "scenario": "Health & Personal", "category": "makeup", "product": "口红", "query": "口红 推荐"}
+{"query_id": "makeup_04", "scenario": "Health & Personal", "category": "makeup", "product": "唇蜜", "query": "唇蜜 推荐"}
+{"query_id": "makeup_05", "scenario": "Health & Personal", "category": "makeup", "product": "唇釉", "query": "唇釉 推荐"}
+{"query_id": "makeup_06", "scenario": "Health & Personal", "category": "makeup", "product": "散粉", "query": "散粉 推荐"}
+{"query_id": "makeup_07", "scenario": "Health & Personal", "category": "makeup", "product": "气垫", "query": "气垫 推荐"}
+{"query_id": "makeup_08", "scenario": "Health & Personal", "category": "makeup", "product": "眉笔", "query": "眉笔 推荐"}
+{"query_id": "makeup_09", "scenario": "Health & Personal", "category": "makeup", "product": "眼影", "query": "眼影 推荐"}
+{"query_id": "makeup_10", "scenario": "Health & Personal", "category": "makeup", "product": "眼线笔", "query": "眼线笔 推荐"}
+{"query_id": "makeup_11", "scenario": "Health & Personal", "category": "makeup", "product": "睫毛膏", "query": "睫毛膏 推荐"}
+{"query_id": "makeup_12", "scenario": "Health & Personal", "category": "makeup", "product": "粉底液", "query": "粉底液 推荐"}
+{"query_id": "makeup_13", "scenario": "Health & Personal", "category": "makeup", "product": "腮红", "query": "腮红 推荐"}
+{"query_id": "makeup_14", "scenario": "Health & Personal", "category": "makeup", "product": "遮瑕膏", "query": "遮瑕膏 推荐"}
+{"query_id": "makeup_15", "scenario": "Health & Personal", "category": "makeup", "product": "高光", "query": "高光 推荐"}
+{"query_id": "mobile_digital_01", "scenario": "Digital Products", "category": "mobile_digital", "product": "头戴式耳机", "query": "头戴式耳机 推荐"}
+{"query_id": "mobile_digital_02", "scenario": "Digital Products", "category": "mobile_digital", "product": "平板电脑", "query": "平板电脑 推荐"}
+{"query_id": "mobile_digital_03", "scenario": "Digital Products", "category": "mobile_digital", "product": "手机", "query": "手机 推荐"}
+{"query_id": "mobile_digital_04", "scenario": "Digital Products", "category": "mobile_digital", "product": "投影仪", "query": "投影仪 推荐"}
+{"query_id": "mobile_digital_05", "scenario": "Digital Products", "category": "mobile_digital", "product": "数码相机", "query": "数码相机 推荐"}
+{"query_id": "mobile_digital_06", "scenario": "Digital Products", "category": "mobile_digital", "product": "智能手表", "query": "智能手表 推荐"}
+{"query_id": "mobile_digital_07", "scenario": "Digital Products", "category": "mobile_digital", "product": "智能音箱", "query": "智能音箱 推荐"}
+{"query_id": "mobile_digital_08", "scenario": "Digital Products", "category": "mobile_digital", "product": "游戏机", "query": "游戏机 推荐"}
+{"query_id": "mobile_digital_09", "scenario": "Digital Products", "category": "mobile_digital", "product": "电纸书", "query": "电纸书 推荐"}
+{"query_id": "mobile_digital_10", "scenario": "Digital Products", "category": "mobile_digital", "product": "笔记本电脑", "query": "笔记本电脑 推荐"}
+{"query_id": "mobile_digital_11", "scenario": "Digital Products", "category": "mobile_digital", "product": "翻译机", "query": "翻译机 推荐"}
+{"query_id": "mobile_digital_12", "scenario": "Digital Products", "category": "mobile_digital", "product": "蓝牙耳机", "query": "蓝牙耳机 推荐"}
+{"query_id": "mobile_digital_13", "scenario": "Digital Products", "category": "mobile_digital", "product": "蓝牙音箱", "query": "蓝牙音箱 推荐"}
+{"query_id": "mobile_digital_14", "scenario": "Digital Products", "category": "mobile_digital", "product": "行车记录仪", "query": "行车记录仪 推荐"}
+{"query_id": "mobile_digital_15", "scenario": "Digital Products", "category": "mobile_digital", "product": "运动相机", "query": "运动相机 推荐"}
+{"query_id": "personal_services_01", "scenario": "Local Life", "category": "personal_services", "product": "SPA会所", "query": "深圳 SPA会所 推荐"}
+{"query_id": "personal_services_02", "scenario": "Local Life", "category": "personal_services", "product": "中医馆", "query": "深圳 中医馆 推荐"}
+{"query_id": "personal_services_03", "scenario": "Local Life", "category": "personal_services", "product": "健身房", "query": "深圳 健身房 推荐"}
+{"query_id": "personal_services_04", "scenario": "Local Life", "category": "personal_services", "product": "宠物美容店", "query": "深圳 宠物美容店 推荐"}
+{"query_id": "personal_services_05", "scenario": "Local Life", "category": "personal_services", "product": "按摩店", "query": "深圳 按摩店 推荐"}
+{"query_id": "personal_services_06", "scenario": "Local Life", "category": "personal_services", "product": "月子中心", "query": "深圳 月子中心 推荐"}
+{"query_id": "personal_services_07", "scenario": "Local Life", "category": "personal_services", "product": "牙科诊所", "query": "深圳 牙科诊所 推荐"}
+{"query_id": "personal_services_08", "scenario": "Local Life", "category": "personal_services", "product": "理发店", "query": "深圳 理发店 推荐"}
+{"query_id": "personal_services_09", "scenario": "Local Life", "category": "personal_services", "product": "瑜伽馆", "query": "深圳 瑜伽馆 推荐"}
+{"query_id": "personal_services_10", "scenario": "Local Life", "category": "personal_services", "product": "眼科诊所", "query": "深圳 眼科诊所 推荐"}
+{"query_id": "personal_services_11", "scenario": "Local Life", "category": "personal_services", "product": "私教课", "query": "深圳 私教课 推荐"}
+{"query_id": "personal_services_12", "scenario": "Local Life", "category": "personal_services", "product": "美容院", "query": "深圳 美容院 推荐"}
+{"query_id": "personal_services_13", "scenario": "Local Life", "category": "personal_services", "product": "美甲店", "query": "深圳 美甲店 推荐"}
+{"query_id": "personal_services_14", "scenario": "Local Life", "category": "personal_services", "product": "美睫店", "query": "深圳 美睫店 推荐"}
+{"query_id": "personal_services_15", "scenario": "Local Life", "category": "personal_services", "product": "足疗店", "query": "深圳 足疗店 推荐"}
+{"query_id": "skincare_01", "scenario": "Health & Personal", "category": "skincare", "product": "乳液", "query": "乳液 推荐"}
+{"query_id": "skincare_02", "scenario": "Health & Personal", "category": "skincare", "product": "修护霜", "query": "修护霜 推荐"}
+{"query_id": "skincare_03", "scenario": "Health & Personal", "category": "skincare", "product": "卸妆油", "query": "卸妆油 推荐"}
+{"query_id": "skincare_04", "scenario": "Health & Personal", "category": "skincare", "product": "手霜", "query": "手霜 推荐"}
+{"query_id": "skincare_05", "scenario": "Health & Personal", "category": "skincare", "product": "护发素", "query": "护发素 推荐"}
+{"query_id": "skincare_06", "scenario": "Health & Personal", "category": "skincare", "product": "洁面", "query": "洁面 推荐"}
+{"query_id": "skincare_07", "scenario": "Health & Personal", "category": "skincare", "product": "洗发水", "query": "洗发水 推荐"}
+{"query_id": "skincare_08", "scenario": "Health & Personal", "category": "skincare", "product": "润唇膏", "query": "润唇膏 推荐"}
+{"query_id": "skincare_09", "scenario": "Health & Personal", "category": "skincare", "product": "爽肤水", "query": "爽肤水 推荐"}
+{"query_id": "skincare_10", "scenario": "Health & Personal", "category": "skincare", "product": "眼霜", "query": "眼霜 推荐"}
+{"query_id": "skincare_11", "scenario": "Health & Personal", "category": "skincare", "product": "精华", "query": "精华 推荐"}
+{"query_id": "skincare_12", "scenario": "Health & Personal", "category": "skincare", "product": "身体乳", "query": "身体乳 推荐"}
+{"query_id": "skincare_13", "scenario": "Health & Personal", "category": "skincare", "product": "防晒", "query": "防晒 推荐"}
+{"query_id": "skincare_14", "scenario": "Health & Personal", "category": "skincare", "product": "面膜", "query": "面膜 推荐"}
+{"query_id": "skincare_15", "scenario": "Health & Personal", "category": "skincare", "product": "面霜", "query": "面霜 推荐"}
+{"query_id": "supplements_01", "scenario": "Health & Personal", "category": "supplements", "product": "叶黄素", "query": "叶黄素 推荐"}
+{"query_id": "supplements_02", "scenario": "Health & Personal", "category": "supplements", "product": "复合维生素", "query": "复合维生素 推荐"}
+{"query_id": "supplements_03", "scenario": "Health & Personal", "category": "supplements", "product": "护肝片", "query": "护肝片 推荐"}
+{"query_id": "supplements_04", "scenario": "Health & Personal", "category": "supplements", "product": "燕窝", "query": "燕窝 推荐"}
+{"query_id": "supplements_05", "scenario": "Health & Personal", "category": "supplements", "product": "电解质冲剂", "query": "电解质冲剂 推荐"}
+{"query_id": "supplements_06", "scenario": "Health & Personal", "category": "supplements", "product": "益生菌", "query": "益生菌 推荐"}
+{"query_id": "supplements_07", "scenario": "Health & Personal", "category": "supplements", "product": "维生素C", "query": "维生素C 推荐"}
+{"query_id": "supplements_08", "scenario": "Health & Personal", "category": "supplements", "product": "胶原蛋白", "query": "胶原蛋白 推荐"}
+{"query_id": "supplements_09", "scenario": "Health & Personal", "category": "supplements", "product": "葡萄籽", "query": "葡萄籽 推荐"}
+{"query_id": "supplements_10", "scenario": "Health & Personal", "category": "supplements", "product": "蛋白粉", "query": "蛋白粉 推荐"}
+{"query_id": "supplements_11", "scenario": "Health & Personal", "category": "supplements", "product": "褪黑素", "query": "褪黑素 推荐"}
+{"query_id": "supplements_12", "scenario": "Health & Personal", "category": "supplements", "product": "辅酶Q10", "query": "辅酶Q10 推荐"}
+{"query_id": "supplements_13", "scenario": "Health & Personal", "category": "supplements", "product": "钙片", "query": "钙片 推荐"}
+{"query_id": "supplements_14", "scenario": "Health & Personal", "category": "supplements", "product": "阿胶", "query": "阿胶 推荐"}
+{"query_id": "supplements_15", "scenario": "Health & Personal", "category": "supplements", "product": "鱼油", "query": "鱼油 推荐"}
+{"query_id": "underwear_socks_01", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "丝袜", "query": "丝袜 推荐"}
+{"query_id": "underwear_socks_02", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "保暖内衣", "query": "保暖内衣 推荐"}
+{"query_id": "underwear_socks_03", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "内裤", "query": "内裤 推荐"}
+{"query_id": "underwear_socks_04", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "哺乳内衣", "query": "哺乳内衣 推荐"}
+{"query_id": "underwear_socks_05", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "塑身衣", "query": "塑身衣 推荐"}
+{"query_id": "underwear_socks_06", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "家居服", "query": "家居服 推荐"}
+{"query_id": "underwear_socks_07", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "抹胸", "query": "抹胸 推荐"}
+{"query_id": "underwear_socks_08", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "文胸", "query": "文胸 推荐"}
+{"query_id": "underwear_socks_09", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "棉袜", "query": "棉袜 推荐"}
+{"query_id": "underwear_socks_10", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "生理裤", "query": "生理裤 推荐"}
+{"query_id": "underwear_socks_11", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "男士四角裤", "query": "男士四角裤 推荐"}
+{"query_id": "underwear_socks_12", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "睡衣", "query": "睡衣 推荐"}
+{"query_id": "underwear_socks_13", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "秋裤", "query": "秋裤 推荐"}
+{"query_id": "underwear_socks_14", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "运动内衣", "query": "运动内衣 推荐"}
+{"query_id": "underwear_socks_15", "scenario": "Fashion Accessories", "category": "underwear_socks", "product": "连裤袜", "query": "连裤袜 推荐"}

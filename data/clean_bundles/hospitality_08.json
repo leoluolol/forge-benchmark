@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_08",
+ "query": "深圳 度假酒店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/",
+   "title": "【深圳渡假酒店推介2026】17間必住渡假酒店整合！人均$135起歎 ...",
+   "snippet": "深圳渡假酒店推薦2026：絕美海景篇（大鵬南澳） · 1. 蜜悦·深圳藍白聖島懸崖泡池美宿 · 2. 蜜悦·深圳聖托里尼海景度假美宿 · 3. 深圳趣墅HAJANA海邊民宿 · 4. 深圳金沙灣佳兆業 ...",
+   "anchor": {
+    "brand": "Hyatt"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E6%B7%B1%E5%9C%B3%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97-%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/shenzhen-hotel-staycation-GZ",
+   "title": "【低至44折】14間深圳度假酒店推介2026｜必住無敵海景 ... - ReUbird",
+   "snippet": "【最佳日落】蜜悦·深圳聖托里尼海景度假美宿 · 【懸崖海景】蜜悦·深圳波西塔諾懸崖海景美宿 · 【婚紗攝影勝地】深圳浪騎瞻雲海濱度假酒店 · 【超大親子樂園】深圳隱秀山居酒店 ...",
+   "anchor": {
+    "brand": "深圳浪騎瞻雲海濱"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.kkday.com/zh-hk/blog/60016/shenzhen-hotel",
+   "title": "10大深圳酒店高CP值推介！2日1夜必睇！無邊際游泳池 - KKday",
+   "snippet": "1. 深圳福田口岸希爾頓歡朋酒店 · 2. 深圳四季酒店Four Seasons Hotel · 3. 深圳好日子皇冠假日酒店 · 4. 深圳大梅沙京基洲際度假酒店 · 5. 深圳硬石酒店Hard ...",
+   "anchor": {
+    "brand": "Four Seasons"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1001524/%E6%B7%B1%E5%9C%B3%E5%BA%A6%E5%81%87%E9%A2%A8%E9%85%92%E5%BA%9710%E9%96%93%E6%8E%A8%E4%BB%8B-%E7%A7%81%E4%BA%BA%E6%B3%B3%E6%B1%A0%E5%8C%85%E6%97%A9%E9%A4%90-%E4%BA%BA%E5%9D%87-135%E8%B5%B7-%E8%BF%91%E9%87%91%E6%B2%99%E7%81%A3",
+   "title": "深圳度假風酒店10間推介！私人泳池包早餐／人均$135起／近金沙灣",
+   "snippet": "深圳藍楹灣度假酒店（Bay Breeze Resort）位於海濱大道，距離深圳灣公園地鐵站僅步行約11分鐘，從福田高鐵站出發也只需大約16分鐘車程，而且鄰近歡樂海岸心湖、 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.trip.com/blog/shenzhen-resort-hotel/",
+   "title": "【深圳度假酒店2026】深圳度假酒店海邊度假+雙人浴缸+私人泳池",
+   "snippet": "1. 深圳藍楹灣度假酒店（Bay Breeze Resort） · 2. 深圳濱河時代ICON LAB艾墾酒店（ICON LAB Hotel Shenzhen Futian） ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://chinatraveljetso.com/%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/",
+   "title": "深圳渡假酒店推介2026｜入住五星級+包早晚餐＋無邊泳池＋SPA ...",
+   "snippet": "1. 深圳大梅沙京基洲際度假酒店 · 2. 深圳鹽田凱悅酒店 · 3. 觀瀾湖度假酒店 · 4. 深圳觀瀾山水田園酒店. 設施享樂型｜適合打卡放鬆、享受飯店設施 · 5. 深圳硬石酒店 · 6."
+  },
+  {
+   "rank": 7,
+   "url": "https://utravel.com.hk/news/detail/20070787/%E6%B7%B1%E5%9C%B3%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97-%E6%8E%A8%E4%BB%8B-%E6%AD%8E%E6%B5%B7%E6%99%AF-%E7%A7%81%E4%BA%BA%E6%B3%A1%E6%B1%A0-%E7%84%A1%E9%82%8A%E6%B3%B3%E6%B1%A0-%E6%A3%AE%E6%9E%97%E6%B0%91%E5%AE%BF",
+   "title": "深圳度假酒店10間推介！人均$284起歎海景/私人泡池/無邊泳池/森林 ...",
+   "snippet": "深圳度假酒店｜1. 深圳灣安達仕酒店 · 深圳度假酒店｜2. 深圳美高梅酒店 · 深圳度假酒店｜3. 蜜悅·深圳藍白聖島懸崖泡池美宿 · 深圳度假酒店｜4. 苫也·深圳不若林 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.hyperair.com/zh-TW/hotels/top/japan-shenzhen-top-5-stars-hotels/guide",
+   "title": "HyperAir 必住推介｜TOP 20 深圳5星級酒店住宿",
+   "snippet": "深圳爾邸酒店式公寓位於市中心，讓你置身於最優越的中心位置，從容享受度假的每一天。致力提供最優質的服務和設施，令客人感到賓至如歸。 服務式公寓讓你可以隨時免費上網。"
+  },
+  {
+   "rank": 9,
+   "url": "https://www.runhotel.hk/bayarea/shenzhen-resort-recommend/",
+   "title": "【深圳渡假酒店推介】放假放鬆之選酒店，絕美景觀打卡一流！",
+   "snippet": "深圳大鵬市區有一間幾唔錯既渡假酒店– 深圳佳兆業萬豪酒店（Shenzhen Marriott Hotel Golden Bay），酒店充滿住五星級奢華設計，令人有種入住豪宅既感覺。而且因為附近冇民居或 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1%E9%85%92%E5%BA%97/shen-zhen-da-ka-jiu-dian-HM",
+   "title": "【10+深圳酒店打卡推薦】低至62折!絕美海景日落/夢幻城堡酒店！",
+   "snippet": "深圳佳兆業萬豪酒店（龍崗區） · 蜜悦·深圳天麓秘野仙蹤度假美宿（鹽田區） · 深圳茵特拉根華僑城酒店（鹽田區） · 深圳深鐵皇冠假日酒店（南山區） · 南山香格里拉酒店（南山區） · 深圳 ..."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_13",
+ "query": "深圳 经济型酒店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://hotels.ctrip.com/hotel/shenzhen30/star2",
+   "title": "深圳经济型酒店 - 携程",
+   "snippet": "推荐今日热门酒店卡罗酒店(深圳东门步行街晒布地铁站店)、金福来酒店(深圳国际会展中心福永店)、米兰时尚酒店(深圳 ... 酒店青年旅舍，同时还可查找深圳经济型酒店旅游攻略。",
+   "anchor": {
+    "brand": "深圳国际会展中心"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.agoda.com/zh-cn/travel-guides/china/shenzhen/discover-shenzhen-top-budget-friendly-hotels-for-savvy-travelers/",
+   "title": "探索深圳：最适合精明旅行者的经济型酒店 - Agoda.com",
+   "snippet": "华强广场酒店（Huaqiang Plaza Hotel）位于深圳电子区中心地带，提供可欣赏迷人城市景观的现代化客房。 客人可享受免费无线网络连接、健身中心和供应本地及 ...",
+   "anchor": {
+    "brand": "华强广场酒店"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://chinatraveljetso.com/%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%83%B9%E9%85%92%E5%BA%97/",
+   "title": "深圳平價酒店推介2026｜近地鐵／步行街／口岸酒店合集（人均$74 ...",
+   "snippet": "1. 深圳東門壹棠服務公寓（CM+ Serviced Apartment Shenzhen Dongmen） · 2. 朗麗茲酒店（深圳羅湖口岸店）（Palace Hotel Shenzhen Luohu Port） · 3. 卡羅精品酒店東門店（Kaluo ...",
+   "anchor": {
+    "brand": "Hyatt"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://m.ctrip.com/webapp/hotel/shenzhen30/zone997star2p0",
+   "title": "深圳经济型酒店预订,价格查询-深圳宾馆住宿信息-【携程旅行手机版】",
+   "snippet": "深圳凯美悦S轻奢HOTEL(上梅林地铁站店). 4.7 · 5474点评· 7.8万收藏 ; 深港荟酒店(深圳福田口岸益田地铁站店). 4.6 · 1951点评· 7096收藏 ; 海仕登(深圳北站长岭陂地铁站店)."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/879255/%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%9756%E9%96%93%E6%8E%A8%E4%BB%8B-1%E5%88%86%E9%90%98%E5%88%B0%E5%9C%B0%E9%90%B5%E7%AB%99-%E7%84%A1%E6%95%B5%E6%B5%B7%E6%99%AF%E5%A5%97%E6%88%BF-%E4%BA%BA%E5%9D%87-103%E8%B5%B7",
+   "title": "深圳酒店56間推介｜1分鐘到地鐵站／無敵海景套房／人均$103起",
+   "snippet": "深圳酒店推介【56】建國璞隱酒店（深圳華強店）（JIANGUO HIDDEN Hotel (Shenzhen Huaqiang Branch)）. 璞隱酒店是首旅如家酒店集團旗下高端商旅度假型酒店 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://hk.trip.com/guide/stay/Shenzhen-hotel.html",
+   "title": "【深圳酒店】最新深圳酒店20 選大推介！奢華之選 - Trip.com",
+   "snippet": "深圳鵬瑞萊佛士酒店位於深圳灣，處於深圳灣科技、金融中心，直接連通前海經濟開發區，與香港僅一水之隔，從中環出發僅需30 分鐘車程。酒店百餘間豪華客房及套房以優雅、摩登為 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://gowithmarkhazyl.com/where-to-stay-in-shenzhen/",
+   "title": "【2026深圳住宿推薦】3大住宿區域,交通購物方便的深圳酒店!",
+   "snippet": "深圳住宿比價 ; 深圳華強廣場酒店, 福田區, $2,800 ; 金茂深圳JW萬豪酒店, 福田區, $4,800 ; 深圳硬石酒店, 龍華區, $3,400 ; 深圳龍華希爾頓逸林酒店（深圳北 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.kkday.com/zh-hk/blog/60016/shenzhen-hotel",
+   "title": "10大深圳酒店高CP值推介！2日1夜必睇！無邊際游泳池 - KKday",
+   "snippet": "1. 深圳福田口岸希爾頓歡朋酒店 · 2. 深圳四季酒店Four Seasons Hotel · 3. 深圳好日子皇冠假日酒店 · 4. 深圳大梅沙京基洲際度假酒店 · 5. 深圳硬石酒店Hard ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.stheadline.com/travel/3329513/%E6%B7%B1%E5%9C%B3%E5%B9%B3%E5%83%B9%E9%85%92%E5%BA%97%E6%8E%A8%E4%BB%8B10%E5%A4%A7%E7%A6%8F%E7%94%B0%E7%BE%85%E6%B9%96%E5%8D%97%E5%B1%B1%E5%B9%B3%E5%83%B9%E4%BD%8F%E5%AE%BF%E4%BD%8E%E8%87%B3479%E6%99%9A-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94%E6%8E%A5%E9%A7%81%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
+   "title": "深圳平價酒店推介｜10大福田/羅湖/南山平價住宿低至$479/晚地鐵 ...",
+   "snippet": "深圳北站Moxy酒店鄰近深圳北站，位置優越，交通便捷，地鐵4號線、6號線雙線環繞，步行約3分鐘即可抵達地鐵站。酒店擁有設計簡約舒適的客房及套房，每間客房都 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.hotels-in-shenzhen.com/zh/theme/cheap-and-budget-hotels-9/",
+   "title": "经济型酒店在深圳 - Shenzhen",
+   "snippet": "深圳市华联精品酒店 ... 它位于罗湖区,到京基100走路只要13分钟. 这家3星深圳市华联精品酒店距离老街站地铁站仅400米.入住这家3星深圳市华联精品酒店的客人可发...... ... 深圳 ..."
+  }
+ ]
+}

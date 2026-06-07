@@ -1,0 +1,77 @@
+{
+ "query_id": "food_and_drink_11",
+ "query": "深圳 甜品店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://utravel.com.hk/news/detail/20033965/%E6%B7%B1%E5%9C%B3%E7%94%9C%E5%93%81%E5%BA%97%E5%90%88%E9%9B%86-%E7%B2%BE%E7%B7%BB%E8%9B%8B%E7%B3%95%E9%BA%B5%E5%8C%85%E7%94%9C%E9%BB%9E%E5%92%96%E5%95%A1%E5%BB%B3%E7%B3%96%E6%B0%B4%E5%BA%97-%E6%8E%A8%E4%BB%8B%E9%99%84%E5%9C%B0%E5%9D%80",
+   "title": "深圳甜品店合集｜精緻蛋糕麵包甜點咖啡廳糖水店逾35間推介附地址",
+   "snippet": "深圳福田區甜品店推薦. 深圳福田區甜品店｜SAANCI山池咖啡店 · 深圳羅湖區甜品店推薦. 深圳羅湖區甜品店｜鍾華三叔公手工糯米糍 · 深圳龍華區甜品店推薦. 深圳 ...",
+   "anchor": {
+    "brand": "SAANCI山池咖啡店"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60248147/%E6%B7%B1%E5%9C%B3%E7%94%9C%E5%93%816%E6%8E%A8%E4%BB%8B-%E8%8A%92%E6%9E%9C%E5%86%B0-%E9%96%8B%E5%BF%83%E6%9E%9Cgelato-%E6%A2%B3%E4%B9%8E%E5%8E%98%E7%8F%AD%E6%88%9F-3%E7%B6%A0%E8%B1%86%E6%B2%99",
+   "title": "深圳甜品6推介｜芒果冰／開心果Gelato／梳乎厘班戟／¥3綠豆沙",
+   "snippet": "深圳甜品【1】水牛奶皇后糖水舖——綿密水牛奶芒果冰 · 深圳甜品【2】松小芙·鬆餅·舒芙蕾——入口即化梳乎厘班戟 · 深圳甜品【3】Cream Story——雪糕世界盃金獎 ...",
+   "anchor": {
+    "brand": "水牛奶皇后糖水舖"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://hk.trip.com/moments/detail/shenzhen-26-125230778/",
+   "title": "深圳甜品店推薦 - Trip.com",
+   "snippet": "深圳甜品店推薦 . 由_RiverFlow.分享有關Alimentari Mulino意大利餐吧&烘焙（福田COCOPark店）的Trip Moment: 30日前發佈，為185位旅客的旅程提供了協助 ...",
+   "anchor": {
+    "brand": "Alimentari Mulino"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://eastweek.stheadline.com/fungba/12074/%E6%B7%B1%E5%9C%B3%E7%94%9C%E5%93%81%E6%87%B6%E4%BA%BA%E5%8C%85%E4%B8%80%E6%AC%A1%E7%9D%87-59%E9%96%93%E9%BA%B5%E5%8C%85%E9%8B%AA%E6%B6%B5%E8%93%8B%E8%9B%8B%E6%92%BB%E6%8F%90%E6%8B%89%E7%B1%B3%E8%98%87%E6%8B%BF%E7%A0%B4%E5%B4%99%E7%89%9B%E8%A7%92%E5%8C%85%E8%82%89%E6%A1%82%E5%8D%B7%E7%91%9E%E5%A3%AB%E5%8D%B7%E7%AD%89%E4%B8%80%E7%B3%BB%E5%88%97%E7%94%9C%E5%93%81-%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0",
+   "title": "深圳甜品懶人包一次睇59間麵包鋪涵蓋蛋撻/提拉米蘇/拿破崙/牛角包 ...",
+   "snippet": "從法式千層酥到迪拜朱古力甜品，從提拉米蘇到蛋撻，囊括老字號餅房與新興烘焙麵包店。無論是喜歡送手信，亦或下午茶打卡，這份在地吃貨私藏清單滿足所有烘焙 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://ufood.com.hk/restaurant/news/detail/20049068/%E6%B7%B1%E5%9C%B310%E5%A4%A7%E6%89%8B%E4%BF%A1%E6%8E%A8%E4%BB%8B-%E8%8A%9D%E5%A3%AB%E8%9B%8B%E7%B3%95-%E8%82%89%E9%AC%86%E5%B0%8F%E8%B2%9D-%E7%91%9E%E5%A3%AB%E5%8D%B7-%E6%89%8B%E5%B7%A5%E6%9C%B1%E5%8F%A4%E5%8A%9B-%E8%99%8E%E7%9A%AE%E8%9B%8B%E7%B3%95-%E5%8F%AF%E9%A0%8C%E8%9B%8B%E6%92%BB",
+   "title": "深圳10大手信推介｜芝士蛋糕／肉鬆小貝／瑞士卷 - U Food",
+   "snippet": "深圳伴手禮｜10大深圳伴手禮推介 · 深圳手信推介｜1.「KUMO KUMO」 · 深圳手信推介｜2.「鮑師傅糕點」 · 深圳手信推介｜3.「the Roll'ING手作瑞士卷專賣店」."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60326278/%E6%B7%B1%E5%9C%B3%E6%8A%B9%E8%8C%B6%E7%94%9C%E5%93%819%E6%AC%BE%E5%BF%85%E5%90%83-%E6%8F%90%E6%8B%89%E7%B1%B3%E8%98%87-%E5%8F%AF%E9%BA%97%E9%A4%85-%E7%94%9C%E7%94%9C%E5%9C%88-%E5%85%A5%E5%8F%A3%E5%BE%AE%E8%8B%A6%E8%8C%B6%E9%A6%99%E6%BF%83",
+   "title": "深圳抹茶甜品9款必吃：提拉米蘇/可麗餅/甜甜圈入口微苦茶香濃",
+   "snippet": "1. 鹿兔山luutosa：抹茶提拉米蘇 · 2. 禮厚茶肆：閩南觀音抹茶粉圓 · 3. 山丘酵室Bakery Hills：苦抹甜品專門店 · 4. koukoo：銅仁抹茶脆脆可麗餅 · 5. 小叢山： ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://tuan.cctcct.com/article/Travel-Guide/16614.html",
+   "title": "深圳的好吃甜品店攻略",
+   "snippet": "推荐的3家店里有两家在万象城地下，大家去逛街啥的别忘了去喝个下午茶，剩下一家在南山区，都在比较好找的位置。 第一家：满记甜品. 罗湖区宝安南路1881号华润中心万象 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.ulifestyle.com.hk/community/detailpost/1d1912e9-0e1e-488e-b46c-4de2d0fe68f4/%E6%B7%B1%E5%9C%B3%E6%94%BB%E7%95%A5/%E6%B7%B1%E5%9C%B35%E9%96%93%E5%BB%A3%E5%BC%8F%E7%B3%96%E6%B0%B4%E8%88%96%E6%9C%AC/Kurochan-%E2%99%A1/795109",
+   "title": "深圳5間廣式糖水舖  本地人都鍾意   | U Community 社群平台",
+   "snippet": "行到攰食完飯都會想食返個甜品深圳都有唔少高質糖水舖連本地人都非常支持呢度就揀左5間俾大家 1️⃣予棠糖水福華三路卓悅intown商場一樓L135號商店(gaga ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.mandarinoriental.com/zh-hk/shenzhen/futian/dine/the-mandarin-cake-shop",
+   "title": "文華餅店- 福田餅店| 深圳文華東方酒店 - Mandarin Oriental",
+   "snippet": "文華東方的特色甜品店。 ... 餅店供應精緻講究的法式糕點和高雅別致的蛋糕。賓客亦可於戶外陽台就座，一邊細味特色茶飲或咖啡，一邊品嚐美味甜品及鹹點。"
+  },
+  {
+   "rank": 10,
+   "url": "https://roasterpig.blogspot.com/2025/03/blog-post_24.html",
+   "title": "深圳甜品攻略！精選放題自助單點(持續更新) - 花小錢去旅行",
+   "snippet": "深圳特色甜品店 · 深圳人氣甜品店的紅豆沙 · 深圳Donut店的特色，開心果意大利優格冬甩 · 榴槤甜品專門店."
+  }
+ ]
+}

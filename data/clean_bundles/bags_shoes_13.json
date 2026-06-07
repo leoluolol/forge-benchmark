@@ -1,0 +1,77 @@
+{
+ "query_id": "bags_shoes_13",
+ "query": "跑鞋 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/176943262",
+   "title": "2026年几大跑鞋推荐介绍，小白看完就懂的跑步鞋选购攻略（月）",
+   "snippet": "亚瑟士、布鲁克斯（Brooks）、索康尼（Saucony）、纽巴伦（New Balance）是业界公认的世界四大跑鞋品牌。 除了四大跑鞋，还有Nike、美津浓、阿迪、耐克、多威的一些跑鞋也是不错的 ...",
+   "anchor": {
+    "brand": "亚瑟士"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.elle.com.hk/fashion/new-about-beginner-running-shoes",
+   "title": "新手慢跑鞋推薦2026：長跑馬拉松入門跑鞋推薦這10對高CP鞋子",
+   "snippet": "新手慢跑鞋推薦：Adidas Supernova Rise 跑步鞋$999 ... 榮獲Women's Health評為各式水平跑手皆宜的最佳跑鞋，Adidas Supernova Rise跑步鞋配備Dreamstrike+技術，採用重新特製 ...",
+   "anchor": {
+    "brand": "Adidas"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.esquirehk.com/style/running-shoes-recommendation",
+   "title": "20+款慢跑鞋／練跑鞋／比賽跑鞋價錢+介紹+消委會選購跑鞋建議",
+   "snippet": "跑鞋推薦2024｜15款跑鞋推薦！入門慢跑鞋至高階比賽跑步. 8New Balance FuelCell Rebel v5－最接近比賽鞋的訓練鞋.",
+   "anchor": {
+    "brand": "Nike"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://zhuanlan.zhihu.com/p/183637071",
+   "title": "小白跑者如何选择适合自己的入门跑鞋（男女通用）",
+   "snippet": "ASICS亚瑟士跑鞋推荐攻略+选购指南：. 国产跑鞋严选推荐攻略+选购指南：. MIZUNO美津浓跑鞋推荐攻略+选购指南：. 舒适慢跑鞋&户外路跑鞋严选推荐攻略+选购指南：. 以下全文 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.vogue.com.tw/article/best-running-shoes-for-women",
+   "title": "VOGUE嚴選最推薦跑鞋：從輕鬆慢跑到道路與越野專家實測精選",
+   "snippet": "首選推薦： · 最佳道路跑鞋：Brooks Glycerin 22, $165 · 最佳長距離跑鞋：New Balance Fresh Foam 1080v14, $165 · 最佳日常跑鞋：On Cloudsurfer 2, $160 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.nike.com.cn/running/shoe-finder",
+   "title": "甄选跑步鞋-NIKE 中文官方网站 - 耐克",
+   "snippet": "热门推荐. 源于速度心高无限 · 耐高超新星篮球系列 · 国家队系列 · Nike Mind · 耐克跑步 ... 多功能跑鞋，适合各类跑步训练和跑者。这类跑鞋属于入门鞋款，适合跑步新手 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://dxy.com/article/95564",
+   "title": "跑鞋别买又轻又软的！7 款跑鞋排行榜，第一名居然是它...... - 丁香医生",
+   "snippet": "赤兔4 的价格300 左右，鞋子很轻，鞋面透气性好，采用半固定鞋舌，在跑步过程中保证了鞋舌不会移位！ 鞋底回弹很好，在水泥地和塑胶跑道上都有不错的表现，推荐给学生朋友体测时刷 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://zhuanlan.zhihu.com/p/206563352",
+   "title": "2026年跑步鞋推荐，男女跑鞋怎么选？入门进阶训练竞速 ... - 知乎专栏",
+   "snippet": "... 买到高性价比的跑鞋. 国产跑鞋：361跑步鞋推荐 |必迈跑鞋推荐. 各大品牌跑鞋：国产跑鞋 ：Nike跑鞋：索康尼 ：Mizuno美津浓 ：亚瑟士跑鞋推荐. 运动装备：跑步护膝推荐 | 筋膜枪 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://shop.familyshoes.com.tw/familyshoes/index.php?action=product_sort&prod_sort_uid=24",
+   "title": "慢跑鞋推薦｜最新運動鞋、跑步鞋品牌精選 - 鞋全家福線上購物",
+   "snippet": "運動鞋哪裡買便宜？鞋全家福提供ADIDAS、NIKE、MIZUNO等人氣品牌慢跑鞋與運動鞋推薦，從入門慢跑鞋到專業跑步鞋！無論日常運動或競速跑步，皆有多種男款女款尺寸可選。"
+  },
+  {
+   "rank": 10,
+   "url": "https://www.gq.com.tw/article/%E8%B7%91%E9%9E%8B%E6%8E%A8%E8%96%A6",
+   "title": "2025 盤點8 雙「高顏值+高性能」跑鞋推薦，從Nike、adidas",
+   "snippet": "2025 盤點8 雙「高顏值+高性能」跑鞋推薦，從Nike、adidas、New Balance 到ON 昂跑通通有！ · ASICS GEL-NIMBUS 27 · adidas ADIZERO ADIOS PRO 4 · HOKA ..."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_15",
+ "query": "深圳 青年旅舍 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.booking.com/hostels/city/cn/shenzhen.zh-tw.html",
+   "title": "中國深圳10 間最佳青年旅館 - Booking.com",
+   "snippet": "深圳僑城旅友國際青年旅舍位於深圳，設有花園、共用休息室、餐廳和酒吧。這間住宿距離深圳歡樂谷主題樂園約1.9 公里，距離市民中心站約8.9 公里，距離深圳會展中心約9.3 ...",
+   "anchor": {
+    "brand": "深圳僑城旅友國際青年旅舍"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://hk.trip.com/hotels/hostels/city/cn/shenzhen.html",
+   "title": "深圳10 間高CP 青年旅館推介 - Trip.com",
+   "snippet": "深圳人氣青年旅館 ; 棲遊青年旅舍（深圳中心公園華強北店）. 鄰近華強北商業區,深圳的酒店 · HK$96 ; 小爾爾家青旅（深圳北站店）. 鄰近深圳北站地區,深圳的酒店 · HK$24 ; Amic艾米 ...",
+   "anchor": {
+    "brand": "棲遊"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.kayak.com.hk/%E6%B7%B1%E5%9C%B3-%E9%85%92%E5%BA%97_%E9%9D%92%E5%B9%B4%E6%97%85%E8%88%8D.Thostel.9007.hotel.ksp",
+   "title": "深圳青年旅舍每晚HK$47起- KAYAK",
+   "snippet": "KAYAK用戶最受歡迎的深圳青年旅舍分區是羅湖​，平均價格為HK$110​。鴻豐大酒店深圳​，深圳博林諾富特酒店​和深圳艺嘉国际大酒店是羅湖​評價最高的飯店之一。",
+   "anchor": {
+    "brand": "登巴国际青年旅舍"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.cozycozy.com/tw/shenzhen-hostel",
+   "title": "深圳市推薦青年旅館 - Cozycozy",
+   "snippet": "比較深圳市所有青年旅館 · Fuxing Hostel · Lehu Youth Hostel · Qingting Youth Hostel · Shenzhen Baby Apartment · 登巴酒店管理有限公司 · Xilaile Hostel · Shenzhen Messin ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.booking.com/hostels/city/cn/shenzhen.zh-cn.html",
+   "title": "中国深圳10大推荐青旅 - Booking.com",
+   "snippet": "深圳侨城旅友国际青年旅舍位于深圳，拥有花园、共用休息室、餐厅和酒吧。这家住宿距离深圳欢乐谷主题公园约有1.9公里，距离市民中心站有8.9公里，距离深圳会展中心有9.3 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.yoplace.org.hk/tc/discover-gba/info-pack/shenzhen-youth-apartments",
+   "title": "深圳青年驛站全介紹 - YO PLACE",
+   "snippet": "深圳驛站推薦 ; 1. 粵港澳大灣區（寶安）青年驛站 · 寶安區新安街道新湖路2138號華美居商務中心B區1號樓公寓大樓 · [phone] ; 2. 青年驛站（南頭古城站） · 深圳市南山區南 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.hotelscombined.hk/Place/Shenzhen-hostels.htm",
+   "title": "經濟實惠的深圳青年旅舍每晚HK$55起 - HotelsCombined",
+   "snippet": "深圳有哪些青年旅舍值得推薦？ 根據HotelsCombined用戶的評分，萊茵花園城市青年旅舍是深圳最好的青年旅舍。從158則評論來看，萊茵花園城市青年旅舍得到的評分是7.7/10。"
+  },
+  {
+   "rank": 8,
+   "url": "https://www.wingontravel.com/hotel/detail-shenzhen-31852010/shenzhen-haikuo-tiankong-hostel/",
+   "title": "深圳海闊天空青年旅社|2026年酒店推介深圳人氣酒店 - 永安旅遊",
+   "snippet": "深圳海闊天空青年旅社位於金蘋果小區，標準化、簡潔、舒適的酒店住宿服務，使大眾商務以及休閒旅行賓客收穫温馨、便捷的住宿體驗。走進海闊天空，沒有奢華、也不誇張，更多的是 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.hyperair.com/zh-HK/hotels/top/china-shenzhen-top-hostels/guide",
+   "title": "【深圳青年旅舍住宿攻略2026】20大好評必住深圳酒店推介 - HyperAir",
+   "snippet": "深圳青年旅舍住宿| No. 1 海誠精品酒店式公寓Haicheng Boutique Apartment · 深圳青年旅舍住宿| No. 2 深圳豪順億港澳8號酒店式公寓Shenzhen Xin Phoenix Gang Ao 8 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.hotels-in-shenzhen.com/zh/type/hostels-11/",
+   "title": "深圳的青年旅社 - Shenzhen",
+   "snippet": "共13家住宿 ; 深圳侨城旅友国际青年旅舍. 南山区华侨城香山东街7号(恩平南街三栋), 深圳, 中国 · US$ 18 · 9.0. 超级好. 499评论 ; 诺丁山青年旅舍. 宝安区兴华路62号(兴华二路 ..."
+  }
+ ]
+}

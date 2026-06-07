@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_02",
+ "query": "深圳 五星酒店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://hk.trip.com/hotels/star5/city/cn/shenzhen.html",
+   "title": "深圳奢華5 星級酒店推介 - Trip.com",
+   "snippet": "深圳香格里拉大酒店 · 深圳富臨大酒店（羅湖口岸火車站店） · 深圳國際會展中心洲際酒店 · 深圳漢普斯酒店 · 深圳彭年萬麗酒店 · Pagoda君亭設計酒店（深圳寶安前海店） · 維納斯皇家 ...",
+   "anchor": {
+    "brand": "深圳國際會展中心"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://hotels.ctrip.com/hotel/shenzhen30/star5",
+   "title": "深圳五星(钻)级酒店 - 携程",
+   "snippet": "深圳五星(钻)级酒店 · 深圳光明温德姆至尊酒店 · 深圳桔钓沙莱华度假酒店 · 深圳南山博林天瑞喜来登酒店 · 深圳前海华侨城瑞吉酒店 · 深圳联投东方万怡酒店 · 深圳湾海尚酒店.",
+   "anchor": {
+    "brand": "深圳湾海尚酒店"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://all.accor.com/a/zh/destination/city/hotels-shenzhen-v8866/5-stars.html",
+   "title": "深圳五星酒店：尊享优惠价格 - Accor",
+   "snippet": "是否想要预订五星级酒店？ · 5星及以上 · 深圳深铁雅高铂尔曼酒店 · 深圳鹏瑞莱佛士酒店 · 深圳南山美爵酒店 · 深圳时尚小镇雅高美憬阁精选酒店 · 深圳光明美爵酒店 · 香港 ...",
+   "anchor": {
+    "brand": "深圳南山美爵酒店"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.tatlerasia.com/lifestyle/travel/shenzhen-luxury-hotels-zh-hant",
+   "title": "7間深圳高品質酒店推薦：中式庭院設計、西班牙風情⋯⋯俯瞰都市與 ...",
+   "snippet": "1. 深圳高品質酒店推薦：深圳文華東方酒店 · 2. 深圳高品質酒店推薦：深圳柏悦酒店 · 3. 深圳高品質酒店推薦：深圳瑞吉酒店 · 4. 深圳高品質酒店推薦：深圳四季 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.trip.com/hot/%E6%B7%B1%E5%9C%B310%E5%A4%A7%E6%9C%80%E4%BD%B3%E9%85%92%E5%BA%97%E6%8E%92%E5%90%8D/",
+   "title": "2026 深圳10大最佳酒店排名 - Trip.com",
+   "snippet": "深圳美高梅酒店五星這次入住深圳美高梅酒店，可以説是一次完美的海濱度假體驗！ 首先 ... 硬件無可挑剔，服務温情暖心，深圳美高梅絕對值得五星推薦，期待下次再見！"
+  },
+  {
+   "rank": 6,
+   "url": "https://www.kkday.com/zh-hk/blog/60016/shenzhen-hotel",
+   "title": "10大深圳酒店高CP值推介！2日1夜必睇！無邊際游泳池 - KKday",
+   "snippet": "1. 深圳福田口岸希爾頓歡朋酒店 · 2. 深圳四季酒店Four Seasons Hotel · 3. 深圳好日子皇冠假日酒店 · 4. 深圳大梅沙京基洲際度假酒店 · 5. 深圳硬石酒店Hard ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.hyperair.com/zh-HK/hotels/top/china-shenzhen-top-new-hotels/guide",
+   "title": "【深圳新酒店2025推介】必住21間深圳新開幕住宿！超打卡｜海景民宿",
+   "snippet": "疫情過後，深圳新酒店2023數目眾多，精選了藍白聖島懸崖泡池美宿、前海JEN酒店、深圳羅湖盛業逸扉酒店作推薦，給大家參考。 4. 深圳新酒店有海景的嗎？ 現時深圳新酒店不少都有 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.stheadline.com/travel/3297106/%E8%A8%98%E8%80%85%E5%AF%A6%E8%A9%A6%E6%B7%B1%E5%9C%B33%E5%A4%A7%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97-%E6%9C%80%E5%B9%B3800%E8%B5%B7%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%A6%8F%E7%94%B0%E5%B0%B1%E8%85%B3%E5%A5%A2%E8%8F%AF%E4%B9%8B%E9%81%B8",
+   "title": "記者實試！深圳3大星級酒店最平$800起 深圳灣/福田就腳奢華之選",
+   "snippet": "難得特別紀念日子，想豪住一次，推介鵬瑞萊佛士酒店。這間來自新加坡的百年酒店品牌，位於深圳灣一號。品牌最出名就是就是其管家服務。由check in，到入 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.ulifestyle.com.hk/video/11654",
+   "title": "【大灣區快閃遊】開箱2025年新開深圳豪華靚酒店！置身城中綠洲超 ...",
+   "snippet": "想趁假日北上作樂，遠離煩囂？全新開業的深圳龍華美憬閣酒店特別適合你！美憬閣酒店裝潢上別具奢華感，設施也十分完善、周邊環境清幽。"
+  },
+  {
+   "rank": 10,
+   "url": "https://chinatraveljetso.com/%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/",
+   "title": "深圳渡假酒店推介2026｜入住五星級+包早晚餐＋無邊泳池＋SPA ...",
+   "snippet": "1. 深圳大梅沙京基洲際度假酒店 · 2. 深圳鹽田凱悅酒店 · 3. 觀瀾湖度假酒店 · 4. 深圳觀瀾山水田園酒店. 設施享樂型｜適合打卡放鬆、享受飯店設施 · 5. 深圳硬石酒店 · 6."
+  }
+ ]
+}

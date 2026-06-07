@@ -1,0 +1,77 @@
+{
+ "query_id": "makeup_11",
+ "query": "睫毛膏 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.elle.com/tw/beauty/news/g34501278/top-mascara-list/",
+   "title": "15款「開架睫毛膏」推薦最新版！纖長捲翹、抗暈染回購率超高 - ELLE",
+   "snippet": "一雙迷人電眼的首要元素就是纖長捲翹又根根分明的睫毛！這次從KISSME花漾美姬、1028、媚比琳等眾多開架品牌中精選15款網友激推、回購率超高的此生必備 ...",
+   "anchor": {
+    "brand": "KISSME"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.cosme.net.tw/tags/127/ranking",
+   "title": "2026「睫毛膏」網友推薦排行榜Top20 [每週更新] - cosme",
+   "snippet": "每週不斷更新，網友用過推薦最好用的睫毛膏排行榜，根據膚質、年齡給予最適合你的選購建議，目前第一名：美次元天生美睫防水睫毛膏、第二名：飛天翹防水睫毛膏、第三名：飛激 ...",
+   "anchor": {
+    "brand": "KISSME"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.kissme.com.tw/blogs/blog/131988",
+   "title": "2026睫毛膏推薦！6款開架睫毛膏比較，睫毛根根分明 - KISSME",
+   "snippet": "6款網友激推睫毛膏推薦 · 神捲翹防水打底睫毛膏 · 超！持久立挺翹長防水睫毛膏 · 超！持久立挺翹濃防水睫毛膏 · 細睫控360°零死角防水睫毛膏EX · 瞬翹自然捲 ...",
+   "anchor": {
+    "brand": "KISSME"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.maybelline.com.tw/all-products/eye-makeup/mascara",
+   "title": "睫毛膏推薦| Maybelline 媚比琳",
+   "snippet": "睫毛膏：捲翹睫毛膏，纖長睫毛膏，濃密睫毛膏，棕色睫毛膏甚至透明睫毛膏，Maybelline 媚比琳的標誌性睫毛膏，總有一款適合您。"
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.cosme.net/ranking/242",
+   "title": "2026香港「睫毛膏」推薦好用排行榜Top20 - cosme HK",
+   "snippet": "cosme每兩週更新香港網友推薦最好用睫毛膏產品排行榜，目前第一名：CANMAKE TOKYO 金屬刷頭睫毛膏、第二名：ettusais 魔束捲翹睫毛底膏、第三名：ettusais ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://tw.my-best.com/4730",
+   "title": "妝髮造型師監製10 大睫毛膏推薦排行榜 - mybest",
+   "snippet": "魅光藝采睫毛膏裡富含十種植物油、油脂、植物萃取精華，在上妝同時也能有守護強健睫毛等等功效，除了擁有繽紛的色彩之外也兼具纖長與濃密效果，且膏體裡含有定型蠟質，可長時間 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.womenshealthmag.com/tw/beauty/make-up/g69641795/best-mascara/",
+   "title": "2026睫毛膏推薦！23款新品＋人氣睫毛膏，睫毛越刷越纖長挺翹",
+   "snippet": "睫毛膏推薦： · RMK 輕柔緻密睫毛膏 · RMK 輕柔纖長睫毛膏 · Dior 絕對搶眼飛翹睫毛膏 · KISSME花漾美姬美次元天生美睫防水睫毛膏 · KISSME花漾美姬細睫控 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.cosmopolitan.com.hk/beauty/best-drugstore-mascara-recommendation",
+   "title": "睫毛膏推薦｜12大開架好精選｜點評捲翹度、持久度、哪款最不易塌？",
+   "snippet": "睫毛液推介：MAJOLICA MAJORCA 超現實激長睫毛膏約港幣$83 ... 想捲翹纖長效果兼備，推介開架人氣王MJ睫毛膏。這款超現實激長睫毛膏膏體輕盈且有很多細長纖維，配備經典的大小梳 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.vogue.com.tw/beauty/galerie/%E7%9D%AB%E6%AF%9B%E8%86%8F%E6%8E%A8%E8%96%A6",
+   "title": "20款【睫毛膏】推薦！根根分明、捲翹、濃密 - Vogue Taiwan",
+   "snippet": "對於看起來濃密的睫毛線，Victoria Beckham的未來睫毛膏就是最 ... 最適合粗睫毛：Victoria Beckham Beauty Future Lash 睫毛膏. 對於看起來濃密的睫毛線， ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://hk.wamazing.com/media/article/a-2335/",
+   "title": "日本7款超人氣睫毛膏推介！KISSME、kingdom＆卸除液推薦",
+   "snippet": "由開架到專櫃都有齊！日本7款人氣睫毛膏 · ①超人氣防水睫毛膏！KISSME Heroine Make「纖細持久防水纖長睫毛液（易卸防水膜型）」 · ②刷出明星咁嘅束狀感睫毛！"
+  }
+ ]
+}

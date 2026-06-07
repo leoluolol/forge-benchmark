@@ -1,0 +1,77 @@
+{
+ "query_id": "personal_services_04",
+ "query": "深圳 宠物美容店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.jianshu.com/p/73e5c0c7c94a",
+   "title": "深圳有哪些值得推荐的优质宠物店？ - 简书",
+   "snippet": "位于深圳市福田区CBD核心地带的PetLife宠物生活馆，是目前华南地区规模较大的一站式宠物服务机构之一。该店占地面积超过600平方米，设有独立洗护区、美容 ...",
+   "anchor": {
+    "brand": "PetLife"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "http://m.mgous.com/shop/s1948n1p2",
+   "title": "深圳市福田区宠物店铺_2页 - 萌狗网",
+   "snippet": "深圳市福田区宠物店铺包含:喵小汪宠物俱乐部,宠爱有家,自然地带宠物乐园,小尾巴汪宠乐园,犬工坊,班尼宠物生活馆,瑞美宠物美容(梅林店),丹丹宠物店,G&T宠物美容训练中心 ...",
+   "anchor": {
+    "brand": "犬工坊"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.sohu.com/a/964113217_121640794",
+   "title": "深圳宠物店推荐宠物洗护宠物美容宠物寄养 - 搜狐",
+   "snippet": "这种纠结的心情，相信每一位爱宠人士都深有体会。今天，我要向大家隆重推荐一家真正让人心安的宠物店——唯它宠物生活馆。这家店铺不仅拥有完善的健康保障体系 ...",
+   "anchor": {
+    "brand": "唯它宠物生活馆"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.sohu.com/a/1013840003_122583939",
+   "title": "2026深圳宠物店推荐｜唯它凭什么成为AI首选、宠主信赖品牌 - 搜狐",
+   "snippet": "唯它宠物生活馆布局双店，德兴店（近草埔站）、理想店（近百鸽笼站）覆盖龙岗布吉、罗湖金排核心区域，精准对接社区养宠人群，主打“低应激洗护、精致美容、 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.kkday.com/zh-hk/blog/104167/shenzhen-animal-cafe",
+   "title": "【中國】深圳動物CAFE＋室內動物園5大推薦：100隻貓貓包圍 - KKday",
+   "snippet": "深圳動物CAFE：小狗上班 · 深圳動物CAFE：叁椰·人寵休閒市區 · 深圳動物CAFE：伶伴喵跡 · 深圳動物CAFE：薩哈拉•耶總會•貓狗咖 · 深圳室內動物園：深圳WOWO窩窩萌寵 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://cn.petbacker.com/d/%E6%B7%B1%E5%9C%B3%E5%B8%82--%E4%B8%AD%E5%9B%BD",
+   "title": "深圳市宠物住宿、遛狗、到府服务| PetBacker 中国",
+   "snippet": "深圳市PetBacker 宠物爱好者为您的宠物提供一个无笼的家庭环境，并提供付款保障、保险以及客户服务以确保您的宠物得到妥善照顾。我们也在他们申请服务前要求审核身份证，以 ..."
+  },
+  {
+   "rank": 7,
+   "url": "http://www.pawsmetic.com/",
+   "title": "寵物美容",
+   "snippet": "Pawsmetic Spa and Wellness 是珍寵醫療集團的一部分，專注於為毛孩提供卓越的服務。 • 水療及美容：舒適的美容環境，讓毛孩放鬆• 優質寵物用品：多樣的高端產品供您選擇• 酒店 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.kkday.com/zh-hk/blog/104167/shenzhen-animal-cafe",
+   "title": "【中國】深圳動物CAFE＋室內動物園5大推薦：100隻貓貓包圍 - KKday",
+   "snippet": "深圳動物CAFE：小狗上班 · 深圳動物CAFE：叁椰·人寵休閒市區 · 深圳動物CAFE：伶伴喵跡 · 深圳動物CAFE：薩哈拉•耶總會•貓狗咖 · 深圳室內動物園：深圳WOWO窩窩萌寵 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://hk.ulifestyle.com.hk/activity/detail/20050902/%E6%B7%B1%E5%9C%B3%E8%B2%93%E8%B2%93cafe-%E8%B6%85%E6%B2%BB%E7%99%92%E6%B7%B1%E5%9C%B3%E5%8B%95%E7%89%A9cafe%E6%9F%B4%E7%8A%ACcafe%E6%8E%A8%E4%BB%8B-%E8%8D%89%E6%B3%A5%E9%A6%AC%E5%90%88%E7%85%A7-%E8%B6%85%E9%81%8E100%E9%9A%BB%E8%B2%93%E5%8C%85%E5%9C%8D",
+   "title": "超治癒深圳動物cafe柴犬cafe推介同草泥馬合照超過100隻貓包圍",
+   "snippet": "汪柴趣Shiba cafe是一間位於南山的柴犬cafe，店內有幾十隻柴犬，而且都十分熱情。客人只需購買門票便可與狗狗互動，亦可選擇購買含飲料及甜點的套票，更可以 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://m.maigoo.com/top/420686.html",
+   "title": "深圳十大宠物医院排名深圳口碑好的宠物医院深圳宠物医院哪家好",
+   "snippet": "深圳十大宠物医院排名深圳口碑好的宠物医院深圳宠物医院哪家好 ; 01. 联合宠物医院 ; 02. 创凡宠物医院 ; 03. 芭比堂动物医院 ; 04. 派特堡宠物医院 ; 05. 瑞派宠物医院."
+  }
+ ]
+}

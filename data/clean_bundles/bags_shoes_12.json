@@ -1,0 +1,77 @@
+{
+ "query_id": "bags_shoes_12",
+ "query": "行李箱 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/269927255",
+   "title": "行李箱/拉杆箱品牌推荐？2026年行李箱什么牌子好？不莱玫|90分",
+   "snippet": "1000+：进口大品牌的行李箱品牌，做工和材质都非常优秀，且有自己的特色技术，适合预算高对箱子有特色需求的人群。 二、行李箱品牌推荐. 品牌、不莱玫. 不莱玫(bromen)，诞生于 ...",
+   "anchor": {
+    "brand": "不莱玫"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.amazon.com/-/zh_TW/%E6%9A%A2%E9%8A%B7%E5%95%86%E5%93%81-%E8%A1%8C%E6%9D%8E%E7%AE%B1/zgbs/fashion/15743251",
+   "title": "Amazon 暢銷商品: 最佳行李箱",
+   "snippet": "Traveler's Choice Pagosa 硬殼可擴展行李箱,附旋轉輪, 黑色, Pagosa 硬殼可擴展行李箱,附旋轉輪 · #11 · Samsonite Omni PC 硬殼可擴展行李箱，附萬向輪, 黑色.",
+   "anchor": {
+    "brand": "Pagosa"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.elle.com/tw/fashion/hot-acc/g34117553/luggages/",
+   "title": "行李箱10大人氣品牌推薦總整理！Rimowa、Samsonite⋯登機箱尺寸",
+   "snippet": "行李箱10大人氣品牌推薦總整理！Rimowa、Samsonite⋯登機箱尺寸、材質挑選指南 · 行李箱品牌推薦1：SAMSONITE · 行李箱品牌推薦2：RIMOWA · 行李箱品牌推薦3： ...",
+   "anchor": {
+    "brand": "Rimowa"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://tw.my-best.com/117386",
+   "title": "10 大行李箱品牌推薦排行榜 - mybest",
+   "snippet": "行李箱品牌的選購要點 · 注重性價比與售後服務便利性就選台灣品牌 · 追求日系簡約質感則適合Lojel或Muji無印良品 · 以機能性為首要考量能以Samsonite等美國品牌為優先."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.cosmopolitan.com.hk/lifestyle/new-suitcase-recommendation",
+   "title": "行李箱推介2026｜10大必買好用行李箱品牌：買喼重點及性價比比較",
+   "snippet": "Rimowa 寄艙行李箱 ... 要說品牌最經典的行李箱款式，必定是鋁鎂合金行李箱。堅固耐撞且極具質感，在機場遊走簡直是行走的時尚！Check-In M 約為26 吋，適合5-6 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.gq.com.tw/article/cabin-luggage-recommendations",
+   "title": "2026 盤點16 款「登機行李箱」推薦，從經典Rimowa - GQ Taiwan",
+   "snippet": "2026 盤點16 款「登機行李箱」推薦，從經典Rimowa、Samsonite 到Casetify 客製化款式通通有！ · 1. 小行李箱推薦：Casetify｜Bounce 21 吋登機箱 · 2. 小行李 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://gonglue.us/35392",
+   "title": "美国好用的行李箱品牌及型号推荐",
+   "snippet": "美国市面上比较好的行李箱品牌，有Samsonite 新秀丽、Travelpro 特普罗铁塔、American Tourister 美国旅行者、Delsey 法国大使、Away、Tumi 途明等。"
+  },
+  {
+   "rank": 8,
+   "url": "https://www.jd.com/phb/key_17329e2a9cfa89e780480.html",
+   "title": "行李箱子排行榜 - 京东",
+   "snippet": "SOO行李箱男万向轮拉杆箱耐磨抗摔26英寸A330旅行箱密码箱女商务黑色. 1000000人好评. 首先买这个品牌，感觉不错！看评价也是蛮高分的。到手后，这一感觉，是买对了，大小 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://shopee.tw/blog/luggage-brand-recommendation/",
+   "title": "【2026最新】10大行李箱品牌推薦排行｜優缺點分析＆網友評價！",
+   "snippet": "需求類型, 推薦品牌 ; 耐用、防摔, Rimowa、Samsonite、eminent 萬國通路 ; 輕量化設計, Legend Walker、LOJEL ; 高CP 值、價格親民, eminent 萬國通路、American Tourister、 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://vocus.cc/article/68eb7977fd8978000185eed1",
+   "title": "2026精選11大品牌【行李箱】推薦懶人包  ｜一篇帶你認識旅行箱 ...",
+   "snippet": "2026精選11大品牌【行李箱】推薦懶人包 ｜一篇帶你認識旅行箱✈️平價到高質感這些品牌必須認識 · 1️⃣ Arowana 亞諾納 · 2️⃣ AT 美國旅行者（American Tourister）."
+  }
+ ]
+}

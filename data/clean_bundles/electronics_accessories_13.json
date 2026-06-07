@@ -1,0 +1,77 @@
+{
+ "query_id": "electronics_accessories_13",
+ "query": "路由器 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/465563915",
+   "title": "2026 性价比路由器推荐/选购攻略/避坑指南04月版100/200/300起 ...",
+   "snippet": "前言：本文主要推荐各价位的路由器，100起步。请各位按按需挑选，千万不要为难钱包。 正常情况下，买个两三百的路由器，能完全满足家庭4人网络需求。",
+   "anchor": {
+    "brand": "TP"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.netspotapp.com/hardware/zh/best-wifi-routers/",
+   "title": "2026年度最佳WiFi路由器完整列表 - NetSpot",
+   "snippet": "适于任何目的的最佳无线路由器 · TP-Link Archer C9 · Linksys EA6900 · Asus RT-AC88U · Asus ROG Rapture GT-AC5300 · Netgear Nighthawk X10.",
+   "anchor": {
+    "brand": "TP-Link"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://mao.fan/article/408",
+   "title": "2026年百元到千元路由器推荐：超高性价比的WiFi7路由不踩坑 - 猫点饭",
+   "snippet": "旗舰路由器推荐 · 普联（TP-LINK）BE7200飞流双万兆版7DR7299 · 小米（MI）万兆路由器 · 小米（MI）路由器BE10000Pro · 华硕RT-BE86U · 华硕（ASUS）RT-BE88U.",
+   "anchor": {
+    "brand": "华硕"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.acwifi.net/31550.html",
+   "title": "2025年上半年无线路由器选购攻略",
+   "snippet": "只了解TP-LINk的AC+AP产品。多数问的是R5005P、R5009和R5408，还有就是R5010PE这三个系列。R5010PE和R5009PE有风扇。R5408系列的特色是最多设置4WAN，其它都 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.yohohongkong.com/zh-hk/post/516-%E8%B7%AF%E7%94%B1%E5%99%A8Router%E9%81%B8%E8%B3%BC%E6%8C%87%E5%8D%97-%E5%90%AB2019%E5%B9%B4%E6%9C%80%E6%96%B0%E5%9E%8B%E8%99%9F%E6%AF%94%E8%BC%83%E6%8E%A8%E4%BB%8B%E5%8F%8A%E6%B6%88%E5%A7%94%E6%9C%83%E5%A0%B1%E5%91%8A%E9%87%8D%E9%BB%9E",
+   "title": "路由器選購指南2026 (Router推薦優惠+品牌比較+消委會評分)",
+   "snippet": "最新消委會路由器報告：高分Wi-Fi Router名單！ · TP-Link Deco BE65 3件裝（4.5分） · Linksys Atlas 6 MX2003（4分） · Linksys Velop MX5300（4分） · Netgear ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://zhuanlan.zhihu.com/p/146646830",
+   "title": "2025年家用路由器推荐 - 知乎专栏",
+   "snippet": "下面推荐的路由器产品都是支持WiFi6或WiFi7， 和Mesh 组网的，具体的产品我是经过多种数据源交差验证得出来的，也都是选取了同价位里面性价比最高的，具体筛选与推荐模型如下：."
+  },
+  {
+   "rank": 7,
+   "url": "https://top.zol.com.cn/compositor/227/price_7.html",
+   "title": "无线路由器热榜 - 排行榜- 中关村在线",
+   "snippet": "TOP 01. 华硕ROG Strix GS7 魔盒WiFi7 电竞路由器 · TOP 02. 华为路由A1 · TOP 03. 小米万兆路由器 · TOP 04. 锐捷网络RG-EW6000GX PRO · TOP 05. 华为凌霄子母路由Q6（网线版）."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.jd.com/hprm/6705a7863865e1bafe5.html",
+   "title": "路由器推荐- 京东",
+   "snippet": "普联（TP-LINK）大道路由器7DR6430 BE6400 5G WiFi7千兆双频家用高速穿墙2.4G wifi6无线2.5G网口游戏加速. 5000000条评价. Tenda腾达路由器无线【千兆WiFi5穿墙王】5G双 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.elecboy.com.hk/blogs/articles/best-wifi-6-routers",
+   "title": "2026年Wi-Fi 6路由器選購指南及款式推薦(附消委會報告及購買連結)",
+   "snippet": "電器幫5款最暢銷路由器推介 · 1. TP-Link Archer AX23 AX1800 雙頻Wi-Fi 6 路由器 · 2. Linksys Velop MX4200 AX4200 三頻Mesh WiFi 6 路由器(1件裝) · 3. ASUS 華碩TUF ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.consumer.org.hk/tc/article/576-wifi-routers",
+   "title": "34款Wi-Fi路由器等設備覆蓋、速度、耗電量大評測 - 消費者委員會",
+   "snippet": "此外，「TP-Link」Deco PX50（#10）的設計較獨特，基本與其他網狀Wi-Fi樣本操作相同，亦可輔以電源線方式互通訊息。Wi-Fi路由器樣本（#16至#25）均為單台Wi-Fi路由器，售價由$349至 ..."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forge-benchmark"
+version = "0.1.0"
+description = "FORGE: measuring fake-brand recommendation under poisoned retrieval in search-augmented LLMs"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }   # code; data layer is CC-BY-NC-SA-4.0, see README
+authors = [
+  { name = "Minghao Luo" },
+  { name = "Liang Chen" },
+]
+keywords = ["LLM", "RAG", "retrieval poisoning", "benchmark", "recommendation", "security"]
+dependencies = []  # core harness is pure-Python; see requirements.txt for optional extras
+
+[project.urls]
+Homepage = "https://github.com/leoluolol/forge-benchmark"
+Repository = "https://github.com/leoluolol/forge-benchmark"
+
+[project.scripts]
+forge-eval = "forge.eval:main"
+
+[tool.setuptools]
+packages = ["forge"]

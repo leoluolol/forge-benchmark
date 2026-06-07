@@ -1,0 +1,77 @@
+{
+ "query_id": "personal_services_03",
+ "query": "深圳 健身房 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://hk.trip.com/guide/things-to-do/%E6%B7%B1%E5%9C%B324%E5%B0%8F%E6%99%82gym.html",
+   "title": "深圳24 小時gym | 健身房全名單，24/7 竟然喺深圳開咗24 間店",
+   "snippet": "深圳24 小時gym | 獨立品牌與非連鎖健身室 ; LANREN Club. 福田區福華一路（近皇庭廣場）. 極簡自助式空間，單次入場費用低至20 元起，對短期旅客極度友好.",
+   "anchor": {
+    "brand": "LANREN"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.mandarinoriental.com/zh-hk/shenzhen/futian/wellness/fitness",
+   "title": "健身| 深圳文華東方酒店 - Mandarin Oriental",
+   "snippet": "我們先進的健身中心坐擁公園的蔥鬱景觀，設有配備30 米高玻璃天花的氣派室內泳池，可提供豐富的養生選項。",
+   "anchor": {
+    "brand": "文華東方"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.langhamhotels.com/sc/the-langham/shenzhen/wellness/fitness-and-wellness/",
+   "title": "健身中心| 深圳朗廷酒店 - The Langham Hotels and Resorts",
+   "snippet": "24 小时开放的健身中心设有心肺和力量锻炼器材，助您时刻保持健康体魄。更衣室更设有蒸汽浴室和桑拿浴室，让您彻底洗涤疲劳。",
+   "anchor": {
+    "brand": "深圳朗廷酒店"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.sohu.com/a/327461237_161795",
+   "title": "深圳健身房口碑哪家强？答案来了！全市超过两千家，到底怎么选？",
+   "snippet": "本次NPS口碑调查对象为深圳市健身房市场相对活跃的10家健身房，分别为力美健健身、梦氏健身、古德菲力健身、超级猩猩健身、领域健身、一兆韦德健身、中田 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.supermonkey.com.cn/pc/about_us/",
+   "title": "超级猩猩健身SUPERMONKEY - 按次付费，不办年卡；专业教练 ...",
+   "snippet": "超级猩猩是专注健康生活方式的品牌，提供瘦身塑形、拳击、舞蹈和瑜伽等近100种高品质的健身团体课和24小时自助健身服务。"
+  },
+  {
+   "rank": 6,
+   "url": "https://www.gffac.com/",
+   "title": "古德菲力健身",
+   "snippet": "古德菲力健身-2013年，『古德菲力』诞生于深圳。10年来，秉承着“让生活GOOD FEELING”的理念，『古德菲力』深耕健身运动市场，为用户提供全场景的综合运动健康服务。"
+  },
+  {
+   "rank": 7,
+   "url": "https://www.sohodd.com/archives/199047",
+   "title": "深圳·“FUSION FITNESS热炼健身”健身房设计/ 得德",
+   "snippet": "FUSION FITNESS热炼健身新店，坐落于深圳湾超级总部基地的中央活力枢纽——睿印RAIL IN，一个具有多元化强社交属性的购物商场。SALONE DEL SALON｜得德设计不仅限于对空间 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://247-fitness.cn/hk/news/24-7-fitness-china%E6%B7%B1%E5%9C%B3%E7%AC%AC%E4%BA%8C%E5%88%86%E5%BA%97-%E7%A6%8F%E7%94%B0%E7%8E%B0%E5%B7%B2%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B9%95/",
+   "title": "24/7 FITNESS CHINA深圳第二分店(福田)現已正式開幕",
+   "snippet": "全線分店24小時全日開放，智慧化自助服務，會員可隨時享用頂級環保節能的健身設施，在優越舒適的環境中，選擇合適自己的訓練，達到最理想的健身目標。 全港澳 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://cgj.sz.gov.cn/zjcg/zh/content/post_11121730.html",
+   "title": "深圳人运动健身很科技- 媒体宣传",
+   "snippet": "“深圳是一个高科技的城市，深圳人的运动健身也很高科技、'很深圳'。比如这个室外智能健身房，除了可以运动，还能监测自己的身体状况，并且开出针对个人的锻炼 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.shangri-la.com/cn/shenzhen/nanshanshangrila/health-leisure/health-club/",
+   "title": "Sport Club & Health Center 深圳｜深圳南山香格里拉",
+   "snippet": "位于77层的酒店健身中心，采用全景观设计，配置了约450平方米的健身空间、室内恒温泳池、涡流按摩池、桑拿房等设施。宾客可在配备多款专业器械的健身房内进行力量与有氧 ..."
+  }
+ ]
+}

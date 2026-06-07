@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_14",
+ "query": "深圳 网红民宿 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.cosmopolitan.com.hk/lifestyle/shenzhen-accomodations",
+   "title": "深圳住宿推薦｜8間小紅書高分特色打卡民宿：歐洲風秘境莊園",
+   "snippet": "深圳住宿推薦｜8間小紅書高分特色打卡民宿：歐洲風秘境莊園、希臘白色小屋、美術館避世 · 深圳住宿推薦：蜜悅·羅馬假日秘境莊園 · 深圳住宿推薦：深圳·藍白聖島懸崖泡池美宿1號.",
+   "anchor": {
+    "brand": "蜜悅"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://chinatraveljetso.com/%E6%B7%B1%E5%9C%B3%E6%B0%91%E5%AE%BF/",
+   "title": "深圳民宿推介2026｜180度無敵海景／北歐風格／山景私湯",
+   "snippet": "1. 苫也·不若林度假民宿 · 2. INNOBAY楹諾·小半灣民宿 · 3. 慢可可海景公館 · 4. 深圳一粟懸崖海景酒店 · 5. 苫也·未名海海景民宿 · 6. 蜜悅·藍白聖島懸崖泡池美宿 · 7. HEY ...",
+   "anchor": {
+    "brand": "苫也"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.hyperair.com/zh-HK/hotels/top/china-shenzhen-top-bnb/guide",
+   "title": "【深圳民宿住宿攻略2026】20大好評必住深圳酒店推介 - HyperAir",
+   "snippet": "深圳BNB 民宿住宿| No. 1 蜜悅·深圳聖托裡尼海景度假美宿Miyue · shenzhen Santorini Sea View Resort · 深圳BNB 民宿住宿| No. 2 深圳茶花精品民宿Shenzhen Camellia ...",
+   "anchor": {
+    "brand": "蜜悅"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E6%B0%91%E5%AE%BF/",
+   "title": "【深圳民宿2026】人均$135起歎希臘風/無邊際泳池、15間大鵬半島 ...",
+   "snippet": "想搵高質深圳民宿？即睇2026年15間深圳大鵬半島必住海景民宿推介！整合希臘風、無邊際泳池、私人泡池等打卡質深圳民宿，人均$135起。附由香港出發交通攻略、預訂貼士及 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97-%E7%B5%95%E6%99%AF%E6%B0%91%E5%AE%BF-%E6%8E%A8%E4%BB%8B-%E5%84%AA%E6%83%A0-013036936.html",
+   "title": "深圳10大絕景民宿推介！180度無遮擋海景/平替希臘聖托里尼/偽日本 ...",
+   "snippet": "深圳酒店2024｜深圳10大絕景民宿推介！180度無遮擋海景/平替希臘聖托里尼/偽日本藝術館/美式復古風 · 1. 180度無遮擋海景民宿 · 2. 深圳懸崖民宿 · 3. 翠綠山景 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://thetripaddict.com/index.php/2018/10/03/szbnb/",
+   "title": "深圳網紅民宿推薦，小假期首選- 旅癮我最大",
+   "snippet": "深圳網紅民宿推薦，小假期首選 · 寒舍. 這家在網絡上人氣很高的一家民宿，大走北歐風，共有四間房，可以單獨租一間房或者整間租。 · MIsA's House. 高空酒店 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/280753/%E6%B7%B1%E5%9C%B3%E6%B0%91%E5%AE%BF%E6%8E%A8%E4%BB%8B-%E7%B4%94%E7%99%BD%E6%8E%A7%E6%B3%A8%E6%84%8F-3%E5%A4%A7%E6%B7%B1%E5%9C%B3%E4%BA%BA%E6%B0%A3%E7%B0%A1%E7%B4%84%E6%B0%91%E5%AE%BF",
+   "title": "【深圳民宿推介】純白控注意！3大深圳人氣簡約民宿 - HK01",
+   "snippet": "01. 藝棧ARTINN. 這間位於深圳大鵬的「藝棧」人氣極高，就在東門區、老街一帶，位置方便，由於外表設計非常型格，就算不是住客都會特意過來打卡「呃like」。"
+  },
+  {
+   "rank": 8,
+   "url": "https://utravel.com.hk/news/detail/20040656/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B5%AC%E6%96%B0%E5%8D%806%E5%A4%A7%E5%BA%A6%E5%81%87%E6%B0%91%E5%AE%BF%E6%8E%A8%E4%BB%8B-%E7%A7%81%E4%BA%BA%E6%B2%99%E7%81%98-%E9%9C%B2%E5%A4%A9%E6%B3%B3%E6%B1%A0-%E6%AD%90%E9%99%B8%E9%A2%A8%E5%BB%BA%E7%AF%89",
+   "title": "深圳大鵬新區6大度假民宿推介私人沙灘/露天泳池/歐陸風建築 - U Travel",
+   "snippet": "深圳森與海民宿位於安靜的藝術區iD Town，被群山圍繞，空氣格外清新。園區除了提供可露營的草坪、空地，還有美術館、咖啡館、麵包房等等，要走到海邊也不遠。"
+  },
+  {
+   "rank": 9,
+   "url": "https://www.runhotel.hk/bayarea/jiaochangwei-hotel-recommend/",
+   "title": "【深圳較場尾民宿推介】有海景民宿、法式裝修、私人浴池 - Runhotel",
+   "snippet": "夢圓彼岸海景私湯度假院子（較場尾海灘店） · 在海邊·海景泡池度假別墅（深圳較場尾沙灘店） · Mello覓樂民宿（桔釣沙店） · 苫也·柚柑灣避世度假酒店 · 漫松·藍嶼逸 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://holidaysmart.io/hk/article/457149/%E6%B7%B1%E5%9C%B3%E6%B0%91%E5%AE%BF2025",
+   "title": "【深圳民宿】10間人氣必住！海景靚房＋露天泡池＋近口岸超方便",
+   "snippet": "深圳民宿推介｜目錄+ 快速連結 · 深圳民宿推介1｜苫也·不若林度假民宿 · 深圳民宿推介2｜INNOBAY楹諾·小半灣民宿 · 深圳民宿推介3｜一粟懸崖海景酒店 · 深圳民宿 ..."
+  }
+ ]
+}

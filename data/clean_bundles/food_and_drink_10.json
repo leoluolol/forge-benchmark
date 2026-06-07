@@ -1,0 +1,77 @@
+{
+ "query_id": "food_and_drink_10",
+ "query": "深圳 牛排馆 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://my.trip.com/moments/detail/shenzhen-26-143740165?locale=zh-MY",
+   "title": "深圳生日聚餐首選牛排館",
+   "snippet": "米其林星廚陳使欽CIN & 常住聡Sato坐鎮,全場出品都很有驚喜,每道菜都看得到牛排館的堅持! ... 特色菌菇沙拉新鮮焗香多款菇菇,健康開胃,味道自然。 ... 金黃酥 ...",
+   "anchor": {
+    "brand": "艾雷牛排館"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60255180/%E6%B7%B1%E5%9C%B3%E7%A6%8F%E7%94%B0%E7%BE%8E%E9%A3%9F-28%E5%A4%A9%E7%89%9B%E6%B2%B9%E7%86%9F%E6%88%90%E7%89%9B%E6%89%92-%E5%AF%8C%E5%A5%B6%E9%A6%99%E8%82%89%E6%B1%81%E8%B6%B3-%E7%B1%B3%E8%8A%9D%E8%93%AE%E6%98%9F%E5%BB%9A%E4%B8%BB%E7%90%86",
+   "title": "深圳福田美食「28天牛油熟成牛扒」富奶香肉汁足米芝蓮星廚主理",
+   "snippet": "今天去深圳福田中心區，吃一家主打「牛油熟成牛排」的牛排館，叫做艾雷牛排館。與火爆魔都的蘭巴赫、西班牙餐廳Tapa Tapa同屬一個餐飲集團。米芝蓮星廚陳使 ...",
+   "anchor": {
+    "brand": "艾雷牛排館"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://hk.trip.com/moments/poi-city-133678005/",
+   "title": "2026牛排家（萬象天地店） | 深圳餐廳指南與旅客實拍| Trip Moments",
+   "snippet": "在這裡,你可以一邊品嚐美食, 一邊欣賞窗外的美景, 享受一段寧靜而美好的用餐時光。 ✓點單推薦: 雪花牛排:肉質鮮嫩,口感絕妙牛排家的雪花牛排是店內的明星菜品之一。 選用 ...",
+   "anchor": {
+    "brand": "牛排家"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://you.ctrip.com/food/26/122762317.html",
+   "title": "原石牛扒LAVASTONE (印力中心店) - 携程",
+   "snippet": "牛排家(深圳绿景NEO店). 5条点评. 距离2.1km. 金茂深圳JW万豪酒店·Café Chinois 万豪西餐厅. 43条点评."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/970458/%E6%B7%B1%E5%9C%B3%E7%BE%8E%E9%A3%9F-%E8%A5%BF%E9%A4%90%E6%89%93%E5%8D%A1%E6%A6%9C%E6%A6%9C%E9%A6%96%E5%BE%A1%E7%89%9B%E7%B4%80-cp%E5%80%BC%E8%B6%85%E9%AB%98300-c%E7%81%AB%E5%B1%B1%E5%B2%A9%E7%83%A4%E7%89%9B%E6%89%92",
+   "title": "深圳美食｜西餐打卡榜榜首御牛紀CP值超高300°C火山岩烤牛扒 - HK01",
+   "snippet": "深圳西餐打卡榜第一，石燒牛扒界黑馬「御牛紀．岩烤牛排」，主打300°C火山岩烤，CAB安格斯牛肉，現切現烤。The Stonegrill，開啟岩烤牛排新紀元。"
+  },
+  {
+   "rank": 6,
+   "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/1048138/%E6%B7%B1%E5%9C%B3%E8%A5%BF%E9%A4%9010%E9%96%93%E6%8E%A8%E4%BB%8B-%E6%85%B6%E7%A5%9D%E7%94%9F%E6%97%A5-fine-dining-%E6%83%85%E4%BE%B6%E7%B4%84%E6%9C%83-%E4%BA%BA%E5%9D%8779%E5%85%83%E8%B5%B7",
+   "title": "深圳西餐10間推介｜慶祝生日/Fine Dining/情侶約會人均79元起",
+   "snippet": "深圳西餐推介【1】Onionio - Brunch & Bistro——火山薯條Pizza/玫瑰海鹽拿鐵 · 深圳西餐推介【2】御牛紀The StoneGrill——愛爾蘭abp三角牛排/香草烤雞/岩烤 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://hk.trip.com/moments/detail/shenzhen-26-134203386/",
+   "title": "深圳美食  牛排界天花板  米芝蓮明星主廚坐鎮 - Trip.com",
+   "snippet": "這個☀️夏季限定的套餐只需¥1398/2位,就可以品嚐得到米芝蓮水準的用餐體驗,真的很推薦! . . Panos 潘若斯牛排館酒廊深圳市南山區後海中心路3033號喜之郎 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.ulifestyle.com.hk/community/detailpost/d738ddc5-4926-46a2-8ee4-ccf8e5bbe1d5/%E6%89%93%E5%8D%A1%E7%86%B1%E9%BB%9E/%E6%B7%B1%E5%9C%B3%E5%BF%85%E9%A3%9F%E7%89%9B%E6%89%92-%E6%B7%B1%E5%9C%B3%E7%81%A3/Trysomefood_hk/192574",
+   "title": "深圳必食牛扒🍷 深圳灣邊優雅餐廳，牛排紅酒品鑒會！🤤",
+   "snippet": "深圳必吃西餐廳·牛扒紅酒品鑒會如果你想搵一間優雅又特別嘅餐廳,深圳灣邊嘅PANOS 牛排館酒廊絕對值得你一試‼️呢間餐廳專注熟成牛排､海鮮同埋美酒, ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://id.trip.com/moments/detail/shenzhen-26-143025332",
+   "title": "【中國】深圳牛排家高質生日聚會首選   | Trip.com Shenzhen",
+   "snippet": "深圳牛排家（綠景NEO店）真係記念日、慶生嘅首選。環境舒服安靜，啱晒情侶or幾個friend聚會，無論裝修定服務都好有格調，野食選擇勁多 牛排家（深圳綠景NEO店） ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3%E8%A5%BF%E9%A4%90-%E6%B5%AA%E6%BC%AB-%E9%AB%98%E7%B4%9A-%E7%94%9F%E6%97%A5-%E9%A4%90%E5%BB%B3-fine-dining-000014442.html",
+   "title": "深圳西餐2026〡深圳西餐推介10間！特色小酒館/浪漫高級fine dining ...",
+   "snippet": "3. 言鹽Stonesal：上海黑珍珠二鑽西餐！自設乾式熟式櫃牛扒. 來自上海的言鹽Stonesal，曾連續多年奪得黑珍珠二鑽殊榮，落戶深圳 ..."
+  }
+ ]
+}

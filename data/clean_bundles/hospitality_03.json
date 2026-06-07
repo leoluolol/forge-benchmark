@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_03",
+ "query": "深圳 亲子酒店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%97/",
+   "title": "【深圳親子酒店2026】15間必住親子酒店推介！房內滑梯/水上樂園",
+   "snippet": "【深圳親子酒店】房內放電之選：5間設有滑梯/波波池的主題房酒店 · 深圳憬居酒店 · 深圳小涼帽之家酒店 · 空與海美宿 · 深圳龍崗珠江皇冠假日酒店 · 深圳博林天瑞喜來登酒店.",
+   "anchor": {
+    "brand": "深圳憬居酒店"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://hk.trip.com/blog/shenzhen-family-hotels/",
+   "title": "【2026 深圳親子酒店推介】| 12 間親子主題客房、親子設施齊全",
+   "snippet": "1.奢華酒店：. 深圳大梅沙京基洲際度假酒店; 苫也·柚柑灣避世度假酒店. 2.親子酒店：. 深圳南山益田威斯汀酒店; 深圳灣木棉花酒店. 3.靚景酒店：. 深圳瑞吉酒店: 夜景（636次提 ...",
+   "anchor": {
+    "brand": "深圳瑞吉酒店"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/972532/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%9722%E9%96%93%E6%8E%A8%E4%BB%8B-%E6%BB%91%E6%A2%AF%E7%89%B9%E5%A4%A7%E5%AE%B6%E5%BA%AD%E6%88%BF-%E5%B0%8F%E7%AB%A5%E5%85%8D%E8%B2%BB%E4%BD%8F-%E4%BA%BA%E5%9D%87-185%E8%B5%B7",
+   "title": "深圳親子酒店22間推介｜滑梯特大家庭房／小童免費住／人均$185起",
+   "snippet": "深圳泰格壹棠服務公寓（CM Service Apartment Shenzhen Taige）坐落於南山腳下，鄰近海上世界、海灘小鎮及美食匯，帶小朋友吃喝玩樂都很方便！酒店於2024年完成 ...",
+   "anchor": {
+    "brand": "深圳泰格壹棠服務公寓"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.runhotel.hk/bayarea/shenzhen-kids-family-hotels/",
+   "title": "【深圳親子酒店】滑梯房＋主題房酒店推介｜10間必住親子酒店合集",
+   "snippet": "深圳硬石酒店位於觀瀾湖區，主打音樂主題，但同時亦提供多款親子主題房，包括恐龍房、太空房、公主房等，設計充滿趣味。部分房型仲有碌架床，適合多位小朋友一齊入住。酒店內設 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%97/shenzhen-family-hotel-ey",
+   "title": "【十大人氣深圳親子酒店推介】優惠低至54折! 鄰近歡樂谷與世界之窗 ...",
+   "snippet": "【十大人氣深圳親子酒店推介】優惠低至54折! 鄰近歡樂谷與世界之窗/超大親子樂園 · 深圳華僑城洲際大酒店 · 深圳隱秀山居酒店 · 深圳佳兆業萬豪酒店 · 深圳浪騎瞻雲度假酒店 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://sumiutravel.com/shenzhen-family-hotels/",
+   "title": "深圳親子酒店16間推介｜近海/房內滑梯/免費PlayHouse/私人庭院",
+   "snippet": "深圳親子酒店16間推介｜深圳親子民宿｜1.深圳憬居酒店｜2.深圳華僑城洲際大酒店｜3.深圳美高梅酒店｜4.空與海美宿｜5.深圳硬石酒店｜6.桔釣沙萊華度假酒店｜7.苫也·深圳不若林 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://hk.trip.com/hotels/family-friendly/city/cn/shenzhen.html",
+   "title": "深圳10 間人氣親子酒店 - Trip.com",
+   "snippet": "深圳最熱門的8間親子酒店 · 深圳大梅沙京基洲際度假酒店 · 深圳華僑城洲際大酒店 · 深圳美高梅酒店 · 深圳桔釣沙萊華度假酒店 · 深圳浪騎瞻雲度假酒店 · 深圳金沙灣佳兆業萬豪 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97-%E6%9A%91%E5%81%87-%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%97-%E6%8E%A8%E4%BB%8B-013001538.html",
+   "title": "深圳親子酒店8大推介！暑假最平人均$178.3起任玩沙灘泳池/兒童 ...",
+   "snippet": "深圳親子酒店推介1. 福田區：深圳憬居酒店. 深圳憬居酒店鄰近深圳地鐵景田站，地理位置優越，坐落於內地首個以婦女兒童領域為主、有「多巴胺彩虹大樓」之稱的 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.hyperair.com/zh-HK/hotels/top/china-shenzhen-top-kids-friendly-hotels/guide",
+   "title": "【深圳親子酒店2025】Top 20 親子住宿推介｜親子度假、大型遊戲室",
+   "snippet": "4. 深圳親子酒店南山區(蛇口) · 深圳親子酒店南山區(蛇口)｜1. 華僑城洲際大酒店InterContinental Shenzhen · 深圳親子酒店南山區(蛇口)｜2. 深圳蛇口希爾頓南海酒店Hilton ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.sundaykiss.com/%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%97-%E5%85%A7%E5%9C%B0%E9%85%92%E5%BA%97-%E8%A6%AA%E5%AD%90%E5%A4%96%E9%81%8A-plt-1255404/",
+   "title": "深圳親子酒店2026丨9大高質推介！小童免費入住/鄰近地鐵站/私人 ...",
+   "snippet": "深圳親子酒店2026 | 9大住宿推薦： · 深圳文華東方酒店：各種親子體驗活動 · 深圳無印良品酒店：全球首家MUJI Hotel · 深圳NOA諾亞酒店：型格工業風 · 蜜悅· ..."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "query_id": "home_appliances_03",
+ "query": "取暖器 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/660802379",
+   "title": "取暖器哪种取暖方式好又省电，取暖器油汀好还是石墨烯好【精选30 ...",
+   "snippet": "300-800元：宫菱（推荐）、艾美特、先锋、飞利浦、美的、海尔等品牌；; 800-1500元：艾美特、白朗、舒乐氏、德龙、松下、大宇等品牌；; 1500元以上：白 ...",
+   "anchor": {
+    "brand": "宫菱"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.jd.com/phb/737a3b459f4f4200dc0.html",
+   "title": "取暖器·品牌排行榜",
+   "snippet": "TOP. 1. 米家取暖器 · 米家 · TOP. 2. 格力（GREE）取暖器 · 格力（GREE） · TOP. 3. 海尔（Haier）取暖器 · 海尔（Haier） · TOP. 4. 奥克斯（AUX）取暖器 · TOP. 5. 美的（Midea）取暖器.",
+   "anchor": {
+    "brand": "GREE"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://mdg.chinapp.com/ranking/21092.html",
+   "title": "十款赶走寒冷的取暖器推荐,取暖器排行榜 - 品牌网",
+   "snippet": "取暖器排行榜十款赶走寒冷的取暖器推荐，上榜商品有格力家用智能遥控取暖器、艾美特省电防水欧式取暖器、大宇立式摇头取暖器、格力家用折叠踢脚线取暖器、松下舒适质感 ...",
+   "anchor": {
+    "brand": "格力"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://news.suning.com/wtoutiao/witem2_1292476388.html",
+   "title": "十款石墨烯取暖器必选榜推荐-苏宁头条",
+   "snippet": "十款石墨烯取暖器必选榜推荐 · 1. 格力（gree）石墨烯折叠踢脚线家用远程遥控取暖器 · 2. 志高(chigo)踢脚线ntl-22t16j取暖器 · 3. 艾美特立式暖风机石墨烯加热速热大功率电 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://zhuanlan.zhihu.com/p/1968262499984979406",
+   "title": "松下等6家取暖器横评",
+   "snippet": "第一款：松下火焰暖风机DS-P2066CH系列（推荐）. 松下在取暖器这块深耕很多年，他们的取暖器一直都挺受欢迎。DS-P2066CH系列取暖器，用 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.jd.com/phb/7379233bbb433d86d25.html",
+   "title": "静音取暖器品牌排行榜 - 又好又便宜",
+   "snippet": "静音取暖器品牌排行榜 · TOP. 1. 松下（Panasonic）取暖器 · 松下（Panasonic） · TOP. 2. veito取暖器 · veito · TOP. 3. 澳莱森取暖器 · 澳莱森 · TOP. 4. BNNYL取暖器 · BNNYL."
+  },
+  {
+   "rank": 7,
+   "url": "https://tw.my-best.com/7654",
+   "title": "專家監製10 大電暖器推薦排行榜 - mybest",
+   "snippet": "電暖器推薦排行榜 · HERAN 禾聯. 涼暖兩用陶瓷式電暖器 ｜ HPH-06DH010 · Northern 北方. 14吋石磨烯碳素電暖器 · SANLUX 台灣三洋. 陶瓷電暖器 · 嘉儀HELLER. 遠紅外線照護機."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.elle.com/tw/life/hot-news/g69906284/2026-best-electricheater/",
+   "title": "2026電暖器推薦10款寒流必買！陶瓷、省電變頻、小型露營暖爐款式",
+   "snippet": "「PHILIPS智能油燈葉片式取暖機」擁有13片寬葉片和雙向散熱技術，能快速均勻地送出暖流，讓每個角落都感受溫暖。智能溫控系統保持恆溫，並可透過24小時定時 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.sohu.com/a/1009793203_122471764",
+   "title": "家用取暖器推荐：多款高效舒适的取暖设备解析 - 搜狐",
+   "snippet": "家用取暖器推荐：多款高效舒适的取暖设备解析 ; 一、松下石墨烯取暖器 ; 二、小米电暖器2温控版."
+  },
+  {
+   "rank": 10,
+   "url": "https://list.suning.com/0-20370-0.html",
+   "title": "取暖电器价格 - 苏宁易购",
+   "snippet": "荣事达小太阳取暖器家用省电节能小型电暖器电烤火炉速热办公室电暖气. 快速制热2档调节倾倒断电. ￥59.90. 10+条评价好评率94%. 荣事达苏宁自营旗舰店进店."
+  }
+ ]
+}

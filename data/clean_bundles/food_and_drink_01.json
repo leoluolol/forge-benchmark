@@ -1,0 +1,77 @@
+{
+ "query_id": "food_and_drink_01",
+ "query": "深圳 亲子餐厅 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://hk.trip.com/guide/food/%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3.html",
+   "title": "親子餐廳2026：香港深圳7大人氣餐廳精選（含波波池/沙池/滑梯）",
+   "snippet": "香港& 深圳親子餐廳一覽：7 大推介 · 尖沙咀親子餐廳：維港旁的玩樂天堂 · 九龍親子餐廳：新興社區的隱世寶藏 · Origami Kids Cafe · 炑八韓烤親子餐廳 · 港島親子 ...",
+   "anchor": {
+    "brand": "Origami"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://utravel.com.hk/news/detail/20058557/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3-%E4%BA%BA%E6%B0%A3%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E6%8E%A8%E4%BB%8B-%E6%B3%A2%E6%B3%A2%E6%B1%A0-%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC-%E9%81%8A%E6%A8%82%E5%A0%B4",
+   "title": "人氣親子餐廳7間推介啱一家大細波波池/旋轉木馬/3層遊樂場任玩",
+   "snippet": "深圳人氣親子餐廳 · 深圳親子餐廳推介｜1. 奈爾寶家庭中心 · 深圳親子餐廳推介｜2. 瑞迦餐廳 · 深圳親子餐廳推介｜3. Tiamo恬慕親子餐廳 · 深圳親子餐廳推介｜4. COMMUNE·X幻師.",
+   "anchor": {
+    "brand": "Tiamo恬慕親子餐廳"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.sundaykiss.com/%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95/%E5%A4%A7%E7%81%A3%E5%8D%80%E5%8F%8A%E5%85%A7%E5%9C%B0%E8%A6%AA%E5%AD%90%E9%81%8A-cnpfood-%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3-ctb163-sk23-1253877/",
+   "title": "深圳親子餐廳2025｜10大人氣推介：波波池、童話王國、Miffy餐廳",
+   "snippet": "深圳親子餐廳2025|2.Ms. KIMO星漠; 深圳親子餐廳2025|3.Tiamo恬慕親子餐廳; 深圳親子餐廳2025|4.Lilliput粒粒堡; 深圳親子餐廳2025|5.MeeTown謎堂; 深圳 ...",
+   "anchor": {
+    "brand": "Tiamo恬慕親子餐廳"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.jiemian.com/article/2318009.html",
+   "title": "暑假遛娃去哪里来看这几家深圳人气亲子餐厅 - 界面新闻",
+   "snippet": "布鲁餐厅是一家自带小型儿童游乐园的餐厅，一进门就被大木牌上一句“WE ARE FAMILY”的标语吸引了！这个地方很适合带小朋友来吃吃玩玩。"
+  },
+  {
+   "rank": 5,
+   "url": "https://www.wingontravel.com/travel/feature/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%81%8A%E5%A5%BD%E5%8E%BB%E8%99%95/",
+   "title": "【深圳親子遊好去處】細數人氣深圳親子遊好去處推介暢玩夢幻兒童 ...",
+   "snippet": "Meland Club · 奈爾寶家庭中心 · 米兜露營樂園 · Bossbabe親子餐廳 · Ms. KIMO星漠親子餐廳 · 木育森林Wooderful Land · 相關文章 · 最新文章."
+  },
+  {
+   "rank": 6,
+   "url": "https://m.dianping.com/discovery/654362270",
+   "title": "深圳｜6家儿童套餐的餐厅合集 - 大众点评",
+   "snippet": "... ，怎么样、好不好？国家提议二胎三胎所以亲子餐厅只会越来越多除了一些亲子餐厅 ... 推荐指数：. -. 「九毛九西北菜(壹海城店) ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.kamadelivery.com/blog/posts/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%85%92%E5%BA%97%E6%8E%A8%E8%96%A6/",
+   "title": "7間深圳親子酒店推薦【兒童主題房間+遊樂園+親子餐廳】",
+   "snippet": "7間深圳親子酒店推薦【兒童主題房間+遊樂園+親子餐廳】 · 深圳威尼斯英迪格酒店 · 深圳益田威斯汀酒店 · 深圳華僑城洲際大酒店 · 深圳小涼帽之家酒店."
+  },
+  {
+   "rank": 8,
+   "url": "https://chinatraveljetso.com/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95/",
+   "title": "【深圳親子好去處2026】30大景點推介｜編輯精選交通門票食買玩全 ...",
+   "snippet": "深圳親子好去處｜1. 深圳大型戶外樂園推介 · 世界之窗 · 歡樂谷 · 龍崗兒童公園 · 觀瀾山水田園艾尼摩神奇樂園 · 大鵬雲海天使灣 · 南頭古城."
+  },
+  {
+   "rank": 9,
+   "url": "https://hk.news.yahoo.com/%E5%90%84%E4%BD%8D%E6%B8%AF%E7%88%B8%E6%B8%AF%E5%AA%BD%E6%9C%89%E6%95%91%E5%96%87-trip-com-%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E6%94%BB%E7%95%A5-%E6%94%BE%E9%9B%BB%E9%A3%9F%E9%A3%AF%E5%85%A9%E4%B8%8D%E8%AA%A4-040100361.html",
+   "title": "各位港爸港媽有救喇！Trip.com 親子餐廳攻略：放電食飯兩不誤",
+   "snippet": "深圳區超值之選 ; Meland Club. 主要玩樂設施：超大型綜合遊樂園、迷宮. 必試推介菜式：園內設有多個餐飲站點（選擇豐富） ; Neobio 奈爾寶. 主要玩樂設施：夢幻 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95/",
+   "title": "【深圳親子好去處2026】親子遊終極攻略！精選40+親子景點/酒店 ...",
+   "snippet": "餐廳方面，有網紅燒肉店「犀先生·燒肉」同周杰倫開嘅「Mr.J Diner」。 A modern shopping complex named KK One in Shenzhen, showcasing a contemporary architectural ..."
+  }
+ ]
+}

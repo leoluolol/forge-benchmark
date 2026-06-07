@@ -1,0 +1,77 @@
+{
+ "query_id": "cycling_gear_03",
+ "query": "山地车 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.specialized.com.cn/cn/zh/into_mountain_bike",
+   "title": "如何选择您的第一辆山地自行车| Specialized.com.cn",
+   "snippet": "推荐车型Demo. DH速降山地车 (Down Hill). DH速降山地车是完全不考虑爬坡性能的竞赛车型。速降赛道充满了各种颠簸、障碍和落差、飞跳，它是山地自行车类型中最重量级的一款 ...",
+   "anchor": {
+    "brand": "DH"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.biketo.com/racing/7749.html",
+   "title": "BikeRadar: 1000美元以下的山地自行车精选(图文) - 美骑网",
+   "snippet": "通过42项严格的评分标准，终于选出大家公认的前三名。金牌：Felt Nine Sport，银牌Cannondale Trail SL 3（前两名均获得BikeRadar 4颗星），铜牌Scott Scale 29 Comp，3.5颗星。",
+   "anchor": {
+    "brand": "Felt"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "http://www.biketo.com/product/42311.html",
+   "title": "整车推荐：9款3000元级别热销山地车",
+   "snippet": "1、捷安特XTC 800 · 2、喜德盛传奇500 · 3、迪卡侬RR560 27.5 · 4、UCC德曼特3 Dynamite 3 27.5 · 5、米赛尔曙光X10 碳纤维27.5 · 6、JAVA FURIA 27.5 · 7、Specialized ...",
+   "anchor": {
+    "brand": "捷安特"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.wildto.com/index.php/news/57358.html",
+   "title": "硬核与轻量全都有万元内山地车推荐 - 野途网",
+   "snippet": "如果你想玩林道级别的体验，BIG.TRAIL 200是入门的不错选择，它配备了120 mm 避震前叉，29er轮径，2.4外胎(车架最大支持2.5)，配备禧玛诺CUES U4000套件。"
+  },
+  {
+   "rank": 5,
+   "url": "https://zhuanlan.zhihu.com/p/1914323668445669034",
+   "title": "【2026年4月】山地自行车销量TOP10！热门山地车车型闭眼入清单",
+   "snippet": "车型分入门级、进阶级和专业级，均采用6061轻量铝合金车架，禧玛诺变速器，变速精准，换挡顺畅，区别主要在叉车和前叉，推荐的XC350整体性能均衡，是同价位中较为实用的选择。"
+  },
+  {
+   "rank": 6,
+   "url": "https://www.jd.com/phb/1318832cbf6fb821bef1.html",
+   "title": "山地车自行车品牌排行榜 - 京东",
+   "snippet": "山地车自行车品牌排行榜 · TOP. 1. 喜德盛（xds）穿戴装备 · 喜德盛（xds） · TOP. 2. 凤凰（Phoenix）穿戴装备 · TOP. 3. 千里达（TRINX）穿戴装备 · TOP. 4. 永久（FOREVER）穿戴装备."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.autohome.com.cn/ask/17387790.html",
+   "title": "哪款山地车性价比高？六款推荐给你 - 汽车之家",
+   "snippet": "喜德盛27速山地自行车英雄380是不错的选择。 这款自行车的车架采用轻量可靠的铝合金材料，拥有27.5寸的轮径，搭载了27速变速器和油压碟刹。"
+  },
+  {
+   "rank": 8,
+   "url": "https://www.wildto.com/news/55800.html",
+   "title": "不知道选什么山地车？16大山地车品牌大盘点！ - 野途网",
+   "snippet": "1.崔克. 美国最大自行车厂商，旗下既有最顶级赛车，也有大众车型。 · 2. Specialized. 美国龙头自行车企业，几乎包揽所有自行车赛事冠军，产品线覆盖专业到大众 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://m.bjnews.com.cn/detail/1664367270168985.html",
+   "title": "如何选购一辆适合自己的自行车？看完这篇就全懂了 - 新京报",
+   "snippet": "选购自行车，价格在可接受范围内自然是首要因素。在此基础上，推荐选择一线国产或国际品牌。外观主要看个人喜好，与此同时，尽量选择有线下零售店、 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.xiuxiandou.com/outdoor-sport/shandiche.html",
+   "title": "2026山地车推荐测评_哪个牌子好用_十大品牌排行榜对比 - 休闲君评测",
+   "snippet": "2026山地车哪个牌子好？十大品牌排行榜与选购指南 · 1 喜德盛山地自行车・变速轻便｜学生骑行指南 · 2 崔克MARLIN 5碟刹｜轻量越野山地车 · 3 Jeep山地车C800 26寸减震碟刹 ..."
+  }
+ ]
+}

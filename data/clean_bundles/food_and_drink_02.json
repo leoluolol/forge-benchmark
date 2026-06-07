@@ -1,0 +1,77 @@
+{
+ "query_id": "food_and_drink_02",
+ "query": "深圳 咖啡馆 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://global.hk01.com/%E6%97%85%E6%B8%B8/60328996/%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1cafe%E6%8E%A8%E4%BB%8B10%E5%A4%A7-%E6%B7%B1%E5%9C%B3%E6%9C%80%E9%AB%98%E5%92%96%E5%95%A1%E5%BA%97-%E8%A1%A8%E6%83%85%E5%92%96%E5%95%A1-%E9%9B%AA%E6%99%AF-%E6%B2%99%E6%BC%A0%E4%B8%BB%E9%A2%98",
+   "title": "深圳打卡Cafe推介10大｜深圳最高咖啡店！表情咖啡+雪景+沙漠主题",
+   "snippet": "深圳打卡Cafe推介【1】饭后士多——沉浸式体验复古酒店风咖啡店. 饭后士多是位于深圳福田的欧式酒店风格咖啡店，午市提供轻食、糖水、甜品、特色咖啡， ...",
+   "anchor": {
+    "brand": "饭后士多"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.timeout.com.hk/hong-kong/hk/%E9%A4%90%E5%BB%B3/%E6%B7%B1%E5%9C%B3-cafe-2025%EF%BD%9C%E4%B9%9D%E9%96%93%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1%E5%92%96%E5%95%A1%E5%BA%97%E6%8E%A8%E4%BB%8B%EF%BC%9A%E5%8C%97%E6%AD%90%E6%A5%B5%E7%B0%A1%E9%A2%A8-%E4%BB%BF%E7%B4%90%E7%B4%84%E4%B8%AD%E5%A4%AE%E8%BB%8A%E7%AB%99",
+   "title": "2026 深圳Cafe 推介｜9 間必訪打卡咖啡店指南 - Time Out Hong Kong",
+   "snippet": "必去深圳打卡咖啡店推薦 · 集福咖啡：馳名手沖雲南咖啡 · 福康樓：朝啡暮酒 · Mimo Cafe：北歐極簡風 · 老吳咖啡：古法沖啡 · Mr. Walden Coffee：精緻休閒 · The ...",
+   "anchor": {
+    "brand": "集福咖啡"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.elle.com.hk/life/shenzhen-cafe-recommendations",
+   "title": "【深圳Cafe 2025】15間週末北上打卡咖啡店推薦| 偽富士山/海景/韓系",
+   "snippet": "【深圳Cafe 2025】15間週末北上打卡咖啡店推薦| 偽富士山/海景/韓系 · 深圳Cafe推介：瞬間slack · 深圳Cafe推介：O2 Coffee · 深圳Cafe推介：南頭古城Starbucks · 深圳Cafe ...",
+   "anchor": {
+    "brand": "Starbucks"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3-%E5%92%96%E5%95%A1-cafe-%E5%92%96%E5%95%A1%E5%BA%97-%E6%96%87%E9%9D%92-%E6%89%93%E5%8D%A1-%E5%9C%B0%E5%9D%80-230156310.html",
+   "title": "深圳咖啡一條街｜10間文青打卡cafe推介！爆紅復古風綠房子/花店裡 ...",
+   "snippet": "由汕頭紅到深圳的洪浪咖啡，總店賣的是腸粉和咖啡，深圳分店主打的是單品、冰滴和38人民幣一杯的鬼佬豆漿，亦即是espresso 加燕麥奶，有點像dirty，卻多了一份 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.runhotel.hk/bayarea/shenzhen-cafe/",
+   "title": "【深圳Cafe / 打卡咖啡店推介】8 間人氣Cafe（持續更新） - Runhotel",
+   "snippet": "【深圳Cafe / 打卡咖啡店推介】8 間人氣Cafe（持續更新） · Cafe All 皆咖 · BAFA CAFE · Bang Bang 胖卡龍 · 山海咖啡海景餐Bar · 川• Cafe · Blue Concept Cafe & Farm · Rtop ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://hk.ulifestyle.com.hk/activity/detail/20053603/%E6%B7%B1%E5%9C%B3%E5%92%96%E5%95%A1%E5%BA%97-%E4%BA%BA%E6%B0%A3%E6%89%93%E5%8D%A1cafe%E5%92%96%E5%95%A1%E5%BB%B3-%E5%BF%85%E8%A9%A6%E5%86%A0%E8%BB%8D%E6%8B%89%E8%8A%B1%E5%BA%97",
+   "title": "深圳咖啡店｜20+人氣打卡Cafe咖啡廳必試冠軍拉花店/羅漢果美式",
+   "snippet": "深圳咖啡店推介 ; 深圳龍崗區Cafe. 永樂堂咖啡; Blue Concept ·關於藍; 源啡 ; 深圳南山區Cafe. VOWS Coffee; Intro Coffee; ExitBabylon出空間 ; 深圳寶安區 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/1036447/%E6%B7%B1%E5%9C%B3cafe%E6%8E%A8%E4%BB%8B7%E9%96%93-%E7%B4%94%E7%99%BD%E5%92%96%E5%95%A1%E5%BA%97-%E4%B8%80%E9%96%93%E5%8F%AF%E6%9C%9B%E6%B5%B7-%E9%96%8B%E5%BF%83%E6%9E%9C%E5%B7%B4%E6%96%AF%E5%85%8B%E4%BA%BA%E5%9D%87-30",
+   "title": "深圳Cafe推介7間｜純白咖啡店！一間可望海開心果巴斯克人均$30",
+   "snippet": "深圳Cafe推介｜ 1. ONIONIO le four — 南法復古莊園主題 · 深圳Cafe推介｜ 2. Mr.Walden Coffee — 木質調悠閒Cafe · 深圳Cafe推介｜3. Floatie —飽覽海景露營風 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://eastweek.stheadline.com/fungba/9732",
+   "title": "深圳最有名咖啡一條街景田翠葉道6間特色咖啡店推介附地址 - 東周刊",
+   "snippet": "深圳咖啡店推介| 1.一顆蘋果AN APPLE COFFEE · 本期推薦：蘋果美式 · 深圳咖啡店推介| 2.三伏HOHO Gelato · 本期推薦：熱紅酒&椰子海 · 本期推薦：漢堡游泳蘇打."
+  },
+  {
+   "rank": 9,
+   "url": "https://bravel.com/china-%E4%B8%AD%E5%9C%8B/shenzhen-top-10-cafes-nanshan-futian/",
+   "title": "【深圳10大打卡Cafe巡禮】從南山、福田到龍崗，飲住咖啡Chill住影！",
+   "snippet": "位於海邊的Bella Coffee 是深圳最美的海景咖啡館之一，吸引了無數打卡愛好者和情侶專程前來。咖啡館最著名的就是面朝大海的旋轉樓梯，特別是在日落時分，落日 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://utravel.com.hk/news/detail/20034524/%E5%85%A8%E6%B7%B1%E5%9C%B3cafe%E5%90%88%E9%9B%86-%E7%A6%8F%E7%94%B0-%E9%BE%8D%E8%8F%AF-%E7%BE%85%E6%B9%96%E6%9D%B1%E9%96%80%E5%92%96%E5%95%A1%E5%BA%97%E9%80%BE25%E6%8E%A8%E4%BB%8B-%E6%97%A5%E9%9F%93%E7%B3%BB%E5%BC%8F%E7%B0%A1%E7%B4%84%E9%A2%A8%E8%87%B3%E5%95%B1%E6%89%93%E5%8D%A1",
+   "title": "【深圳cafe推介】深圳精品咖啡店打卡逾25間羅湖東門老街cafe",
+   "snippet": "深圳Cafe推薦｜深圳咖啡店推介 ; 深圳寶安區Cafe. NOWORRIES; Bafa cafe ; 深圳南山區Cafe. Lotiko; Intro Coffee; ExitBabylon出空間 ; 深圳大鵬新區Cafe."
+  }
+ ]
+}

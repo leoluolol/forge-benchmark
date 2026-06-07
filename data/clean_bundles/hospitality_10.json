@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_10",
+ "query": "深圳 海边酒店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://hk.trip.com/hotels/seaview/city/cn/shenzhen.html",
+   "title": "深圳海景酒店TOP10 推介 - Trip.com",
+   "snippet": "深圳海景酒店推介 · 鉑爾頓公寓（深圳國際會展中心店） · 深圳蛇口郵輪中心K11 CitiGO歡閣酒店 · 深圳灣萬象城桔子水晶酒店 · 深圳海景嘉途酒店 · 聽海·海景居（深圳較場尾店）.",
+   "anchor": {
+    "brand": "CitiGO"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://shenzhencat.org/blog/%E6%B7%B1%E5%9C%B3%E6%B8%A1%E5%81%87%E9%85%92%E5%BA%97/",
+   "title": "【深圳渡假酒店推介2026】17間必住渡假酒店整合！人均$135起歎 ...",
+   "snippet": "深圳渡假酒店推薦2026：絕美海景篇（大鵬南澳）. 深圳大鵬南澳一向係深圳嘅「度假後花園」，以水清沙幼嘅海灘同絕美自然風光聞名。",
+   "anchor": {
+    "brand": "Hard Rock"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/885149/%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97-%E5%8D%97%E6%BE%B315%E5%A4%A7%E7%B2%BE%E9%81%B8%E4%BD%8F%E5%AE%BF-%E9%9A%B1%E4%B8%96%E6%B5%B7%E6%99%AF%E9%9C%B2%E5%A4%A9%E9%A2%A8%E5%91%82-%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8%E5%8E%BB%E6%96%B9%E4%BE%BF",
+   "title": "深圳南澳酒店推介｜15精選住宿無敵海景／露天風呂／蓮塘口岸方便",
+   "snippet": "位於海貝灣度假區，每一間客房都擁有無敵一線海景。客人可以在露台享受到美麗的日落景致。而酒店擁有一個露台懸崖餐廳。用色方面，酒店的設計師採用了大膽的 ...",
+   "anchor": {
+    "brand": "深圳南澳酒店"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1%E9%85%92%E5%BA%97/shen-zhen-da-ka-jiu-dian-HM",
+   "title": "【10+深圳酒店打卡推薦】低至62折!絕美海景日落/夢幻城堡酒店！",
+   "snippet": "小編為您蒐集嘅絕佳深圳打卡酒店清單 · 深圳佳兆業萬豪酒店（龍崗區） · 蜜悦·深圳天麓秘野仙蹤度假美宿（鹽田區） · 深圳茵特拉根華僑城酒店（鹽田區） · 深圳深鐵皇冠假日酒店（ ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.booking.com/beach/region/cn/shenzhen-area.zh-cn.html",
+   "title": "中国深圳特区推荐海滩酒店 - Booking.com",
+   "snippet": "深圳大梅沙万枫酒店坐落于深圳，距离大梅沙海滩（Dameisha Beach）有不到2分钟步行路程，配备礼宾服务、禁烟客房、健身中心、免费WiFi以及餐厅。这家住宿距离东部华侨城 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.hyperair.com/zh-HK/hotels/top/china-shenzhen-top-private-beach-hotels/guide",
+   "title": "【深圳私人海灘酒店住宿攻略2026】20大好評必住深圳酒店推介",
+   "snippet": "深圳美高梅酒店倚靠東部黃金海岸網上的“美麗傳奇”小梅沙，強調生活品質與趣味，以格調藝術為核心，致力於打造娛樂奢享休憩之所，成為東部濱海度假酒店的全新目的地。酒店外觀 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%99%AF%E9%85%92%E5%BA%97-%E5%84%AA%E6%83%A0-yahoo%E8%B3%BC%E7%89%A9%E7%AF%80-053506021.html",
+   "title": "深圳海景酒店7大推介！人均$271.5起聖托里尼風純白建築/直達深圳 ...",
+   "snippet": "深圳桔釣沙萊華度假酒店對正素有深圳版「馬爾代夫」玻璃海之稱的桔釣沙沙灘，數步便到達沙灘，非常方便！酒店擁有超過150,000平方米的東南亞熱帶花園，種有 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://hk.trip.com/blog/shenzhen-resort-hotel/",
+   "title": "【深圳度假酒店2026】深圳度假酒店海邊度假+雙人浴缸+私人泳池",
+   "snippet": "【深圳度假酒店2026】深圳度假酒店海邊度假+雙人浴缸+私人泳池 · 1. 深圳藍楹灣度假酒店（Bay Breeze Resort） · 2. 深圳濱河時代ICON LAB艾墾酒店（ICON LAB Hotel Shenzhen ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://utravel.com.hk/news/detail/20062540/%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B5%AC%E6%96%B0%E5%8D%80%E5%8D%81%E9%96%93%E9%9D%9A%E6%99%AF%E9%85%92%E5%BA%97%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%B3%A1%E6%B1%A0-%E6%87%B8%E5%B4%96%E6%B0%91%E5%AE%BF-%E9%81%A9%E5%90%88%E8%A6%AA%E5%AD%90%E6%88%96%E6%83%85%E4%BE%B6%E5%BA%A6%E5%81%87",
+   "title": "深圳大鵬新區十間靚景酒店推薦！海景泡池/懸崖民宿/適合親子或情侶 ...",
+   "snippet": "深圳桔釣沙萊華度假酒店坐落於深圳大鵬半島東岸的桔釣沙，獨佔1公里原生海岸與15萬平方米東南亞熱帶園林，被譽為「深圳最美沙灘」之一。酒店鄰近楊梅坑、西涌、鹿嘴山莊等 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1030931/%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E6%B5%B7%E6%99%AF%E9%85%92%E5%BA%979%E9%96%93-%E6%B5%B7%E5%B2%B8%E5%9F%8E%E9%99%84%E8%BF%91-%E8%BF%91%E5%9C%B0%E9%90%B5-%E6%96%B0%E9%96%8B%E5%B9%95-%E4%BA%BA%E5%9D%87-142",
+   "title": "深圳南山海景酒店9間｜海岸城附近／近地鐵／新開幕／人均$142",
+   "snippet": "南山海景酒店推介2026！ · 深圳南山香格里拉酒店（Shangri-La Nanshan,Shenzhen） · 深圳灣木棉花酒店（Hotel Kapok Shenzhen Bay） · 深圳灣安達仕酒店（Andaz ..."
+  }
+ ]
+}

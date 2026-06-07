@@ -1,0 +1,77 @@
+{
+ "query_id": "apparel_basics_08",
+ "query": "毛衣 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/681212116",
+   "title": "有哪些高性价比的毛衣品牌推荐？ - 知乎专栏",
+   "snippet": "2. NOTHOMME. 价格：189-339元好评率：99.53%. 这家的毛衣我个人是蛮推荐的. 不仅款式多， ...",
+   "anchor": {
+    "brand": "马登"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.vogue.com.tw/fashion/article/best-knitwear-brands",
+   "title": "最齊全毛衣、針織衫盤點：從平價Uniqlo到高檔The Row、Loro Piana",
+   "snippet": "設計調性大膽、毫無拘束，如果想買JW Anderson 的東西，推薦你盡量選些與眾不同的款式，如管狀裝飾的高領毛衣或亮色系、搭配超大袖口的針織外套，都是跳出人群 ...",
+   "anchor": {
+    "brand": "Uniqlo"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://zhuanlan.zhihu.com/p/587233430",
+   "title": "男女羊绒衫和羊毛衫【精选8家羊绒衫店铺品牌】-持续更新",
+   "snippet": "接下来我推荐一些还不错的男生款式和女生款式的羊绒衫，其中穿插着介绍一些低价位的毛衣和针织衫，但是性价比很高，穿着也舒服。 第一家：马登. 这家店铺里面的都是属于复古 ...",
+   "anchor": {
+    "brand": "鄂尔多斯"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.honglingjin.co.uk/shopping/315011.html",
+   "title": "2025年英国秋冬毛衣推荐| 优衣库、&Other Stories、拉夫劳伦等30+款",
+   "snippet": "2025年英国秋冬毛衣推荐| 优衣库、&Other Stories、拉夫劳伦等30+款 ... 兼具功能性和时尚感的毛衣是秋冬穿搭的最佳选择之一，也是秋冬衣橱的必备单品。大家 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://tw.my-best.com/117156",
+   "title": "造型顧問監製8 大毛衣推薦排行榜 - mybest",
+   "snippet": "造型顧問監製8 大毛衣推薦排行榜 · No. 1. MsMore | 韓版V領針織寬鬆網紅百搭毛衣｜#111169 · No. 2. Tonino Lamborghini藍寶堅尼| 極緻輕暖羊絨衣 · No. 3. A.MARSI | 米蘭 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.gq.com.tw/article/%E7%9B%A4%E9%BB%9E%E9%AB%98%E9%A0%98%E6%AF%9B%E8%A1%A3",
+   "title": "2026 盤點10 款保暖又有型的「高領毛衣」推薦 - GQ Taiwan",
+   "snippet": "很多男生不喜歡穿高領就是因為覺得頸部太憋、太拘束，因此推薦你選擇Arket 這款半拉鏈高領針織毛衣。可依需求自行調整領口高度，穿起來更加舒適自在。"
+  },
+  {
+   "rank": 7,
+   "url": "https://www.vogue.com.tw/article/12-trendy-sweaters",
+   "title": "12 款秋冬毛衣推薦：高領毛衣還是針織衫？羊毛毛衣或是印花設計？",
+   "snippet": "對於偏好運動時尚風格的人來說，我們推薦入手一件拉鍊毛衣。拉鍊毛衣通常材質柔軟，擁有高領設計，不論是版型或是材質都特別舒服；至於流行的色調選擇，我們 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.amazon.com/-/zh_TW/%E6%9A%A2%E9%8A%B7%E5%95%86%E5%93%81-%E5%A5%B3%E5%A3%AB%E6%AF%9B%E8%A1%A3/zgbs/fashion/1044456",
+   "title": "Amazon 暢銷商品: 最佳女士毛衣",
+   "snippet": "毛衣 ; #1 · Amazon Essentials 女款輕量圓領開襟毛衣(有大尺碼可供選擇) ; #2 · GRECERELLE 女款長袖V 領鈕扣開襟針織聳肩毛衣 ; #3."
+  },
+  {
+   "rank": 9,
+   "url": "https://today.line.me/tw/v3/article/NvJa5oZ",
+   "title": "最齊全毛衣、針織衫盤點：從平價Uniqlo到高檔The Row、Loro Piana",
+   "snippet": "設計調性大膽、毫無拘束，如果想買JW Anderson 的東西，推薦你盡量選些與眾不同的款式，如管狀裝飾的高領毛衣或亮色系、搭配超大袖口的針織外套，都是跳出人群 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://world.taobao.com/lang/zh-tw/shopping-guide/1922327849704882176.htm",
+   "title": "毛衣外套選購不踩雷！5個細節控必看的品質比較心法 - 淘寶",
+   "snippet": "真正耐穿的毛衣外套，通常以「美利奴羊毛」、「羊絨混紡」或「有機棉+蠶絲」為主軸。 我的私心推薦組合： - 日常實穿款：美利奴羊毛+ 少量尼龍（增加彈性不易 ..."
+  }
+ ]
+}

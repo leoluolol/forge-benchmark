@@ -1,0 +1,77 @@
+{
+ "query_id": "food_and_drink_05",
+ "query": "深圳 日料店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://global.hk01.com/%E6%97%85%E6%B8%B8/60290297/%E6%B7%B1%E5%9C%B3%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%8610%E6%8E%A8%E4%BB%8B-%E6%B5%B7%E8%83%86%E4%B8%93%E9%97%A8%E5%BA%97-%E7%82%AD%E9%A6%99%E7%83%A7%E9%B8%9F%E5%BA%97-%E4%B8%80%E9%97%B4-10%E4%B8%B2%E7%83%A7cp%E5%80%BC%E9%AB%98",
+   "title": "深圳日本料理10推介｜海胆专门店+炭香烧鸟店一间$10串烧CP值高",
+   "snippet": "SOKO SOKO位于壹方天地，主打一系列铁板烧、炸物、寿司、烧物等，是深圳稍有名气的日式料理餐厅。热门菜式有鹅肝饭、将炸粉包裹三文鱼、甜甜脆脆的“击破焦糖 ...",
+   "anchor": {
+    "brand": "SOKO"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://utravel.com.hk/news/detail/20034008/%E6%B7%B1%E5%9C%B3%E6%97%A5%E6%9C%AC%E8%8F%9C%E5%90%88%E9%9B%86-%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86-%E6%8E%A8%E4%BB%8B%E9%99%84%E5%9C%B0%E5%9D%80-%E5%BF%85%E5%90%83%E5%B7%A8%E5%9E%8B%E5%A3%BD%E5%8F%B8-%E5%8D%8A%E5%91%8E%E9%AB%98%E6%BC%A2%E5%A0%A1-%E6%97%A5%E5%BC%8F%E6%94%BE%E9%A1%8C",
+   "title": "深圳日本菜合集｜日本料理逾15推介附地址必吃巨型壽司/半呎高漢堡 ...",
+   "snippet": "深圳福田區日本菜. 深圳日本料理推薦｜一樂の食堂 · 深圳羅湖區日本菜. 深圳日本料理推薦｜萬膳日本料理（金光華店） · 深圳龍華區日本菜. 深圳日本料理推薦｜ ...",
+   "anchor": {
+    "brand": "一樂の食堂"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://hk.trip.com/guide/food/%E6%B7%B1%E5%9C%B3%E6%97%A5%E5%BC%8F%E6%94%BE%E9%A1%8C.html",
+   "title": "10 大深圳日式放題2026 蒲匠、千戶島、星龍吟、極上萬膳、大葉",
+   "snippet": "深圳日式放題#4 極上萬膳｜日料自助＋鐵板燒雙重享受 · 深圳日式放題#5 大葉日本料理｜高質海鮮與精緻熟食放題 · 深圳日式放題#6 銘門盛宴｜高端海鮮自助放題.",
+   "anchor": {
+    "brand": "蒲匠"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.kinnso.ai/zh-hk/articles/dining/fnb-must-eat-mainland-china-shenzhen-japanese-restaurant",
+   "title": "10間必吃日本料理推薦！巨型壽司燒鳥放題福田羅湖美食攻略- Kinnso",
+   "snippet": "位於卓悅中心的一樂の食堂，絕對是深圳日料界的網紅店！店內環境營造得就像日本漫畫中的小食堂一樣，讓人彷彿置身東京街頭。這裡最吸睛的招牌菜絕對 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://wanderlog.com/zh/list/geoCategory/54368/%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%B8%AD%E4%B8%AA%E6%9C%80%E4%BD%B3%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%E5%92%8C%E9%A4%90%E5%8E%85",
+   "title": "Shenzhen中44个最佳日本料理和餐厅 - Wanderlog",
+   "snippet": "我们从其他文章中收集了最常被提到的44个地方，包括像滩万日本料理、鮨．斋藤和Zuma Hong Kong这样的热门地点."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/963383/%E6%B7%B1%E5%9C%B3%E6%97%A5%E5%BC%8F%E6%94%BE%E9%A1%8C6%E9%96%93%E6%8E%A8%E4%BB%8B-%E5%BF%85%E8%A9%A6%E5%8D%83%E6%88%B6%E5%B3%B6-%E4%BB%BB%E9%A3%9F%E9%BE%8D%E8%9D%A6-%E6%B5%B7%E8%86%BD-%E9%AE%91%E9%AD%9A-241%E8%B5%B7",
+   "title": "深圳日式放題6間推介｜必試千戶島！任食龍蝦+海膽+鮑魚¥241起",
+   "snippet": "「大葉日本料理」被譽為深圳日式放題天花板店之一，雖然人均五百多人仔不算平宜，但一分錢一分貨，可任食澳洲龍蝦、紐西蘭小龍蝦、河豚刺身、海膽及生蠔等 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://m.bendibao.com/show537561.html",
+   "title": "深圳最好吃的日本料理",
+   "snippet": "居食屋和民(万象店）. 地址：罗湖区宝安南路1881号万象城4楼490铺(近大剧院地铁站C出口)电话：[phone]). 推荐菜：和民沙律一口牛肉牛肉火锅海鲜饭炸鸡软骨牛油带子石 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.eatravelife.com/article/index/details?aid=178",
+   "title": "觅食深圳1-据说这是深圳最好的日本料理之一？ - 文章– 走走吃吃",
+   "snippet": "据说岩盐代表的是深圳日本料理的最高水平，当然有人提出反对意见，说四叶寿司更好。四叶寿司吃吃君在北京的时候自然去过，如此看来，深圳大概确实没有什么靠谱 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://utravel.com.hk/news/detail/20052493/%E6%B7%B1%E5%9C%B3omakase%E6%8E%A8%E4%BB%8B-10%E5%A4%A7%E6%B7%B1%E5%9C%B3omakase%E6%9C%80%E5%B9%B3-198%E8%B5%B7-%E5%BF%85%E9%A3%9F%E6%B5%B7%E8%86%BD%E7%86%B1%E7%8B%97-%E9%90%B5%E6%9D%BF%E7%87%92-%E7%B1%B3%E8%8A%9D%E8%93%AE%E6%97%A5%E6%B3%95%E6%96%99%E7%90%86",
+   "title": "10大深圳Omakase最平¥198起！必食海膽熱狗/鐵板燒/米芝蓮日法料理",
+   "snippet": "1. 深圳Omakase｜深圳十貫Sushi Jyukan 海膽熱狗 · 2. 深圳Omakase｜深圳Sushi Hanzo半藏 · 3. 深圳Omakase｜深圳禾木鯨生 · 4. 深圳Omakase｜深圳鮨· 匠龍 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://ufood.com.hk/restaurant/news/detail/20078722/%E6%B7%B1%E5%9C%B3%E6%9C%80%E5%BC%B7%E6%97%A5%E5%BC%8F%E6%94%BE%E9%A1%8C-%E7%84%A1%E9%99%90%E4%BB%BB%E9%A3%9F%E8%97%8D%E9%B0%AD%E5%90%9E%E6%8B%BF%E9%AD%9A-%E6%B3%A2%E5%A3%AB%E9%A0%93%E9%BE%8D%E8%9D%A6-%E9%AB%98%E7%A9%BA%E9%90%B5%E6%9D%BF%E7%87%92%E6%A5%B5%E5%A5%A2%E8%8F%AF%E9%AB%94%E9%A9%97",
+   "title": "深圳最強日式放題！無限任食藍鰭吞拿魚、波士頓龍蝦",
+   "snippet": "位於平安金融中心115樓的「田舍家INAKAYA」，被網民譽為「亞洲最高日料自助餐」，是北上消費的頂級選擇。這家深圳高空餐廳位置極佳，坐擁360度無敵景觀。白天 ..."
+  }
+ ]
+}

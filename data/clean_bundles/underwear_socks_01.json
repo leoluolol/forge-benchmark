@@ -1,0 +1,77 @@
+{
+ "query_id": "underwear_socks_01",
+ "query": "丝袜 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://tw.my-best.com/118060",
+   "title": "10 大絲襪推薦排行榜 - mybest",
+   "snippet": "此時可以參考許多日本品牌，例如Atsugi、Gunze 的Sabrina 系列、靴下屋以及Kanebo 佳麗寶都備受網友們推崇，普遍擁有材質不會反光、能修飾腿型以及耐穿耐洗 ...",
+   "anchor": {
+    "brand": "DeParee"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.jd.com/phb/131553913a818cd5cf1c.html",
+   "title": "无缝丝品牌排行榜- 十大品牌- 京东",
+   "snippet": "1. 小野和子连裤袜/丝袜 · 已有2000人评论 ; 2. 涞觅润丝（Limerence M） 连裤袜/丝袜 · 已有100000人评论 ; 3. 阿凡迪连裤袜/丝袜 · 已有1000人评论 ; 4. 绫天生丝滑连裤袜/丝袜.",
+   "anchor": {
+    "brand": "小野和子"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.buyandship.com.tw/blog/9%E5%A4%A7%E5%8E%9A%E9%BB%91%E7%B5%B2%E8%A5%AA%E5%8F%8Aleggings%E6%8E%A8%E8%96%A6-%E7%BE%8E%E8%85%BF-%E4%BF%9D%E6%9A%96-%E5%A3%93%E5%8A%9B-%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%A4%B2%E8%A5%AA/",
+   "title": "秋冬穿搭必備！9大厚黑絲襪及Leggings推薦，美腿/保暖/壓力/日本製 ...",
+   "snippet": "人氣保暖絲襪推介 · GUNZE SABRINA 110D 日本製暖感絲襪2對入 · ASTIGU 【暖】系列40D 發熱絲襪 · 靴下屋Tabio 200D軟羊毛絲襪 · KONGZEE 秋冬自然抓絨光 ...",
+   "anchor": {
+    "brand": "GUNZE"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://world.taobao.com/lang/zh-cn/shopping-guide/1885345751068835840.htm",
+   "title": "丝袜选购指南｜学生党也能穿出高级感！这5款高性价比丝袜太香了",
+   "snippet": "本文推荐了5款高性价比丝袜，介绍了不同材质的优缺点、避坑指南、穿搭公式以及延长丝袜寿命的小技巧。适合预算有限但追求品质的学生党和打工人。"
+  },
+  {
+   "rank": 5,
+   "url": "https://www.mxhaitao.com/info/10181.html",
+   "title": "日本海淘丝袜推荐这12款日本最畅销的日本丝袜介绍",
+   "snippet": "日本海淘丝袜推荐这12款日本最畅销的日本丝袜介绍 · 1、厚木ATSUGI冬季发热袜. 日本海淘 · 2、slim walk连裤美腿瘦腿袜. 日本转运 · 3、爽健QttO 外出热感 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://woman.tvbs.com.tw/fashion/61826",
+   "title": "Melody絲襪穿搭爆討論！教你從「D數」挑質感絲襪 - 女人我最大",
+   "snippet": "常見款式會依膚色細分冷調、暖調，亞洲女生選對色號後，腿部線條會顯得更乾淨俐落。 日本必買光腿神器推薦： tutuanna 80丹假透膚絲襪. Melody 絲襪穿搭粉絲 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://blog.zila-socks.com/579/",
+   "title": "【2026】十款人氣絲襪推薦排行榜",
+   "snippet": "十款人氣絲襪推薦排行榜 · 絲襪推薦1：ZILA 全彈透膚絲襪 · 絲襪推薦2：三花超高彈性褲襪 · 絲襪推薦3：瑪榭日光美肌抗UV防曬絲襪 · 絲襪推薦4：蒂巴蕾T型全透明彈性絲襪."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.zhizhizhi.com/g/siwa",
+   "title": "丝袜什么牌子好10大丝袜品牌排行榜",
+   "snippet": "Wolford是奥地利最顶级的高档内衣丝袜奢侈品牌，其丝袜也许是世界上最好的，据报道，沃尔福德曾经有过这样的说法：“不是丝袜的奢华，而是丝袜的奢华”世界最薄 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.baiqiang.cn/zhuanti/siwa.html",
+   "title": "丝袜品牌排名 - 百强网",
+   "snippet": "2026丝袜哪个牌子好，丝袜十大品牌排行榜中优秀的肉丝袜品牌分别有浪莎和LA PERLA、厚木、飒拉、恒源祥、南极人、梦娜、宝娜斯、Wolford、鹰客等。挑丝袜选大品牌质量好 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://web.phb123.com/pinpai/top72139.html",
+   "title": "2026年国产丝袜十大品牌排行榜",
+   "snippet": "TOP 1. 俞兆林. 9.8 · TOP 2. 猫人. 9.5 · TOP 3. 宝娜斯/BONAS. 9.4 · TOP 4. 浪莎/LangSha. 9.4 · TOP 5. 南极人. 9.2 · TOP 6. 莫代尔/Madallo. 9 · TOP 7. 梦娜. 9 · TOP 8 ..."
+  }
+ ]
+}

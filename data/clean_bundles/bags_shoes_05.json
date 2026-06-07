@@ -1,0 +1,77 @@
+{
+ "query_id": "bags_shoes_05",
+ "query": "帽子 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/473016227",
+   "title": "有哪些棒球帽品牌值得推荐【精选12家店铺 ...",
+   "snippet": "另外就是在选择帽子上，如果有条件的话，尽量去实体店里面试一试，这样才知道自己适合于哪种类型的棒球帽。 二、棒球帽品牌介绍. 预算在100元以内：蕉下、GLO-STORY、JEEP、皓 ...",
+   "anchor": {
+    "brand": "JEEP"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.blog.popchill.com/post/hatrecommendations",
+   "title": "【帽子推薦TOP 10】明星最愛帽款大公開！各價位品牌一次看",
+   "snippet": "【帽子推薦TOP 10】明星最愛帽款大公開！各價位品牌一次看 · 帽子推薦TOP 15 · Carhartt WIP · GUCCI · NEW ERA · NIKE · Stetson · Stüssy · Polo Ralph ...",
+   "anchor": {
+    "brand": "NIKE"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.elle.com.hk/fashion/best-baseball-cap",
+   "title": "Cap帽牌子推薦！潮牌帽子品牌New Era、MLB、Polo",
+   "snippet": "Cap帽牌子推薦！潮牌帽子品牌New Era、MLB、Polo、Miu Miu、Kangol到Balenciaga帽子品牌排名 · Polo Ralph Lauren的帽子則具Old Money式優雅氣質，無論是與休閒裝還是商務正 ...",
+   "anchor": {
+    "brand": "New Era"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://tw.my-best.com/20452",
+   "title": "【2026最新】十大棒球帽推薦排行榜",
+   "snippet": "推薦十大棒球帽人氣排行榜 · PUMA. Ferrari Lifestyle系列棒球帽 ｜ 021944 · New Era. 59FIFTY CAMO PATCHWORK 洋基迷彩棒球帽 · A-Surpriz. COCO小碎花棒球帽 · LEVI'S · K- ..."
+  },
+  {
+   "rank": 5,
+   "url": "http://www.capodm.com/about/news/nanshengruhexuanzemaozi250106.htm",
+   "title": "【高普服饰】男生如何选择帽子？有哪些好看百搭、基础款的帽子推荐",
+   "snippet": "男士帽子比较经典的款式有很多种，而我们日常穿最常见的便是棒球帽、渔夫帽以及冬天的针织帽，当然这三款帽子也属于基础款的百搭帽型，尤其是棒球帽和渔夫帽， ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.damingpai.com/?%2Fquestion%2F77146=",
+   "title": "【单品推荐】10款遮阳帽，聊聊今年谁最火 - 哒鸣派",
+   "snippet": "【单品推荐】10款遮阳帽，聊聊今年谁最火 · 1、大檐棒球帽 · 2、棒球帽 · 3、渔夫帽 · 4、水桶帽 · 5、太阳帽 · 6、小边波奈特 · 7、阔边波奈特 · 8、灯罩帽."
+  },
+  {
+   "rank": 7,
+   "url": "https://vocus.cc/article/69b938adfd89780001115087",
+   "title": "2026 棒球帽推薦：5 款人氣老帽評測！破解「顯臉小」帽型秘訣",
+   "snippet": "New Balance這款與知名製帽品牌'47 Brand聯名的款式，主打一種歷經歲月的復古洗舊感。 優點：. 仿舊水洗工藝：這款帽子最迷人的地方在於其自然的褪色感， ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://popbee.com/features/10-baseball-caps-recommendation",
+   "title": "不再與人撞款！10 個棒球帽品牌推薦，戴上就成為引領潮流的女生",
+   "snippet": "不論是為穿搭作點綴還是有些日子不想弄頭髮造型，一頂棒球帽都能滿足我們這些需要。雖然很多大牌子如Polo、New Era，或運動牌子如Lululemon 及Nike 的 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://buy.line.me/u/article/17377",
+   "title": "Nike、KANGOL必收這兩款！加碼盤點淘寶「漁夫帽」夯店！",
+   "snippet": "潮人夏日必備「漁夫帽」，Nike、KANGOL必收這兩款！加碼盤點淘寶「漁夫帽」夯店！ · Beauty美人圈 · ＃潮流粉色漁夫帽「Nike Sportswear Swoosh」，夏天就是要粉 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.northforest.com.tw/posts/hats-types-brands",
+   "title": "明星最愛的帽子終極指南 - 北歐森林",
+   "snippet": "按「款式特點」分，有棒球帽、貝雷帽、漁夫帽、遮陽帽、鐘形帽、軍帽、報童帽、板帽、老帽、豆豆帽、禮帽、豬肉餡餅帽、牛仔帽、藥盒帽等。 那一般民眾最愛 ..."
+  }
+ ]
+}

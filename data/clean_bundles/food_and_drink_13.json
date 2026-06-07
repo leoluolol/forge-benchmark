@@ -1,0 +1,77 @@
+{
+ "query_id": "food_and_drink_13",
+ "query": "深圳 茶饮店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/973504/%E6%B7%B1%E5%9C%B3%E8%8C%B6%E9%A3%B2-11%E9%96%93%E6%89%8B%E6%90%96%E6%8E%A8%E4%BB%8B-%E9%98%BF%E5%AC%A4%E6%89%8B%E4%BD%9C-%E6%89%8B%E6%89%93%E6%AA%B8%E6%AA%AC%E8%8C%B6-%E5%A5%B6%E8%8C%B6%E7%95%8Cherm%C3%A8s",
+   "title": "深圳茶飲｜11間手搖推介阿嬤手作/手打檸檬茶/奶茶界Hermès - 香港01",
+   "snippet": "深圳茶飲【1】Uniboba——必試XXXL Size巨無霸黑糖奶茶 · 深圳茶飲【2】CharlieTown——茶飲界Hermès！ · 深圳茶飲【3】OONE CCUP——杭州排隊王登陸深圳！ · 深圳茶 ...",
+   "anchor": {
+    "brand": "OONE CCUP"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://utravel.com.hk/news/detail/20060164/%E6%B7%B1%E5%9C%B3%E8%8C%B6%E9%A3%B2-%E5%BF%85%E8%A9%A6-%E7%88%86%E7%B4%85%E8%8C%B6%E9%A3%B2%E5%BA%97%E6%94%BB%E7%95%A5-%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC-%E9%98%BF%E5%AC%A4%E6%89%8B%E4%BD%9C-%E6%BD%AE%E6%B1%95%E5%8A%9F%E5%A4%AB%E8%8C%B6%E7%BE%85%E6%B9%96%E7%A6%8F%E7%94%B0%E5%BA%97%E5%9D%80",
+   "title": "必試12間爆紅茶飲店攻略霸王茶姬/阿嬤手作/潮汕功夫茶羅湖福田店址",
+   "snippet": "深圳茶飲｜1. CHAGEE 霸王茶姬 · 深圳茶飲｜2. 鄭世隆古法泰茶. 招牌雲頂泰奶冰 · 深圳茶飲｜3. 椿田熟成茶行. 3款爆紅必試飲品 · 深圳茶飲｜4. 茶月山. 【深圳 ...",
+   "anchor": {
+    "brand": "茶月山"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.timeout.com.hk/hong-kong/hk/%E6%97%85%E9%81%8A/%E6%B7%B1%E5%9C%B3%E4%BA%BA%E6%B0%A3%E8%8C%B6%E9%A3%B2%E5%BA%972025%EF%BD%9C%E6%B7%B1%E5%9C%B3%E5%85%AD%E5%A4%A7%E5%BF%85%E8%B2%B7%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6-%E6%89%8B%E6%90%96%E8%8C%B6-%E6%B0%B4%E6%9E%9C%E8%8C%B6",
+   "title": "深圳人氣茶飲店2025｜深圳六大必買珍珠奶茶、手搖茶、水果茶",
+   "snippet": "深圳人氣茶飲店推介一︰被小紅書網民封為「杭州排隊王」的茶飲店Oone Ccup，2024年尾終於開來深圳，人氣依然厲害，吸引大批人去試！店家主打賣相超吸睛的沙冰， ...",
+   "anchor": {
+    "brand": "Oone Ccup"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.gotrip.hk/%E6%B7%B1%E5%9C%B3/%E5%85%A7%E5%9C%B0%E7%BE%8E%E9%A3%9F-%E6%B7%B1%E5%9C%B3%E8%8C%B6%E9%A3%B2-%E8%8C%B6%E9%A3%B2%E5%93%81%E7%89%8C-gt16-884486/",
+   "title": "深圳美食2025！內地7大茶飲店品牌推薦！低至$3杯附門店地址",
+   "snippet": "霸王茶姫在內地一直都是排隊名店，主打新式東方原葉鮮奶茶，最經典的款式要數「伯牙絕弦」，以茉莉雪芽作茶底，茶味芳香，一年平均更賣出超過2000萬杯，絕對是 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.50addoil.com/zh-hk/post/20-shenzhen-tea-recommendation",
+   "title": "【深圳茶飲】20間人氣必飲推薦：霸王茶姬、阿嬤手作 - 50+友",
+   "snippet": "深圳茶飲1︱CHAGEE霸王茶姬：源自雲南高山原葉鮮茶 · 深圳茶飲2︱阿嬤手作：古法現煮米麻糬 · 深圳茶飲3︱檸季：大杯便宜，清爽檸檬茶 · 深圳茶飲4︱茶救星球：特色 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.wenweipo.com/a/202504/29/AP681053c7e4b0f1d4d8230ecf.html",
+   "title": "周末去深圳別只買喜茶！6家小眾高質茶飲店推薦好喝不踩雷 - 文匯報",
+   "snippet": "要品嘗深圳本地的特色茶飲品牌，就不能錯過已經在深圳開了十多年的「813芭依珊」。這家店主打奶蓋茶飲，而且奶蓋能夠無限續杯！獨特的鹹芝士奶蓋綿密絲滑，和 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3%E8%8C%B6%E9%A3%B2-%E6%8E%A8%E4%BB%8B-%E8%8C%B6%E9%A3%B2%E5%BA%97-%E5%93%81%E7%89%8C-233048336.html",
+   "title": "深圳茶飲2025〡10間深圳爆紅未攻港茶飲店推介！阿嬤手作/滬上阿姨 ...",
+   "snippet": "深圳茶飲2025〡10間深圳爆紅未攻港茶飲店推介！阿嬤手作/滬上阿姨/茉莉奶白. Yahoo Food精選10間目前還沒在香港開設分店的深圳茶飲店，馬上看看內文就 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://hk.trip.com/guide/food/%E9%98%BF%E5%AC%A4%E6%89%8B%E4%BD%9C.html",
+   "title": "阿嬤手作人氣必選2026，極具人氣的深圳茶飲店，哪款是必飲推介？",
+   "snippet": "來自廣西的阿嬤手作主打真材實料與手工現煮的堅持，將現煮的珍珠、芋圓、仙草、麻糬等，加上水果和茶飲的多重結合，成為近期茶飲界的人氣之選！而阿嬤手作登陸 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.kinnso.ai/zh-hk/articles/destinations/fnb-tips-shenzhen-hipster-drink-photo-shot-grammable",
+   "title": "2025深圳茶飲店推介：附分店地址！10間必飲手搖店",
+   "snippet": "1.霸王茶姬深圳分店(卓悅匯店) · 2.霸王茶姬深圳分店(君尚店) · 3.霸王茶姬深圳分店(君尚店)(深圳之眼CITYHUB店) · 4.霸王茶姬深圳分店(壹方城店) · 5.霸王茶 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.ulifestyle.com.hk/community/detailpost/d5b21e10-6608-4faf-b4dc-daae8f1a187c/%E6%B7%B1%E5%9C%B3%E6%94%BB%E7%95%A5/%E6%B7%B1%E5%9C%B3%E8%8C%B6%E9%A3%B2%E5%BA%972025%E6%B7%B1/U-Lifestyle/116924",
+   "title": "【深圳茶飲店2025】深圳8間茶飲店推介🧋爆紅手打米麻糬/原葉鮮奶茶/ ...",
+   "snippet": "深圳茶飲店大集合！8間人氣手搖店推薦，包括霸王茶姬、阿嬤手作等，讓你輕鬆喝遍深圳爆紅飲品！實測分享，必試手打米麻糬、原葉鮮奶茶，滿足你的味蕾！"
+  }
+ ]
+}

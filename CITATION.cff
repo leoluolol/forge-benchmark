@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use FORGE, please cite the accompanying paper."
+title: "FORGE: Fake Online Recommendations in Generative Environments"
+authors:
+  - family-names: Luo
+    given-names: Minghao
+  - family-names: Chen
+    given-names: Liang
+repository-code: "https://github.com/leoluolol/forge-benchmark"
+license: MIT
+preferred-citation:
+  type: article
+  title: "One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders"
+  authors:
+    - family-names: Luo
+      given-names: Minghao
+    - family-names: Chen
+      given-names: Liang
+  year: 2026
+  journal: "arXiv preprint arXiv:XXXX.XXXXX"

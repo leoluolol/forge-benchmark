@@ -1,0 +1,77 @@
+{
+ "query_id": "personal_services_08",
+ "query": "深圳 理发店 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.cosmopolitan.com.hk/beauty/shenzhen-salon-recommendation",
+   "title": "深圳剪頭髮推薦2026｜8間福田+南山區人氣髮型屋 - Cosmopolitan HK",
+   "snippet": "如何預約深圳剪頭髮服務？ · 深圳剪頭髮推薦：皇庭廣場Misty Light · 深圳剪頭髮推薦：會展中心伍月Wuyue Salon · 深圳剪頭髮推薦：南山萬象天地Instyle Salon · 深圳剪頭髮推薦： ...",
+   "anchor": {
+    "brand": "Misty"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://hk.trip.com/guide/destination/%E6%B7%B1%E5%9C%B3%E5%89%AA%E9%AB%AE.html",
+   "title": "7 間人氣深圳剪髮店推介、價格大比拼、預約及付款方式攻略 - Trip.com",
+   "snippet": "深圳剪髮｜深圳人氣理髮店地鐵分區推薦 ; BRS Salon. 福田區. 商場位置便利、專長漸變色＆創意染髮、環境時髦、服務細心. 卓悅中心北區 ; Swank Salon. 南山區.",
+   "anchor": {
+    "brand": "BRS"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/1019529/%E6%B7%B1%E5%9C%B3%E5%89%AA%E9%AB%AE2024-7%E5%A4%A7%E9%AB%AE%E5%BB%8A%E6%8E%A8%E4%BB%8B-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94-1%E5%B0%8D1%E9%AB%AE%E5%9E%8B%E8%A8%AD%E8%A8%88-%E6%9C%80%E5%B9%B3-78%E8%B5%B7",
+   "title": "深圳剪髮2024｜7大髮廊推介！地鐵直達+1對1髮型設計最平¥78起",
+   "snippet": "深圳剪髮2024｜7大髮廊推介！地鐵直達+1對1髮型設計最平¥78起 · 【2】SWANK Salon · 【3】MISTY LIGHT · 【4】AMORE SALON · 【5】YUYANG STUDIO · 【6】BRS ...",
+   "anchor": {
+    "brand": "伍月"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://ubeauty.com.hk/beauty/hair/20022526/2024%E6%B7%B1%E5%9C%B3%E5%89%AA%E9%AB%AE-6%E9%96%93%E6%B7%B1%E5%9C%B3%E9%AB%AE%E5%BB%8A%E6%8E%A8%E4%BB%8B%E7%A6%8F%E7%94%B0%E5%8D%80%E5%A4%9A-%E5%89%AA%E9%A0%AD%E9%AB%AE-%E6%9F%93%E9%AB%AE-%E9%9B%BB%E9%AB%AE%E5%83%B9%E9%8C%A2%E6%8A%B5",
+   "title": "深圳剪髮推薦︰男女適用6間髮廊高評分！剪髮/染髮/電髮價錢抵",
+   "snippet": "深圳剪髮推介｜1. Swank Salon · 深圳剪髮推介｜2. 伍月WUYUE · 深圳剪髮推介｜3. Instyle Salon · 深圳剪髮推介｜4. BRS-Salon · 深圳剪髮推介｜5. AMORE SALON · 深圳剪髮推介｜6."
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.news.yahoo.com/%E6%B7%B1%E5%9C%B3%E6%97%85%E9%81%8A-%E6%B7%B1%E5%9C%B3-%E9%AB%AE%E5%9E%8B%E5%B1%8B-%E7%A6%8F%E7%94%B0-%E6%B7%B1%E5%9C%B3%E7%81%A3-%E5%8F%A3%E5%B2%B8-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94-%E6%B4%97%E5%89%AA%E5%90%B9-003052214.html",
+   "title": "高質髮型屋5大推介！深圳剪頭髮洗人民幣160元起鄰近福田/深圳灣口岸",
+   "snippet": "深圳髮型屋推介1. 福田區：BRS-Salon碧爾絲美髮沙龍 · 延伸閱讀 · 深圳髮型屋推介2. 福田區：伍月WUYUE SALON · 深圳髮型屋推介｜3. 南山區：NOOS思想空間."
+  },
+  {
+   "rank": 6,
+   "url": "https://blog.ulifestyle.com.hk/vlog/princeleo/4363891/%E6%B7%B1%E5%9C%B3%E9%AB%AE%E5%9E%8B%E5%A4%A7%E6%94%B9%E9%80%A0-%E7%A6%8F%E7%94%B0%E9%A0%98%E5%B1%95%E4%B8%AD%E5%BF%83%E5%9F%8E%E5%89%AA%E9%A0%AD%E9%AB%AE-%E7%B4%A0%E4%BA%BA%E8%AE%8A%E7%BE%8E%E5%A5%B3-%E5%89%AA%E9%A0%AD%E9%AB%AE%E5%8F%8A%E6%9F%93%E9%A0%AD%E9%AB%AE-%E5%8E%BB%E6%B7%B1%E5%9C%B3%E7%90%86%E9%AB%AE%E5%BA%97-%E5%85%92%E7%AB%A5%E6%B4%97%E5%89%AA%E5%90%B960-mdc-salon-%E6%B7%B1%E5%9C%B3%E5%89%AA%E9%A0%AD%E9%AB%AE-%E6%B4%97%E5%89%AA%E5%90%B9-60-%E7%BE%85%E6%B9%96%E5%9C%8B%E8%B2%BF%E7%AB%99-%E5%89%AA%E9%AB%AE%E4%BC%8F%E5%94%94%E4%BC%8F-%E5%88%A9%E5%A5%A7",
+   "title": "深圳髮型大改造｜福田領展中心城剪頭髮｜素人變美女 - U Blog",
+   "snippet": "MDC造型領展中心城店深圳市福田區福華一路領展中心城B1層(地鐵層下麵)麥當勞旁邊扶手梯下去靠左直走26米RB-1002 #深圳髮型大改造#福田領展中心."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.weekendhk.com/travel/%E6%B7%B1%E5%9C%B3%E5%89%AA%E9%AB%AE-%E5%A4%A7%E7%81%A3%E5%8D%80%E5%A5%BD%E5%8E%BB%E8%99%95-%E6%B7%B1%E5%9C%B3%E5%A5%BD%E5%8E%BB%E8%99%95-js02-1806684/",
+   "title": "深圳剪髮2026｜6大深圳髮廊推介福田區地鐵直達＋髮型設計服務",
+   "snippet": "Swank Salon在深圳是人氣髮廊之一，髮型師會根據客人的臉型和需求，設計適合客人的個性化髮型。髮廊的空間寬敞，每個理髮位置都是較私密的空間，讓客人都可在 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.gotrip.hk/%E6%B7%B1%E5%9C%B3/%E6%B7%B1%E5%9C%B3%E5%89%AA%E9%AB%AE-%E6%B7%B1%E5%9C%B3%E9%AB%AE%E5%BB%8A-%E7%A6%8F%E7%94%B0%E5%8D%80-gt16-1050597/",
+   "title": "深圳剪髮2025｜5大深圳髮廊推介福田區地鐵直達染髮/電髮/駁髮/剪髮",
+   "snippet": "AMOEW SALON同樣位於會展中心站附近，從會展中心站E出口直達。Salon裝潢以極簡純白風格打造，感覺乾淨舒適，且店內光線充足，完成剪髮後很適合打卡。不少網民 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.baby-kingdom.com/forum.php?mod=viewthread&tid=23687651",
+   "title": "深圳整頭- 自由講場- Baby Kingdom - 親子王國香港討論區",
+   "snippet": "良心推荐一家叫”型走”的工作室，这是我在深圳遇到过最舒服的理发店，在卓悦汇理想公馆30楼3025，全程无推销，发型师美感真的没话说，最关键的是五星级的服务， ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://mip.chinapp.com/brand/1894",
+   "title": "美发品牌排行榜前十名",
+   "snippet": "爱特纳ALTERNA · Londa柔迪雅 · 汤尼英盖TONI&GUY · 歌薇GOLDWELL · 丝蕴Syoss · 体吉TIGI · 塞巴斯汀SEBASTIAN · 拉芳Lovefun ..."
+  }
+ ]
+}

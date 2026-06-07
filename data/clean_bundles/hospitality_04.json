@@ -1,0 +1,77 @@
+{
+ "query_id": "hospitality_04",
+ "query": "深圳 古镇民宿 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://tw.trip.com/hotels/shenzhen-gankeng-hakka-town/hotels-c30m6119149/",
+   "title": "2026 甘坑古鎮住宿：Top10 超人氣深圳飯店推薦 - Trip.com",
+   "snippet": "高CP值甘坑古鎮飯店 · 深圳龍崗甘坑古鎮南洋客棧 · 南香樓藝術飯店（深圳甘坑古鎮店） · 鳳凰客家飯店（深圳龍崗甘坑古鎮店） · 維也納飯店（深圳客家小鎮甘坑地鐵站店） · 深圳 ...",
+   "anchor": {
+    "brand": "南香樓藝術飯店"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://www.wingontravel.com/hotel/detail-shenzhen-125332566/secret-garden-homestay/",
+   "title": "祕密花園民宿（深圳甘坑古鎮店） - 永安旅遊",
+   "snippet": "祕密花園民宿（深圳甘坑古鎮店）的入住和退房時間是什麼？ ... 祕密花園民宿（深圳甘坑古鎮店）是否提供早餐？ 酒店提供早餐。 祕密花園民宿（深圳甘坑古鎮店）提供哪些設施及服務？",
+   "anchor": {
+    "brand": "祕密花園民宿"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://reubird.hk/blog/%E6%B7%B1%E5%9C%B3-%E6%B7%B1%E5%9C%B3%E5%8F%A4%E9%8E%AE%E6%8E%A8%E4%BB%8B/shenzhen-ancient-town-0y",
+   "title": "【深圳古鎮推介2026】古鎮住宿低至買1送1!免費入場甘坑古鎮/觀瀾 ...",
+   "snippet": "5. 深圳古鎮推介｜深圳坤宜美居酒店住宿套餐 ... 深圳坤宜美居酒店位於龍崗區，酒店鄰近萬達廣場、甘坑古鎮、龍崗兒童公園、平湖生態園等，非常適合一家人出遊玩樂！ 酒店提供共 ...",
+   "anchor": {
+    "brand": "深圳坤宜美居酒店"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.triptripgo.travel/zh-HK/news/1750-%E3%80%90%E7%94%98%E5%9D%91%E5%8F%A4%E9%8E%AE%E6%94%BB%E7%95%A5%E3%80%912%E6%97%A51%E5%A4%9C%E6%B0%91%E5%AE%BF%E5%88%86%E4%BA%AB%EF%BC%81%E6%95%A6%E7%85%8C%E8%97%9D%E8%A1%93%E5%B1%95%E5%8F%83%E8%A7%80",
+   "title": "【甘坑古鎮攻略】2日1夜民宿分享！璀璨夜景｜敦煌藝術展參觀",
+   "snippet": "【甘坑古鎮攻略】2日1夜民宿分享！璀璨夜景｜敦煌藝術展 ... 深圳甘坑古鎮南洋客棧住宿套餐. 住宿古鎮套餐深圳客棧熱門推薦 4.5(214)1,000+ 人參加過."
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.trip.com/moments/detail/shenzhen-26-132952136/",
+   "title": "️深圳甘坑古鎮私湯民宿！一戶一湯太好住啦 - Trip.com",
+   "snippet": "深圳溫泉誰懂啊!在深圳挖到比悅榕莊還治癒的私湯民宿!藏在甘坑古鎮裡的中式庭院,一戶一私湯簡直是打工人的救星~剛退房就想再衝!"
+  },
+  {
+   "rank": 6,
+   "url": "https://www.hyperair.com/zh-HK/hotels/top/china-shenzhen-top-bnb/guide",
+   "title": "【深圳民宿住宿攻略2026】20大好評必住深圳酒店推介 - HyperAir",
+   "snippet": "深圳BNB 民宿住宿| No. 1 蜜悅·深圳聖托裡尼海景度假美宿Miyue · shenzhen Santorini Sea View Resort · 深圳BNB 民宿住宿| No. 2 深圳茶花精品民宿Shenzhen Camellia ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.ourchinastory.com/zh/101",
+   "title": "中國旅遊入住深圳藝棧民宿探索大鵬灣古城| 旅遊風物| 潮遊生活",
+   "snippet": "藝棧民宿位於深圳大鵬新區，由香港前往大鵬只需約兩小時車程。周邊景點有大鵬所城、影視拍攝基地「玫瑰小鎮」；附近環境清幽恬靜，更可漫步沙灘， ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.wingontravel.com/hotel/detail-shenzhen-107388197/yijia-homestay-shenzhen-gankeng-subway-station-hakka-town/",
+   "title": "怡家民宿（深圳甘坑地鐵站客家小鎮店）|2026年酒店推介 ... - 永安旅遊",
+   "snippet": "店主有善親切，民宿乾淨整潔，住得很好舒適，值得推薦！ 怡家民宿（深圳甘 ... 祕密花園民宿（深圳甘坑古鎮店） (Secret Garden ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://hk.trip.com/hotels/shenzhen-hotel-detail-125332566/secret-garden-homestay/",
+   "title": "祕密花園民宿（深圳甘坑古鎮店） - Trip.com",
+   "snippet": "探索祕密花園民宿（深圳甘坑古鎮店），一家位於深圳的2星級住宿。根據15 則評價，這間酒店獲得7.9/10 的高分，以超卓的品質和物有所值的價格脫穎而出，房價每晚由HK$650 起。"
+  },
+  {
+   "rank": 10,
+   "url": "https://www.kkday.com/zh-hk/blog/98406/gankeng-ancient-town",
+   "title": "【中國】深圳一日遊｜甘坑古鎮免費玩｜交通、美食、景點 - KKday",
+   "snippet": "位於深圳甘坑客家小鎮的南香樓藝術酒店由華僑城集團開發，以懷念客家文化和民國風情為主題。酒店環境寧靜優雅、靜謐舒適，依山傍水，提供多種客房選擇，每間 ..."
+  }
+ ]
+}

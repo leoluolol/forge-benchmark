@@ -1,0 +1,77 @@
+{
+ "query_id": "underwear_socks_14",
+ "query": "运动内衣 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://www.vogue.com.tw/fashion/article/%E9%81%8B%E5%8B%95%E5%85%A7%E8%A1%A3%E6%8E%A8%E8%96%A6",
+   "title": "2026「運動內衣」推薦：精選27款運動內衣、12大品牌穿出時尚態度！",
+   "snippet": "盤點12 大運動內衣品牌、27 款運動內衣：滿足時尚美型與舒適！ · 推薦款式與售價： - Align Flow Y 系列低強度運動內衣：約NT$1,640 元 · lululemon 台灣門市：",
+   "anchor": {
+    "brand": "lululemon"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://zhuanlan.zhihu.com/p/612398853",
+   "title": "国内外运动内衣大测评！差价X倍，为啥更推荐你买贵的？ - 知乎专栏",
+   "snippet": "作为一个资深的运动发烧友，我要重提一点：一定不能忽略运动bra的重要性，运动bra能在高强度运动中保护女性胸部，同时提升支撑，有效减震，这些功能都是普通内衣是比不了的。",
+   "anchor": {
+    "brand": "Maia"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.nike.com.cn/sports-bra",
+   "title": "运动内衣选购攻略-NIKE 中文官方网站",
+   "snippet": "做五个开合跳（或者其他常见训练动作）。胸部晃动得厉害？那就挑一款支撑力更强、肩带更宽或是采用可靠工字型后背设计的运动内衣吧。",
+   "anchor": {
+    "brand": "NIKE"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://tw.my-best.com/116046",
+   "title": "日本開箱10 大運動內衣推薦排行榜 - mybest",
+   "snippet": "日本開箱10 大運動內衣推薦排行榜 · No. 1. Yvette | 高支撐不晃動背扣式運動內衣 · No. 2. 華歌爾| CW-X 運動內衣｜HTY168 · No. 3. NIKE | 運動內衣Pro Classic Bra｜ ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://www.womenshealthmag.com/tw/fashion/style/g70198791/best-sports-bras/",
+   "title": "2026運動內衣推薦：編輯與健身專家實測50+款 - Women's Health",
+   "snippet": "最佳運動內衣 · 整體最佳：Nike Swoosh 中強度支撐運動內衣 · 最佳背心式運動內衣：Beyond Yoga Spacedye Refocus 短版背心 · 最佳支撐度運動內衣：Alo ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.taobao.com/list/product/sport%E8%BF%90%E5%8A%A8%E5%86%85%E8%A1%A3.htm",
+   "title": "Top 100件sport运动内衣- 2026年4月更新 - Taobao",
+   "snippet": "去哪儿购买sport运动内衣？当然来淘宝海外，淘宝当前有172件sport运动内衣相关的商品在售，其中按品牌划分，有Nike/耐克3件、LORNA JANE1件。 在这些sport运动内衣的罩杯 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://m.dxy.com/article/4032",
+   "title": "挑选运动内衣的方法 - 丁香医生",
+   "snippet": "1. 简易型——适用于胸部不太丰满的女性做低强度运动. bra轻度600.jpg · 2. 压力式固定型——胸部相对丰满的妹纸可以考虑这种类型. 压力式固定型是目前应用最广泛的运动内衣类型 ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.zhizhizhi.com/g/yundongwenxiong",
+   "title": "10大运动内衣品牌排行榜运动内衣什么牌子好",
+   "snippet": "moving Comfort是美国女性健身服装品牌，创建于1977年，如今已经成为美国最受欢迎的运动内衣品牌。movingComfort的运动胸罩产品线完整，分为稳定、控制和保护 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.sohu.com/a/408569512_416654",
+   "title": "盘点15款Sports Bra运动内衣，Adidas、Nike评分最低 - 搜狐",
+   "snippet": "测试了市面15个品牌的15款运动内衣，比较它们的舒适及耐用程度。西班牙品牌Oysho的一款Sports Bra获得最高分，更被赞表现优秀，舒适度高。Lululemon的一款 ..."
+  },
+  {
+   "rank": 10,
+   "url": "https://www.thecurvyou.com/blog/posts/knowledge-about-sports-bra",
+   "title": "女生運動內衣怎麼選？功能、挑選要點、10款推薦清單一次分享！",
+   "snippet": "如果是中強度運動，則會建議選擇中度支撐的運動內衣。這類型的內衣穿起來會感覺較緊身，是為了防止胸部在運動期間明顯晃動，因此在支撐度和加壓程度上都會加 ..."
+  }
+ ]
+}

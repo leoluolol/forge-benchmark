@@ -1,0 +1,77 @@
+{
+ "query_id": "bags_shoes_01",
+ "query": "凉鞋 推荐",
+ "retrieved_at": "2026-04",
+ "recipe_version": "A1-top3-v1",
+ "docs": [
+  {
+   "rank": 1,
+   "url": "https://zhuanlan.zhihu.com/p/511131956",
+   "title": "各品牌沙滩鞋|凉鞋推荐【精选17款凉鞋】-持续更新",
+   "snippet": "预算在500元以上：Clarks其乐（推荐）、ECCO爱步（推荐）、宾度、Birkenstock、百丽旗下品牌等。 假如你要挑选凉鞋的话，也可以尽量从以上这些品牌中挑选，当然除了以上这些凉鞋 ...",
+   "anchor": {
+    "brand": "Birkenstock"
+   }
+  },
+  {
+   "rank": 2,
+   "url": "https://tw.my-best.com/44244",
+   "title": "專家監製9 大戶外涼鞋推薦排行榜 - mybest",
+   "snippet": "編輯部推薦9款人氣戶外涼鞋 · BIRKENSTOCK. 經典系列Milano · crocs. 卡笛花卉輕便鞋 · SKECHERS. D'LITES ｜ 31514GRY · crocs. LiteRide 防滑涼鞋 · Teva. Terra Fi 多 ...",
+   "anchor": {
+    "brand": "BIRKENSTOCK"
+   }
+  },
+  {
+   "rank": 3,
+   "url": "https://www.cosmopolitan.com/tw/fashion/bag-shoe-accessories/g44709067/25-puffy-sandals/",
+   "title": "25款「澎澎涼鞋」推薦！時髦又舒適解放你的雙腳！ - Cosmopolitan",
+   "snippet": "澎澎涼鞋推薦1：JW PEI Sara 高跟穆勒涼鞋 ... 科技未來感的設計讓人超心動，低跟設計方便行走，最棒的是有了柔軟蓬鬆的襯墊，讓你的腳趾不會擠在一起了。",
+   "anchor": {
+    "brand": "ROAM 蓬鬆拖鞋"
+   }
+  },
+  {
+   "rank": 4,
+   "url": "https://www.skm.com.tw/skmmedia/fashion/streetstyle/sneakersootd",
+   "title": "2025夏季必備5款涼鞋推薦！這幾款都很平價，還有這幾雙甚至連 ...",
+   "snippet": "HOKA ONE ONE其實是來自法國的戶外運動品牌，同樣也是以機能型鞋款為品牌主推，HOKA ONE ONE的鞋款主要都是厚底，但又穿起來輕盈且緩震，穿起來包覆性十足，因此是許多登山人士 ..."
+  },
+  {
+   "rank": 5,
+   "url": "https://hk.teva.com/",
+   "title": "Teva® 香港: 涼鞋推薦| 拖鞋人字拖| 行山鞋",
+   "snippet": "從經典的Universal風格到現代的Hurricane XLT2系列，每一雙涼鞋都是設計師精心打造的，體現了品牌對於時尚和功能的高要求，無疑是涼鞋推薦的首選。 步步輕盈：Teva人字拖. 想 ..."
+  },
+  {
+   "rank": 6,
+   "url": "https://www.elle.com.hk/fashion/new-outdoor-sandals-recom",
+   "title": "Hoka山系功能性涼鞋好穿又百搭- 2026運動涼鞋推薦：Keen、Teva ...",
+   "snippet": "運動涼鞋推薦- : MiuMiu Riviere 繩帶和皮革涼鞋 ... 這款Riviere 涼鞋的輕盈結構盡顯運動風柔美氣質。雙色繩帶細節增強大膽奪目的物料組合，為簡單的設計增添當代特色和風格 ..."
+  },
+  {
+   "rank": 7,
+   "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/1003243/%E6%B6%BC%E9%9E%8B%E6%8E%A8%E8%96%A62025-%E4%B8%8D%E6%80%95%E6%BF%95%E7%86%B1%E6%82%B6%E7%84%97-%E5%A4%8F%E6%97%A5%E5%BF%85%E5%82%99%E6%8B%96%E9%9E%8B-%E9%80%8F%E6%B0%A3%E6%98%93%E8%A5%AF-%E4%BF%8F%E7%9A%AE%E4%BC%91%E9%96%92",
+   "title": "涼鞋推薦2025｜不怕濕熱悶焗！夏日必備拖鞋：透氣易襯俏皮休閒",
+   "snippet": "涼鞋推薦2025：Sam Edelman RAYE HK$1,200. 擁有「舒適度能夠跑贏恐龍」的美稱，入手Sam Edelman的平底鞋能夠提高穿著的舒適體驗。這款來自SS25系列的RAYE ..."
+  },
+  {
+   "rank": 8,
+   "url": "https://www.jd.com/phb/117292c7ced15e9d99c5a.html",
+   "title": "女式凉鞋品牌排行榜 - 京东",
+   "snippet": "卡骆驰（CROCS）贝雅洞洞鞋男鞋女鞋轻便耐磨一脚蹬拖鞋休闲鞋百搭花园鞋|10126 黑色-001 43 (270mm). 50000人好评. 夏天马上到了，这个经典款太值得留了，自己穿或者送人都 ..."
+  },
+  {
+   "rank": 9,
+   "url": "https://www.vogue.com.tw/article/best-sandal-brands",
+   "title": "夏季涼鞋全攻略！12個最值得你投資的品牌涼鞋，從高奢至中價位均有",
+   "snippet": "夏季涼鞋全攻略！12個最值得你投資的品牌涼鞋，從高奢至中價位均有 · 古希臘涼鞋 · 勃肯鞋 · A.Emery · The Row · ATP Atelier · Jimmy Choo · Arket · St. Agni."
+  },
+  {
+   "rank": 10,
+   "url": "https://shipgo17.com/website/news_detailed/1/9/386",
+   "title": "【2024 夏季涼鞋推薦】KEEN、Birkenstock、Fitflop…精選6 大熱門 ...",
+   "snippet": "image source：Keen、TEVA、Fitflop、CROCS、Birkenstock、Dr. Martens. 夏天就是涼鞋的季節！除了日常潮流穿搭，還有機能性款式，方便你爬山、健行或是夏 ..."
+  }
+ ]
+}
