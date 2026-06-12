@@ -1,5 +1,7 @@
 # FORGE: Fake Online Recommendations in Generative Environments
 
+[![arXiv](https://img.shields.io/badge/arXiv-2606.13610-b31b1b.svg)](https://arxiv.org/abs/2606.13610)
+
 A benchmark for measuring whether **search-augmented LLMs recommend fake brands when their
 retrieval evidence is poisoned**. 225 Chinese product queries across 15 categories,
 evaluated on 12 production LLMs.
