@@ -122,7 +122,7 @@ Higher fooled rate = **more vulnerable**.
 @article{luo2026forge,
   title   = {One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders},
   author  = {Luo, Minghao and Chen, Liang},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2606.13610},
   year    = {2026}
 }
 ```
