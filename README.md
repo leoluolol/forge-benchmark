@@ -1,13 +1,14 @@
 # FORGE: Fake Online Recommendations in Generative Environments
 
 [![arXiv](https://img.shields.io/badge/arXiv-2606.13610-b31b1b.svg)](https://arxiv.org/abs/2606.13610)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-FORGE-yellow.svg)](https://huggingface.co/datasets/leoluo25933/forge-benchmark)
 
 A benchmark for measuring whether **search-augmented LLMs recommend fake brands when their
 retrieval evidence is poisoned**. 225 Chinese product queries across 15 categories,
 evaluated on 12 production LLMs.
 
 Accompanies the paper *One Polluted Page Is Enough: Evaluating Web Content Pollution in
-Generative Recommenders* (Luo & Chen, 2026).
+LLM Recommenders* (Luo & Chen, 2026). Accepted to EMNLP 2026 Findings.
 
 ## What's in this release
 
@@ -39,6 +40,8 @@ forge.rec("...岚格手机性价比很高...", fake_brand="岚格手机", prefix
 ```
 
 ## Data
+
+The dataset is also available on [Hugging Face](https://huggingface.co/datasets/leoluo25933/forge-benchmark).
 
 `data/forge_queries.jsonl` — one product per line:
 ```json

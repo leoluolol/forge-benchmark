@@ -10,7 +10,7 @@ repository-code: "https://github.com/leoluolol/forge-benchmark"
 license: MIT
 preferred-citation:
   type: article
-  title: "One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders"
+  title: "One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders"
   authors:
     - family-names: Luo
       given-names: Minghao
@@ -18,3 +18,10 @@ preferred-citation:
       given-names: Liang
   year: 2026
   journal: "arXiv preprint arXiv:2606.13610"
+  doi: "10.48550/arXiv.2606.13610"
+  url: "https://arxiv.org/abs/2606.13610"
+  identifiers:
+    - type: other
+      value: "arXiv:2606.13610"
+      description: "arXiv preprint"
+  notes: "Accepted to EMNLP 2026 Findings."
